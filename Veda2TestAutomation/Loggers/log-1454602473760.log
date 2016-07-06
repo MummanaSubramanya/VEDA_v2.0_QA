@@ -1,0 +1,17 @@
+2016-02-04 21:44:39 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-04 21:44:39 INFO  Elements:47 - The textveda.checker has been inputted successfully.
+2016-02-04 21:44:39 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-04 21:44:39 INFO  Elements:47 - The textViteos321 has been inputted successfully.
+2016-02-04 21:44:42 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-04 21:44:42 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-04 21:44:47 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] is visible after waiting.
+2016-02-04 21:44:47 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] is visible
+2016-02-04 21:44:49 INFO  Elements:81 - The button By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] has been clicked successfully
+2016-02-04 21:44:55 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-02-04 21:44:55 INFO  Elements:94 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-02-04 21:44:55 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-02-04 21:44:55 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-02-04 21:44:55 INFO  Elements:47 - The textTR00000027 has been inputted successfully.
+2016-02-04 21:44:55 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TR00000027'] is visible after waiting.
+2016-02-04 21:45:05 INFO  Elements:94 - The element By.xpath: //div[1]/div[1]//a[text()='TR00000027'] has been clicked successfully
+2016-02-04 21:45:41 INFO  Elements:94 - The element By.id: approveInvestor has been clicked successfully

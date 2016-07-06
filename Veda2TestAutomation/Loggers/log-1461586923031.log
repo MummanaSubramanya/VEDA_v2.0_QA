@@ -1,0 +1,23 @@
+2016-04-25 17:52:08 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-25 17:52:08 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-04-25 17:52:08 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-25 17:52:08 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-25 17:52:39 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-25 17:52:39 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-25 17:52:39 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-25 17:52:39 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-25 17:52:39 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-25 17:52:39 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-25 17:52:39 INFO  Elements:48 - The textTRA1219 has been inputted successfully.
+2016-04-25 17:52:49 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TRA1219'] is not present after waiting 10 secs.
+2016-04-25 17:52:51 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-25 17:52:51 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-25 17:52:51 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-25 17:52:51 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-25 17:52:51 INFO  Elements:48 - The textTRA1219 has been inputted successfully.
+2016-04-25 17:53:01 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TRA1219'] is not present after waiting 10 secs.
+2016-04-25 17:53:04 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-25 17:53:04 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-25 17:53:04 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-25 17:53:04 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-25 17:53:04 INFO  Elements:48 - The textTRA1219 has been inputted successfully.

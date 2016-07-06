@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><TradeTypeREDDetails>
+	<TradeTypeRED CheckerStatus="Pass" MakerStatus="Pass" TestcaseName="Redemption_Tc9" TransactionID="TRA0005"/>
+	<TradeTypeRED CheckerStatus="Pass" MakerStatus="Pass" TestcaseName="DemoRedemption_TC1" TransactionID="TRA0007"/>
+<TradeTypeRED CheckerStatus="Pass" MakerStatus="Pass" TestcaseName="Belmount_RED_1" TransactionID="TRA0008"/><TradeTypeRED CheckerStatus="Pass" MakerStatus="Pass" TestcaseName="Belmount_RED_2" TransactionID="TRA0009"/><TradeTypeRED CheckerStatus="Pass" MakerStatus="Pass" TestcaseName="Belmount_RED_3" TransactionID="TRA0010"/><TradeTypeRED CheckerStatus="None" MakerStatus="Pass" TestcaseName="New_Redemption_2" TransactionID="TRA0015"/><TradeTypeRED CheckerStatus="None" MakerStatus="Pass" TestcaseName="New_Redemption_5" TransactionID="TRA0016"/></TradeTypeREDDetails>

@@ -1,0 +1,105 @@
+2016-01-30 00:09:10 INFO  Verify:23 - Element By.id: j_username is visible
+2016-01-30 00:09:10 INFO  Elements:47 - The textconsultant18 has been inputted successfully.
+2016-01-30 00:09:10 INFO  Verify:23 - Element By.id: j_password is visible
+2016-01-30 00:09:10 INFO  Elements:47 - The texttenx@321 has been inputted successfully.
+2016-01-30 00:09:11 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-01-30 00:09:42 WARN  Wait:43 - element By.xpath: //p[contains(text(),'Dashboard')] is not present after waiting 30 secs.
+2016-01-30 00:09:42 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is visible after waiting.
+2016-01-30 00:09:42 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is visible
+2016-01-30 00:09:42 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is visible and can be used
+2016-01-30 00:09:42 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] has been performed successfully.
+2016-01-30 00:09:42 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-01-30 00:09:43 INFO  Elements:94 - The element By.xpath: //a[contains(text(),'Fund Setup')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Series'] has been clicked successfully
+2016-01-30 00:09:43 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Series'] is visible after waiting.
+2016-01-30 00:09:43 INFO  Elements:94 - The element By.xpath: //label[normalize-space(text())='Legal Entity Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-01-30 00:09:43 INFO  Wait:23 - element By.xpath: //select[@id='cmbFundName'] is present after waiting.
+2016-01-30 00:09:43 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option is visible
+2016-01-30 00:09:43 INFO  Elements:31 - The xpath count of the element By.xpath: //select[@id='cmbFundName']/option is 4
+2016-01-30 00:09:43 WARN  Verify:27 - Element By.xpath: //select[@id='cmbFundName']/option1 is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='cmbFundName']/option1"}
+  (Session info: chrome=48.0.2564.97)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir7944_8201}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.97, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 836158740436def90bf6203f4d59a671
+*** Element info: {Using=xpath, value=//select[@id='cmbFundName']/option1}
+2016-01-30 00:09:43 WARN  Elements:196 - The text from the element By.xpath: //select[@id='cmbFundName']/option1 cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='cmbFundName']/option1"}
+  (Session info: chrome=48.0.2564.97)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir7944_8201}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.97, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 836158740436def90bf6203f4d59a671
+*** Element info: {Using=xpath, value=//select[@id='cmbFundName']/option1}
+2016-01-30 00:09:43 WARN  Verify:27 - Element By.xpath: //select[@id='cmbFundName']/option2 is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='cmbFundName']/option2"}
+  (Session info: chrome=48.0.2564.97)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir7944_8201}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.97, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 836158740436def90bf6203f4d59a671
+*** Element info: {Using=xpath, value=//select[@id='cmbFundName']/option2}
+2016-01-30 00:09:43 WARN  Elements:196 - The text from the element By.xpath: //select[@id='cmbFundName']/option2 cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='cmbFundName']/option2"}
+  (Session info: chrome=48.0.2564.97)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir7944_8201}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.97, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 836158740436def90bf6203f4d59a671
+*** Element info: {Using=xpath, value=//select[@id='cmbFundName']/option2}
+2016-01-30 00:09:43 WARN  Verify:27 - Element By.xpath: //select[@id='cmbFundName']/option3 is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='cmbFundName']/option3"}
+  (Session info: chrome=48.0.2564.97)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir7944_8201}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.97, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 836158740436def90bf6203f4d59a671
+*** Element info: {Using=xpath, value=//select[@id='cmbFundName']/option3}
+2016-01-30 00:09:43 WARN  Elements:196 - The text from the element By.xpath: //select[@id='cmbFundName']/option3 cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='cmbFundName']/option3"}
+  (Session info: chrome=48.0.2564.97)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir7944_8201}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.97, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 836158740436def90bf6203f4d59a671
+*** Element info: {Using=xpath, value=//select[@id='cmbFundName']/option3}
+2016-01-30 00:09:43 WARN  Verify:27 - Element By.xpath: //select[@id='cmbFundName']/option4 is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='cmbFundName']/option4"}
+  (Session info: chrome=48.0.2564.97)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir7944_8201}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.97, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 836158740436def90bf6203f4d59a671
+*** Element info: {Using=xpath, value=//select[@id='cmbFundName']/option4}
+2016-01-30 00:09:43 WARN  Elements:196 - The text from the element By.xpath: //select[@id='cmbFundName']/option4 cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='cmbFundName']/option4"}
+  (Session info: chrome=48.0.2564.97)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir7944_8201}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.97, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 836158740436def90bf6203f4d59a671
+*** Element info: {Using=xpath, value=//select[@id='cmbFundName']/option4}

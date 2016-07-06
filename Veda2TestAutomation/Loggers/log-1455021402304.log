@@ -1,0 +1,32 @@
+2016-02-09 18:06:47 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-09 18:06:47 INFO  Elements:47 - The textveda.checker has been inputted successfully.
+2016-02-09 18:06:47 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-09 18:06:47 INFO  Elements:47 - The textViteos321 has been inputted successfully.
+2016-02-09 18:06:49 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-09 18:06:49 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-09 18:06:50 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-02-09 18:06:50 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-02-09 18:06:50 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-02-09 18:06:50 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-02-09 18:06:50 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-09 18:06:52 INFO  Elements:94 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Opening Balance'] has been clicked successfully
+2016-02-09 18:06:52 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Opening Balance'] is visible after waiting.
+2016-02-09 18:06:52 INFO  Elements:94 - The element By.xpath: //label[normalize-space(text())='Legal Entity Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-09 18:06:52 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] is visible after waiting.
+2016-02-09 18:06:52 INFO  Elements:94 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] has been clicked successfully
+2016-02-09 18:06:52 INFO  Elements:94 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-09 18:06:52 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='inactive'] is visible after waiting.
+2016-02-09 18:06:52 INFO  Elements:94 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='inactive'] has been clicked successfully
+2016-02-09 18:06:52 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-02-09 18:06:52 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-02-09 18:06:52 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-02-09 18:06:52 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-02-09 18:06:52 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-09 18:06:54 INFO  Elements:94 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Opening Balance'] has been clicked successfully
+2016-02-09 18:06:54 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Opening Balance'] is visible after waiting.
+2016-02-09 18:06:54 INFO  Elements:94 - The element By.xpath: //label[normalize-space(text())='Legal Entity Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-09 18:06:54 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] is visible after waiting.
+2016-02-09 18:06:54 INFO  Elements:94 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] has been clicked successfully
+2016-02-09 18:06:54 INFO  Elements:94 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-09 18:06:54 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='inactive'] is visible after waiting.
+2016-02-09 18:06:54 INFO  Elements:94 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='inactive'] has been clicked successfully

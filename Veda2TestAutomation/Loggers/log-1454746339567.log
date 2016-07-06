@@ -1,0 +1,5 @@
+2016-02-06 13:42:24 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-06 13:42:24 INFO  Elements:47 - The textveda.checker has been inputted successfully.
+2016-02-06 13:42:24 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-06 13:42:24 INFO  Elements:47 - The textViteos321 has been inputted successfully.
+2016-02-06 13:42:25 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully

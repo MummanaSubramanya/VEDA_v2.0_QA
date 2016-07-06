@@ -1,0 +1,310 @@
+2016-02-19 15:47:45 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-19 15:47:46 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-02-19 15:47:46 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-19 15:47:46 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-19 15:47:46 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-19 15:48:05 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-19 15:48:15 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible after waiting.
+2016-02-19 15:48:15 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 15:48:15 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 15:48:15 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 15:48:15 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-19 15:48:16 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='User - Role'] has been clicked successfully
+2016-02-19 15:48:16 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='User'] is visible after waiting.
+2016-02-19 15:48:16 INFO  Wait:23 - element By.xpath: //div[@id='createUserLoader' and contains(@style , 'display: none')] is present after waiting.
+2016-02-19 15:48:16 INFO  Wait:23 - element By.xpath: //div[@id='createRoleLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 15:48:16 INFO  Wait:23 - element By.xpath: //div[@id='createGroupLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 15:48:16 INFO  Wait:39 - element By.xpath: //li[contains(text(), 'User')] is visible after waiting.
+2016-02-19 15:48:16 INFO  Elements:100 - The element By.xpath: //span[normalize-space(text())='Role']/../following-sibling::div[1]/a has been clicked successfully
+2016-02-19 15:48:16 INFO  Wait:39 - element By.xpath: //li[text()='Role'] is visible after waiting.
+2016-02-19 15:48:16 INFO  Wait:39 - element By.xpath: //li[text()='Role'] is visible after waiting.
+2016-02-19 15:48:16 INFO  Verify:23 - Element By.id: roleCode is visible
+2016-02-19 15:48:16 INFO  Elements:48 - The textRoleRC1 has been inputted successfully.
+2016-02-19 15:48:19 INFO  Verify:23 - Element By.id: roleDescription is visible
+2016-02-19 15:48:19 INFO  Elements:48 - The textRoleRD1 has been inputted successfully.
+2016-02-19 15:48:28 INFO  Wait:39 - element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible after waiting.
+2016-02-19 15:48:28 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible
+2016-02-19 15:48:28 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is 62
+2016-02-19 15:48:28 WARN  Verify:27 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:48:28 WARN  Elements:202 - The text from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:48:28 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is visible
+2016-02-19 15:48:28 WARN  Elements:198 - The text   DashBoard from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is retrieved
+2016-02-19 15:48:33 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1] has been clicked successfully
+2016-02-19 15:48:48 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[2]//input has been clicked successfully
+2016-02-19 15:48:48 INFO  Verify:35 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[2]//input is present in DOM
+2016-02-19 15:48:48 WARN  Elements:177 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[2]//input has no attribute disabled
+2016-02-19 15:48:53 INFO  Wait:39 - element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible after waiting.
+2016-02-19 15:48:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible
+2016-02-19 15:48:53 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is 62
+2016-02-19 15:48:53 WARN  Verify:27 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:48:53 WARN  Elements:202 - The text from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:48:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is visible
+2016-02-19 15:48:54 WARN  Elements:198 - The text   DashBoard from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is retrieved
+2016-02-19 15:48:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is visible
+2016-02-19 15:48:54 WARN  Elements:198 - The text   Client from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is retrieved
+2016-02-19 15:48:54 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2] has been clicked successfully
+2016-02-19 15:48:54 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[2]//input has been clicked successfully
+2016-02-19 15:48:55 INFO  Verify:35 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[2]//input is present in DOM
+2016-02-19 15:48:55 WARN  Elements:177 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[2]//input has no attribute disabled
+2016-02-19 15:48:55 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[4]//input has been clicked successfully
+2016-02-19 15:48:55 INFO  Verify:35 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[4]//input is present in DOM
+2016-02-19 15:48:55 WARN  Elements:177 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[4]//input has no attribute disabled
+2016-02-19 15:48:56 INFO  Wait:39 - element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible after waiting.
+2016-02-19 15:48:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible
+2016-02-19 15:48:56 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is 62
+2016-02-19 15:48:56 WARN  Verify:27 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:48:56 WARN  Elements:202 - The text from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:48:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is visible
+2016-02-19 15:48:56 WARN  Elements:198 - The text   DashBoard from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is retrieved
+2016-02-19 15:48:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is visible
+2016-02-19 15:48:57 WARN  Elements:198 - The text   Client from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is retrieved
+2016-02-19 15:48:57 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is visible
+2016-02-19 15:48:57 WARN  Elements:198 - The text   Fund Family from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is retrieved
+2016-02-19 15:48:57 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3] has been clicked successfully
+2016-02-19 15:48:58 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[2]//input has been clicked successfully
+2016-02-19 15:48:58 INFO  Verify:35 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[2]//input is present in DOM
+2016-02-19 15:48:58 WARN  Elements:177 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[2]//input has no attribute disabled
+2016-02-19 15:48:58 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[4]//input has been clicked successfully
+2016-02-19 15:48:58 INFO  Verify:35 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[4]//input is present in DOM
+2016-02-19 15:48:58 WARN  Elements:177 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[4]//input has no attribute disabled
+2016-02-19 15:49:04 INFO  Wait:39 - element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible after waiting.
+2016-02-19 15:49:04 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible
+2016-02-19 15:49:04 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is 62
+2016-02-19 15:49:05 WARN  Verify:27 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:49:05 WARN  Elements:202 - The text from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:49:05 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is visible
+2016-02-19 15:49:05 WARN  Elements:198 - The text   DashBoard from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is retrieved
+2016-02-19 15:49:05 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is visible
+2016-02-19 15:49:05 WARN  Elements:198 - The text   Client from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is retrieved
+2016-02-19 15:49:05 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is visible
+2016-02-19 15:49:05 WARN  Elements:198 - The text   Fund Family from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is retrieved
+2016-02-19 15:49:05 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[4]/td[1] is visible
+2016-02-19 15:49:05 WARN  Elements:198 - The text   Legal Entity from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[4]/td[1] is retrieved
+2016-02-19 15:49:05 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[5]/td[1] is visible
+2016-02-19 15:49:05 WARN  Elements:198 - The text   Class from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[5]/td[1] is retrieved
+2016-02-19 15:49:05 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[6]/td[1] is visible
+2016-02-19 15:49:05 WARN  Elements:198 - The text   Hierarchy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[6]/td[1] is retrieved
+2016-02-19 15:49:05 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[7]/td[1] is visible
+2016-02-19 15:49:05 WARN  Elements:198 - The text   Administration Location from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[7]/td[1] is retrieved
+2016-02-19 15:49:06 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[8]/td[1] is visible
+2016-02-19 15:49:06 WARN  Elements:198 - The text   Custodian Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[8]/td[1] is retrieved
+2016-02-19 15:49:06 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[9]/td[1] is visible
+2016-02-19 15:49:06 WARN  Elements:198 - The text   Custodian Account from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[9]/td[1] is retrieved
+2016-02-19 15:49:06 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[10]/td[1] is visible
+2016-02-19 15:49:06 WARN  Elements:198 - The text   Proof Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[10]/td[1] is retrieved
+2016-02-19 15:49:06 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[11]/td[1] is visible
+2016-02-19 15:49:06 WARN  Elements:198 - The text   Geneva Account Head from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[11]/td[1] is retrieved
+2016-02-19 15:49:06 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[12]/td[1] is visible
+2016-02-19 15:49:06 WARN  Elements:198 - The text   Geneva Account Type from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[12]/td[1] is retrieved
+2016-02-19 15:49:06 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[13]/td[1] is visible
+2016-02-19 15:49:06 WARN  Elements:198 - The text   Designation from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[13]/td[1] is retrieved
+2016-02-19 15:49:06 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[14]/td[1] is visible
+2016-02-19 15:49:07 WARN  Elements:198 - The text   Index Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[14]/td[1] is retrieved
+2016-02-19 15:49:07 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[15]/td[1] is visible
+2016-02-19 15:49:07 WARN  Elements:198 - The text   Index Value Mapping from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[15]/td[1] is retrieved
+2016-02-19 15:49:07 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[16]/td[1] is visible
+2016-02-19 15:49:07 WARN  Elements:198 - The text   Strategy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[16]/td[1] is retrieved
+2016-02-19 15:49:07 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[17]/td[1] is visible
+2016-02-19 15:49:07 WARN  Elements:198 - The text   Formula from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[17]/td[1] is retrieved
+2016-02-19 15:49:07 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[18]/td[1] is visible
+2016-02-19 15:49:07 WARN  Elements:198 - The text   Currency from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[18]/td[1] is retrieved
+2016-02-19 15:49:07 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[19]/td[1] is visible
+2016-02-19 15:49:07 WARN  Elements:198 - The text   Country from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[19]/td[1] is retrieved
+2016-02-19 15:49:07 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[20]/td[1] is visible
+2016-02-19 15:49:07 WARN  Elements:198 - The text   Parameter from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[20]/td[1] is retrieved
+2016-02-19 15:49:07 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[21]/td[1] is visible
+2016-02-19 15:49:08 WARN  Elements:198 - The text   Master Dashboard Maker from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[21]/td[1] is retrieved
+2016-02-19 15:49:08 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[22]/td[1] is visible
+2016-02-19 15:49:08 WARN  Elements:198 - The text   Master Dasjboard Checker from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[22]/td[1] is retrieved
+2016-02-19 15:49:08 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[23]/td[1] is visible
+2016-02-19 15:49:08 WARN  Elements:198 - The text   Investor from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[23]/td[1] is retrieved
+2016-02-19 15:49:08 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[24]/td[1] is visible
+2016-02-19 15:49:08 WARN  Elements:198 - The text   Investor Holder from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[24]/td[1] is retrieved
+2016-02-19 15:49:08 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[25]/td[1] is visible
+2016-02-19 15:49:08 WARN  Elements:198 - The text   Investor Account from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[25]/td[1] is retrieved
+2016-02-19 15:49:08 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[1] is visible
+2016-02-19 15:49:08 WARN  Elements:198 - The text   Subscription from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[1] is retrieved
+2016-02-19 15:49:37 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26] has been clicked successfully
+2016-02-19 15:49:47 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[3]//input has been clicked successfully
+2016-02-19 15:49:48 INFO  Verify:35 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[3]//input is present in DOM
+2016-02-19 15:49:48 WARN  Elements:177 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[3]//input has no attribute disabled
+2016-02-19 15:49:52 INFO  Wait:39 - element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible after waiting.
+2016-02-19 15:49:52 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible
+2016-02-19 15:49:52 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is 62
+2016-02-19 15:49:52 WARN  Verify:27 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 36 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:49:52 WARN  Elements:202 - The text from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 36 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir944_25922}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b42b41bc4564945d7395468002d1d014
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 15:49:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is visible
+2016-02-19 15:49:53 WARN  Elements:198 - The text   DashBoard from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is retrieved
+2016-02-19 15:49:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is visible
+2016-02-19 15:49:53 WARN  Elements:198 - The text   Client from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is retrieved
+2016-02-19 15:49:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is visible
+2016-02-19 15:49:53 WARN  Elements:198 - The text   Fund Family from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is retrieved
+2016-02-19 15:49:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[4]/td[1] is visible
+2016-02-19 15:49:53 WARN  Elements:198 - The text   Legal Entity from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[4]/td[1] is retrieved
+2016-02-19 15:49:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[5]/td[1] is visible
+2016-02-19 15:49:53 WARN  Elements:198 - The text   Class from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[5]/td[1] is retrieved
+2016-02-19 15:49:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[6]/td[1] is visible
+2016-02-19 15:49:53 WARN  Elements:198 - The text   Hierarchy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[6]/td[1] is retrieved
+2016-02-19 15:49:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[7]/td[1] is visible
+2016-02-19 15:49:54 WARN  Elements:198 - The text   Administration Location from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[7]/td[1] is retrieved
+2016-02-19 15:49:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[8]/td[1] is visible
+2016-02-19 15:49:54 WARN  Elements:198 - The text   Custodian Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[8]/td[1] is retrieved
+2016-02-19 15:49:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[9]/td[1] is visible
+2016-02-19 15:49:54 WARN  Elements:198 - The text   Custodian Account from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[9]/td[1] is retrieved
+2016-02-19 15:49:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[10]/td[1] is visible
+2016-02-19 15:49:54 WARN  Elements:198 - The text   Proof Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[10]/td[1] is retrieved
+2016-02-19 15:49:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[11]/td[1] is visible
+2016-02-19 15:49:54 WARN  Elements:198 - The text   Geneva Account Head from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[11]/td[1] is retrieved
+2016-02-19 15:49:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[12]/td[1] is visible
+2016-02-19 15:49:54 WARN  Elements:198 - The text   Geneva Account Type from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[12]/td[1] is retrieved
+2016-02-19 15:49:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[13]/td[1] is visible
+2016-02-19 15:49:55 WARN  Elements:198 - The text   Designation from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[13]/td[1] is retrieved
+2016-02-19 15:49:55 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[14]/td[1] is visible
+2016-02-19 15:49:55 WARN  Elements:198 - The text   Index Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[14]/td[1] is retrieved
+2016-02-19 15:49:55 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[15]/td[1] is visible
+2016-02-19 15:49:55 WARN  Elements:198 - The text   Index Value Mapping from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[15]/td[1] is retrieved
+2016-02-19 15:49:55 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[16]/td[1] is visible
+2016-02-19 15:49:55 WARN  Elements:198 - The text   Strategy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[16]/td[1] is retrieved
+2016-02-19 15:49:55 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[17]/td[1] is visible
+2016-02-19 15:49:55 WARN  Elements:198 - The text   Formula from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[17]/td[1] is retrieved
+2016-02-19 15:49:55 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[18]/td[1] is visible
+2016-02-19 15:49:55 WARN  Elements:198 - The text   Currency from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[18]/td[1] is retrieved
+2016-02-19 15:49:55 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[19]/td[1] is visible
+2016-02-19 15:49:55 WARN  Elements:198 - The text   Country from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[19]/td[1] is retrieved
+2016-02-19 15:49:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[20]/td[1] is visible
+2016-02-19 15:49:56 WARN  Elements:198 - The text   Parameter from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[20]/td[1] is retrieved
+2016-02-19 15:49:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[21]/td[1] is visible
+2016-02-19 15:49:56 WARN  Elements:198 - The text   Master Dashboard Maker from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[21]/td[1] is retrieved
+2016-02-19 15:49:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[22]/td[1] is visible
+2016-02-19 15:49:56 WARN  Elements:198 - The text   Master Dasjboard Checker from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[22]/td[1] is retrieved
+2016-02-19 15:49:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[23]/td[1] is visible
+2016-02-19 15:49:56 WARN  Elements:198 - The text   Investor from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[23]/td[1] is retrieved
+2016-02-19 15:49:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[24]/td[1] is visible
+2016-02-19 15:49:56 WARN  Elements:198 - The text   Investor Holder from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[24]/td[1] is retrieved
+2016-02-19 15:49:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[25]/td[1] is visible
+2016-02-19 15:49:56 WARN  Elements:198 - The text   Investor Account from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[25]/td[1] is retrieved
+2016-02-19 15:49:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[1] is visible
+2016-02-19 15:49:57 WARN  Elements:198 - The text   Subscription from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[1] is retrieved
+2016-02-19 15:49:57 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27]/td[1] is visible
+2016-02-19 15:49:57 WARN  Elements:198 - The text   Redemption from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27]/td[1] is retrieved
+2016-02-19 15:49:57 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27] has been clicked successfully
+2016-02-19 15:49:58 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27]/td[3]//input has been clicked successfully
+2016-02-19 15:49:58 INFO  Verify:35 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27]/td[3]//input is present in DOM
+2016-02-19 15:49:58 WARN  Elements:177 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27]/td[3]//input has no attribute disabled
+2016-02-19 15:51:35 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv' and contains(@style , 'display: block')]//button[contains(normalize-space(),'Save')] has been clicked successfully
+2016-02-19 15:51:36 INFO  Wait:23 - element By.xpath: //body[@class='page-header-fixed page-quick-sidebar-over-content page-sidebar-closed'] is present after waiting.
+2016-02-19 15:51:36 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-19 15:51:36 INFO  Elements:100 - The element By.xpath: //div[@class='alert alert-success']//button has been clicked successfully
+2016-02-19 15:56:53 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible after waiting.
+2016-02-19 15:56:53 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 15:56:53 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 15:56:53 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 15:57:04 WARN  Wait:43 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is not present after waiting 10 secs.
+2016-02-19 15:57:05 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 15:57:05 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 15:57:05 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 15:57:15 WARN  Wait:43 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is not present after waiting 10 secs.
+2016-02-19 15:57:16 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 15:57:16 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 15:57:16 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 15:57:26 WARN  Wait:43 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is not present after waiting 10 secs.

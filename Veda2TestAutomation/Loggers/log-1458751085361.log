@@ -1,0 +1,105 @@
+2016-03-23 22:08:10 INFO  Verify:23 - Element By.id: j_username is visible
+2016-03-23 22:08:10 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-03-23 22:08:10 INFO  Verify:23 - Element By.id: j_password is visible
+2016-03-23 22:08:10 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-03-23 22:08:12 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-03-23 22:08:12 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-03-23 22:08:14 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')] is visible after waiting.
+2016-03-23 22:08:14 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')] is visible
+2016-03-23 22:08:14 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')] is visible and can be used
+2016-03-23 22:08:15 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')] has been performed successfully.
+2016-03-23 22:08:15 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-03-23 22:08:15 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'FUND SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Class'] has been clicked successfully
+2016-03-23 22:08:15 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Class'] is visible after waiting.
+2016-03-23 22:08:16 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-03-23 22:08:18 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-03-23 22:08:18 INFO  Wait:39 - element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] is visible after waiting.
+2016-03-23 22:08:18 INFO  Elements:100 - The element By.id: rdIsSidePocketClassNo has been clicked successfully
+2016-03-23 22:08:18 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 22:08:18 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_Client" or text()="Viteos_Client"] is visible after waiting.
+2016-03-23 22:08:18 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_Client" or text()="Viteos_Client"] has been clicked successfully
+2016-03-23 22:08:19 INFO  Wait:39 - element By.xpath: //div[@id='s2id_cmbFundFamilyName']//span[contains(@id,'select2-chosen')] is visible after waiting.
+2016-03-23 22:08:19 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundFamilyName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 22:08:19 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_FundFamily" or text()="Viteos_FundFamily"] is visible after waiting.
+2016-03-23 22:08:19 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_FundFamily" or text()="Viteos_FundFamily"] has been clicked successfully
+2016-03-23 22:08:19 INFO  Wait:39 - element By.xpath: //div[@id='s2id_cmbFundName']//span[contains(@id,'select2-chosen')] is visible after waiting.
+2016-03-23 22:08:19 WARN  Elements:106 - The element By.xpath: //div[@id='s2id_cmbFundName']//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (443, 339). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.87)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 43 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.174.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir1520_11025}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3a1d2c8c50d6f27a3c69eccfa623fc47
+2016-03-23 22:08:21 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 22:08:21 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_Account_Feeder_02" or text()="Viteos_Account_Feeder_02"] is visible after waiting.
+2016-03-23 22:08:24 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_Account_Feeder_02" or text()="Viteos_Account_Feeder_02"] has been clicked successfully
+2016-03-23 22:08:24 INFO  Verify:23 - Element By.id: className is visible
+2016-03-23 22:08:24 INFO  Elements:48 - The textViteos_Class_Sub_01 has been inputted successfully.
+2016-03-23 22:08:24 INFO  Verify:23 - Element By.id: classCode is visible
+2016-03-23 22:08:24 INFO  Elements:48 - The textVC01 has been inputted successfully.
+2016-03-23 22:08:24 INFO  Elements:100 - The element By.id: isCloneNo has been clicked successfully
+2016-03-23 22:08:27 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investmentStrategy']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 22:08:27 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="CMF STRATEGY" or text()="CMF STRATEGY"] is visible after waiting.
+2016-03-23 22:08:30 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="CMF STRATEGY" or text()="CMF STRATEGY"] has been clicked successfully
+2016-03-23 22:08:30 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_classCurrency']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 22:08:30 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="United States Dollar" or text()="United States Dollar"] is visible after waiting.
+2016-03-23 22:08:30 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="United States Dollar" or text()="United States Dollar"] has been clicked successfully
+2016-03-23 22:08:30 INFO  Verify:23 - Element By.id: externalId1 is visible
+2016-03-23 22:08:30 INFO  Elements:48 - The textExternal Id1 has been inputted successfully.
+2016-03-23 22:08:30 INFO  Verify:23 - Element By.id: externalId2 is visible
+2016-03-23 22:08:30 INFO  Elements:48 - The textExternal Id1 has been inputted successfully.
+2016-03-23 22:08:30 INFO  Verify:23 - Element By.id: externalId3 is visible
+2016-03-23 22:08:31 INFO  Elements:48 - The textExternal Id1 has been inputted successfully.
+2016-03-23 22:08:31 INFO  Elements:100 - The element By.xpath: //ul[@class='nav nav-tabs']//a[contains(text(),'General Details')] has been clicked successfully
+2016-03-23 22:08:31 INFO  Wait:39 - element By.xpath: //div[@id='s2id_fkClassType']//span[contains(@id,'select2-chosen')] is visible after waiting.
+2016-03-23 22:08:32 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fkClassType']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 22:08:32 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Unitized'] is visible after waiting.
+2016-03-23 22:08:32 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Unitized'] has been clicked successfully
+2016-03-23 22:08:32 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_unitDescription']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 22:08:32 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Shares" or text()="Shares"] is visible after waiting.
+2016-03-23 22:08:32 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Shares" or text()="Shares"] has been clicked successfully
+2016-03-23 22:08:32 INFO  Verify:23 - Element By.id: unitValue is visible
+2016-03-23 22:08:32 INFO  Elements:48 - The text100 has been inputted successfully.
+2016-03-23 22:08:32 INFO  Elements:100 - The element By.id: rdIsVotingSharesNo has been clicked successfully
+2016-03-23 22:08:32 INFO  Elements:100 - The element By.id: rdIsIssuedInSeriesYes has been clicked successfully
+2016-03-23 22:08:33 INFO  Verify:23 - Element By.id: initialOfferingPrice is visible
+2016-03-23 22:08:33 INFO  Elements:48 - The text1000 has been inputted successfully.
+2016-03-23 22:08:33 INFO  Verify:23 - Element By.id: initalOfferingDate is visible
+2016-03-23 22:08:33 INFO  Elements:48 - The text01/01/2016 has been inputted successfully.
+2016-03-23 22:08:33 INFO  Elements:100 - The element By.xpath: //h4//p[contains(text(),'Class')] has been clicked successfully
+2016-03-23 22:08:33 INFO  Elements:100 - The element By.id: deMinimusYes has been clicked successfully
+2016-03-23 22:08:33 INFO  Elements:100 - The element By.xpath: //ul[@class='nav nav-tabs']//a[contains(text(),'Other Details')] has been clicked successfully
+2016-03-23 22:08:41 INFO  Wait:39 - element By.id: shareDecimalsForCalculationsClass is visible after waiting.
+2016-03-23 22:08:43 INFO  Verify:23 - Element By.id: shareDecimalsForCalculationsClass is visible
+2016-03-23 22:08:43 INFO  Elements:48 - The text2 has been inputted successfully.
+2016-03-23 22:08:45 INFO  Verify:23 - Element By.id: shareDecimalsDisplayClass is visible
+2016-03-23 22:08:45 INFO  Elements:48 - The text3 has been inputted successfully.
+2016-03-23 22:08:47 INFO  Verify:23 - Element By.id: navDecimalsForCalculationClass is visible
+2016-03-23 22:08:47 INFO  Elements:48 - The text4 has been inputted successfully.
+2016-03-23 22:08:49 INFO  Verify:23 - Element By.id: navDecimalsDisplayClass is visible
+2016-03-23 22:08:49 INFO  Elements:48 - The text5 has been inputted successfully.
+2016-03-23 22:08:54 INFO  Elements:100 - The element By.id: rdIsDividendIntendedNo has been clicked successfully
+2016-03-23 22:08:57 INFO  Elements:100 - The element By.id: rbIsTradingRestrictionsApplicableYes has been clicked successfully
+2016-03-23 22:09:02 INFO  Elements:100 - The element By.xpath: //select[@id='tradResLog_0']//parent::div//span[contains(@id,'select2')] has been clicked successfully
+2016-03-23 22:09:02 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Subscription" or text()="Subscription"] is visible after waiting.
+2016-03-23 22:09:02 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Subscription" or text()="Subscription"] has been clicked successfully
+2016-03-23 22:09:02 INFO  Verify:23 - Element By.id: tradingRestrictionsList0fromDateRange0 is visible
+2016-03-23 22:09:03 INFO  Elements:48 - The text04/01/2016 has been inputted successfully.
+2016-03-23 22:09:03 INFO  Verify:23 - Element By.id: tradingRestrictionsList0toDateRange0 is visible
+2016-03-23 22:09:03 INFO  Elements:48 - The text04/10/2016 has been inputted successfully.
+2016-03-23 22:09:03 INFO  Verify:23 - Element By.id: tradingRestrictionsList0.comments is visible
+2016-03-23 22:09:03 INFO  Elements:48 - The textNA has been inputted successfully.
+2016-03-23 22:09:03 WARN  Elements:106 - The element By.id: tradingRestrictionsList0.gatingProvision2 cannot be clicked because no such element: Unable to locate element: {"method":"id","selector":"tradingRestrictionsList0.gatingProvision2"}
+  (Session info: chrome=49.0.2623.87)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 34 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.174.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir1520_11025}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3a1d2c8c50d6f27a3c69eccfa623fc47
+*** Element info: {Using=id, value=tradingRestrictionsList0.gatingProvision2}
+2016-03-23 22:10:05 WARN  Wait:43 - element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] is not present after waiting 30 secs.

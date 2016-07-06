@@ -1,0 +1,51 @@
+2016-02-10 19:26:09 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-10 19:26:09 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-02-10 19:26:09 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-10 19:26:09 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-10 19:26:12 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-10 19:26:12 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-10 19:26:26 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-10 19:26:26 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-10 19:26:28 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-10 19:27:16 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-02-10 19:27:16 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-02-10 19:27:16 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-02-10 19:27:17 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible after waiting.
+2016-02-10 19:27:17 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible
+2016-02-10 19:27:17 INFO  Elements:48 - The textOP00000081 has been inputted successfully.
+2016-02-10 19:27:18 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']/div[1]/div[1]//a[text()='OP00000081'] is visible after waiting.
+2016-02-10 19:27:25 INFO  Elements:100 - The element By.xpath: //div[1]/div[1]//a[text()='OP00000081'] has been clicked successfully
+2016-02-10 19:27:46 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-02-10 19:27:48 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[1] has been clicked successfully
+2016-02-10 19:28:04 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-10 19:28:04 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-10 19:28:06 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-10 19:28:42 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-10 19:28:42 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-10 19:28:44 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-10 19:28:52 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-02-10 19:28:52 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-02-10 19:28:52 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-02-10 19:28:52 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible after waiting.
+2016-02-10 19:28:52 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible
+2016-02-10 19:28:52 INFO  Elements:48 - The textOP00000079 has been inputted successfully.
+2016-02-10 19:28:54 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']/div[1]/div[1]//a[text()='OP00000079'] is visible after waiting.
+2016-02-10 19:28:54 INFO  Elements:100 - The element By.xpath: //div[1]/div[1]//a[text()='OP00000079'] has been clicked successfully
+2016-02-10 19:28:58 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-02-10 19:29:00 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[1] has been clicked successfully
+2016-02-10 19:29:15 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-10 19:29:16 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-10 19:29:17 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-10 19:29:31 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-10 19:29:31 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-10 19:29:32 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-10 19:29:39 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-02-10 19:29:39 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-02-10 19:29:39 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-02-10 19:29:40 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible after waiting.
+2016-02-10 19:29:40 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible
+2016-02-10 19:29:40 INFO  Elements:48 - The textOP00000082 has been inputted successfully.
+2016-02-10 19:29:41 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']/div[1]/div[1]//a[text()='OP00000082'] is visible after waiting.
+2016-02-10 19:29:42 INFO  Elements:100 - The element By.xpath: //div[1]/div[1]//a[text()='OP00000082'] has been clicked successfully
+2016-02-10 19:29:52 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-02-10 19:29:52 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[2] has been clicked successfully

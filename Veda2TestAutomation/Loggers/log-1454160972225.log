@@ -1,0 +1,99 @@
+2016-01-30 19:06:16 INFO  Verify:23 - Element By.id: j_username is visible
+2016-01-30 19:06:16 INFO  Elements:47 - The textveda.checker has been inputted successfully.
+2016-01-30 19:06:17 INFO  Verify:23 - Element By.id: j_password is visible
+2016-01-30 19:06:17 INFO  Elements:47 - The textViteos321 has been inputted successfully.
+2016-01-30 19:06:19 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-01-30 19:06:19 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-01-30 19:06:20 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] is visible after waiting.
+2016-01-30 19:06:20 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] is visible
+2016-01-30 19:06:21 INFO  Elements:81 - The button By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] has been clicked successfully
+2016-01-30 19:06:21 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:06:21 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:06:21 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:06:22 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:06:22 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:06:22 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:06:32 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:06:34 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:06:34 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:06:34 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:06:34 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:06:34 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:06:34 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:06:44 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:06:46 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:06:46 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:06:46 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:06:47 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:06:47 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:06:47 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:06:57 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:06:59 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:06:59 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:06:59 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:06:59 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:06:59 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:06:59 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:07:09 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:07:11 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:07:11 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:07:11 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:07:12 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:07:12 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:07:12 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:07:22 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:07:23 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:07:23 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:07:23 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:07:24 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:07:24 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:07:24 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:07:34 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:07:36 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:07:36 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:07:36 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:07:36 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:07:36 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:07:37 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:07:47 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:07:48 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:07:48 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:07:48 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:07:49 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:07:49 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:07:49 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:07:59 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:08:01 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:08:01 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:08:01 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:08:01 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:08:01 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:08:01 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:08:11 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:08:13 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:08:13 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:08:13 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:08:14 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:08:14 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:08:14 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:08:24 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:08:26 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:08:26 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:08:26 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:08:26 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:08:26 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:08:26 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:08:36 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:08:38 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:08:38 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:08:38 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:08:39 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:08:39 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:08:39 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:08:49 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_Client_Sri1'] is not present after waiting 10 secs.
+2016-01-30 19:08:50 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 19:08:50 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 19:08:50 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 19:08:51 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 19:08:51 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 19:08:51 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.

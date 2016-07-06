@@ -1,0 +1,36 @@
+2016-01-30 22:38:44 INFO  Verify:23 - Element By.id: j_username is visible
+2016-01-30 22:38:44 INFO  Elements:47 - The textveda.checker has been inputted successfully.
+2016-01-30 22:38:44 INFO  Verify:23 - Element By.id: j_password is visible
+2016-01-30 22:38:44 INFO  Elements:47 - The textViteos321 has been inputted successfully.
+2016-01-30 22:38:46 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-01-30 22:38:46 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-01-30 22:43:57 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] is visible after waiting.
+2016-01-30 22:43:57 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] is visible
+2016-01-30 22:43:58 INFO  Elements:81 - The button By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] has been clicked successfully
+2016-01-30 22:45:07 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 22:45:07 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 22:45:07 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 22:45:07 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 22:45:07 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 22:45:07 INFO  Elements:47 - The textViteos_F_Rename_TC39_junkDat_G has been inputted successfully.
+2016-01-30 22:45:18 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_F_Rename_TC39_junkDat_G'] is not present after waiting 10 secs.
+2016-01-30 22:45:20 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 22:45:20 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 22:45:20 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 22:45:20 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 22:45:20 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 22:45:20 INFO  Elements:47 - The textViteos_F_Rename_TC39_junkDat_G has been inputted successfully.
+2016-01-30 22:45:31 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_F_Rename_TC39_junkDat_G'] is not present after waiting 10 secs.
+2016-01-30 22:45:33 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 22:45:33 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 22:45:33 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 22:45:33 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 22:45:33 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 22:45:33 INFO  Elements:47 - The textViteos_F_Rename_TC39_junkDat_G has been inputted successfully.
+2016-01-30 22:45:44 WARN  Wait:43 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()='Viteos_F_Rename_TC39_junkDat_G'] is not present after waiting 10 secs.
+2016-01-30 22:45:45 INFO  Elements:94 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-01-30 22:45:45 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-01-30 22:45:45 INFO  Elements:94 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-01-30 22:45:46 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-01-30 22:45:46 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-01-30 22:45:46 INFO  Elements:47 - The textViteos_F_Rename_TC39_junkDat_G has been inputted successfully.

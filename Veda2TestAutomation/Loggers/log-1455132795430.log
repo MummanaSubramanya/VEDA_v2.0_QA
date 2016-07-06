@@ -1,0 +1,353 @@
+2016-02-11 01:03:20 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-11 01:03:20 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-02-11 01:03:20 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-11 01:03:20 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-11 01:03:31 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-11 01:03:31 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-11 01:03:31 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-02-11 01:03:31 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-02-11 01:03:31 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-02-11 01:03:31 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-02-11 01:03:31 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-11 01:03:33 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Opening Balance'] has been clicked successfully
+2016-02-11 01:03:33 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Opening Balance'] is visible after waiting.
+2016-02-11 01:03:33 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-02-11 01:03:34 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-02-11 01:03:34 INFO  Wait:39 - element By.id: uniform-rdIsInvestor is visible after waiting.
+2016-02-11 01:03:34 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorNameDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:03:34 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Invest_01'] is visible after waiting.
+2016-02-11 01:03:34 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Invest_01'] has been clicked successfully
+2016-02-11 01:03:36 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorHolderListDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:03:36 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='VIT_Holder_Entity'] is visible after waiting.
+2016-02-11 01:03:36 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='VIT_Holder_Entity'] has been clicked successfully
+2016-02-11 01:03:38 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorAccountListDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:03:38 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='AC00000026'] is visible after waiting.
+2016-02-11 01:03:38 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='AC00000026'] has been clicked successfully
+2016-02-11 01:03:41 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:03:41 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] is visible after waiting.
+2016-02-11 01:03:41 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] has been clicked successfully
+2016-02-11 01:03:43 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundFamilyName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:03:43 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] is visible after waiting.
+2016-02-11 01:03:43 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] has been clicked successfully
+2016-02-11 01:03:45 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:03:45 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] is visible after waiting.
+2016-02-11 01:03:45 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] has been clicked successfully
+2016-02-11 01:03:47 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbClassName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:03:47 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Class'] is visible after waiting.
+2016-02-11 01:03:47 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Class'] has been clicked successfully
+2016-02-11 01:03:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Initial Subscription Amount']//following-sibling::input is visible
+2016-02-11 01:03:49 INFO  Elements:48 - The text53000 has been inputted successfully.
+2016-02-11 01:03:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Initial Subscription Date']//following-sibling::div//input is visible
+2016-02-11 01:03:50 INFO  Elements:48 - The text01/01/2010 has been inputted successfully.
+2016-02-11 01:03:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Last Closing Date']//following-sibling::div//input is visible
+2016-02-11 01:03:50 INFO  Elements:48 - The text01/01/2016 has been inputted successfully.
+2016-02-11 01:03:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='High Water Mark']//following-sibling::input is visible
+2016-02-11 01:03:50 INFO  Elements:48 - The text2356 has been inputted successfully.
+2016-02-11 01:03:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Closing NAV']//following-sibling::input is visible
+2016-02-11 01:03:50 INFO  Elements:48 - The text2562 has been inputted successfully.
+2016-02-11 01:03:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Closing Units']//following-sibling::input is visible
+2016-02-11 01:03:50 INFO  Elements:48 - The text256 has been inputted successfully.
+2016-02-11 01:03:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net MTD']//following-sibling::input is visible
+2016-02-11 01:03:50 INFO  Elements:48 - The text250 has been inputted successfully.
+2016-02-11 01:03:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net QTD']//following-sibling::input is visible
+2016-02-11 01:03:50 INFO  Elements:48 - The text2562 has been inputted successfully.
+2016-02-11 01:03:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net YTD']//following-sibling::input is visible
+2016-02-11 01:03:51 INFO  Elements:48 - The text253 has been inputted successfully.
+2016-02-11 01:03:51 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Management Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:51 INFO  Elements:48 - The text258 has been inputted successfully.
+2016-02-11 01:03:51 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Performance Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:51 INFO  Elements:48 - The text265 has been inputted successfully.
+2016-02-11 01:03:51 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net ITD']//following-sibling::input is visible
+2016-02-11 01:03:51 INFO  Elements:48 - The text2546 has been inputted successfully.
+2016-02-11 01:03:51 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross MTD']//following-sibling::input is visible
+2016-02-11 01:03:51 INFO  Elements:48 - The text256 has been inputted successfully.
+2016-02-11 01:03:51 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross QTD']//following-sibling::input is visible
+2016-02-11 01:03:51 INFO  Elements:48 - The text5555 has been inputted successfully.
+2016-02-11 01:03:51 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross YTD']//following-sibling::input is visible
+2016-02-11 01:03:51 INFO  Elements:48 - The text2522 has been inputted successfully.
+2016-02-11 01:03:51 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross ITD']//following-sibling::input is visible
+2016-02-11 01:03:51 INFO  Elements:48 - The text2255 has been inputted successfully.
+2016-02-11 01:03:51 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net P&L Yearly']//following-sibling::input is visible
+2016-02-11 01:03:51 INFO  Elements:48 - The text2562 has been inputted successfully.
+2016-02-11 01:03:52 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross P&L Yearly']//following-sibling::input is visible
+2016-02-11 01:03:52 INFO  Elements:48 - The text1452 has been inputted successfully.
+2016-02-11 01:03:52 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net PTD']//following-sibling::input is visible
+2016-02-11 01:03:52 INFO  Elements:48 - The text15124 has been inputted successfully.
+2016-02-11 01:03:52 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross PTD']//following-sibling::input is visible
+2016-02-11 01:03:52 INFO  Elements:48 - The text1255 has been inputted successfully.
+2016-02-11 01:03:52 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Monthly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:52 INFO  Elements:48 - The text12522 has been inputted successfully.
+2016-02-11 01:03:52 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Quarterly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:52 INFO  Elements:48 - The text2526 has been inputted successfully.
+2016-02-11 01:03:52 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Half Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:52 INFO  Elements:48 - The text2522 has been inputted successfully.
+2016-02-11 01:03:52 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:52 INFO  Elements:48 - The text256 has been inputted successfully.
+2016-02-11 01:03:52 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Monthly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:52 INFO  Elements:48 - The text245 has been inputted successfully.
+2016-02-11 01:03:53 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Quarterly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:53 INFO  Elements:48 - The text656 has been inputted successfully.
+2016-02-11 01:03:53 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Half Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:53 INFO  Elements:48 - The text545 has been inputted successfully.
+2016-02-11 01:03:53 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:03:53 INFO  Elements:48 - The text2251 has been inputted successfully.
+2016-02-11 01:03:55 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save'] has been clicked successfully
+2016-02-11 01:03:55 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-11 01:03:55 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-02-11 01:03:55 WARN  Elements:198 - The text  Opening Balance added successfully with Order Id OP00000130 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-02-11 01:03:55 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-02-11 01:03:55 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-02-11 01:03:55 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-02-11 01:03:55 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-02-11 01:03:55 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-11 01:03:57 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Opening Balance'] has been clicked successfully
+2016-02-11 01:03:57 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Opening Balance'] is visible after waiting.
+2016-02-11 01:03:57 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-02-11 01:03:58 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-02-11 01:03:58 INFO  Wait:39 - element By.id: uniform-rdIsInvestor is visible after waiting.
+2016-02-11 01:03:58 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorNameDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:03:58 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteso_IND LN'] is visible after waiting.
+2016-02-11 01:03:58 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteso_IND LN'] has been clicked successfully
+2016-02-11 01:04:00 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorHolderListDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:00 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteso_IND LN'] is visible after waiting.
+2016-02-11 01:04:00 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteso_IND LN'] has been clicked successfully
+2016-02-11 01:04:03 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorAccountListDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:03 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='AC00000007'] is visible after waiting.
+2016-02-11 01:04:03 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='AC00000007'] has been clicked successfully
+2016-02-11 01:04:05 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:05 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] is visible after waiting.
+2016-02-11 01:04:05 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] has been clicked successfully
+2016-02-11 01:04:07 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundFamilyName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:07 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] is visible after waiting.
+2016-02-11 01:04:07 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] has been clicked successfully
+2016-02-11 01:04:09 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:09 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity_3001'] is visible after waiting.
+2016-02-11 01:04:09 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity_3001'] has been clicked successfully
+2016-02-11 01:04:11 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Initial Subscription Amount']//following-sibling::input is visible
+2016-02-11 01:04:11 INFO  Elements:48 - The text65000 has been inputted successfully.
+2016-02-11 01:04:12 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Initial Subscription Date']//following-sibling::div//input is visible
+2016-02-11 01:04:12 INFO  Elements:48 - The text01/01/2010 has been inputted successfully.
+2016-02-11 01:04:12 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Last Closing Date']//following-sibling::div//input is visible
+2016-02-11 01:04:12 INFO  Elements:48 - The text01/01/2016 has been inputted successfully.
+2016-02-11 01:04:12 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='High Water Mark']//following-sibling::input is visible
+2016-02-11 01:04:12 INFO  Elements:48 - The text2356 has been inputted successfully.
+2016-02-11 01:04:12 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Closing NAV']//following-sibling::input is visible
+2016-02-11 01:04:12 INFO  Elements:48 - The text2562 has been inputted successfully.
+2016-02-11 01:04:12 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Closing Units']//following-sibling::input is visible
+2016-02-11 01:04:12 INFO  Elements:48 - The text256 has been inputted successfully.
+2016-02-11 01:04:12 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net MTD']//following-sibling::input is visible
+2016-02-11 01:04:12 INFO  Elements:48 - The text250 has been inputted successfully.
+2016-02-11 01:04:12 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net QTD']//following-sibling::input is visible
+2016-02-11 01:04:12 INFO  Elements:48 - The text2562 has been inputted successfully.
+2016-02-11 01:04:13 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net YTD']//following-sibling::input is visible
+2016-02-11 01:04:13 INFO  Elements:48 - The text253 has been inputted successfully.
+2016-02-11 01:04:13 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Management Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:13 INFO  Elements:48 - The text258 has been inputted successfully.
+2016-02-11 01:04:13 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Performance Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:13 INFO  Elements:48 - The text265 has been inputted successfully.
+2016-02-11 01:04:13 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net ITD']//following-sibling::input is visible
+2016-02-11 01:04:13 INFO  Elements:48 - The text2546 has been inputted successfully.
+2016-02-11 01:04:13 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross MTD']//following-sibling::input is visible
+2016-02-11 01:04:13 INFO  Elements:48 - The text256 has been inputted successfully.
+2016-02-11 01:04:13 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross QTD']//following-sibling::input is visible
+2016-02-11 01:04:13 INFO  Elements:48 - The text5555 has been inputted successfully.
+2016-02-11 01:04:13 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross YTD']//following-sibling::input is visible
+2016-02-11 01:04:13 INFO  Elements:48 - The text2522 has been inputted successfully.
+2016-02-11 01:04:13 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross ITD']//following-sibling::input is visible
+2016-02-11 01:04:13 INFO  Elements:48 - The text2255 has been inputted successfully.
+2016-02-11 01:04:13 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net P&L Yearly']//following-sibling::input is visible
+2016-02-11 01:04:14 INFO  Elements:48 - The text2562 has been inputted successfully.
+2016-02-11 01:04:14 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross P&L Yearly']//following-sibling::input is visible
+2016-02-11 01:04:14 INFO  Elements:48 - The text1452 has been inputted successfully.
+2016-02-11 01:04:14 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net PTD']//following-sibling::input is visible
+2016-02-11 01:04:14 INFO  Elements:48 - The text15124 has been inputted successfully.
+2016-02-11 01:04:14 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross PTD']//following-sibling::input is visible
+2016-02-11 01:04:14 INFO  Elements:48 - The text1255 has been inputted successfully.
+2016-02-11 01:04:14 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Monthly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:14 INFO  Elements:48 - The text12522 has been inputted successfully.
+2016-02-11 01:04:14 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Quarterly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:14 INFO  Elements:48 - The text2526 has been inputted successfully.
+2016-02-11 01:04:14 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Half Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:14 INFO  Elements:48 - The text2522 has been inputted successfully.
+2016-02-11 01:04:14 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:14 INFO  Elements:48 - The text256 has been inputted successfully.
+2016-02-11 01:04:14 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Monthly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:15 INFO  Elements:48 - The text245 has been inputted successfully.
+2016-02-11 01:04:15 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Quarterly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:15 INFO  Elements:48 - The text656 has been inputted successfully.
+2016-02-11 01:04:15 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Half Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:15 INFO  Elements:48 - The text545 has been inputted successfully.
+2016-02-11 01:04:15 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:15 INFO  Elements:48 - The text2251 has been inputted successfully.
+2016-02-11 01:04:17 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save'] has been clicked successfully
+2016-02-11 01:04:17 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-11 01:04:17 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-02-11 01:04:17 WARN  Elements:198 - The text  Opening Balance added successfully with Order Id OP00000131 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-02-11 01:04:17 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-02-11 01:04:17 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-02-11 01:04:17 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-02-11 01:04:17 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-02-11 01:04:17 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-11 01:04:19 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Opening Balance'] has been clicked successfully
+2016-02-11 01:04:19 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Opening Balance'] is visible after waiting.
+2016-02-11 01:04:19 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-02-11 01:04:20 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-02-11 01:04:20 INFO  Wait:39 - element By.id: uniform-rdIsInvestor is visible after waiting.
+2016-02-11 01:04:22 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:22 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] is visible after waiting.
+2016-02-11 01:04:22 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] has been clicked successfully
+2016-02-11 01:04:24 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundFamilyName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:24 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] is visible after waiting.
+2016-02-11 01:04:24 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] has been clicked successfully
+2016-02-11 01:04:27 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundNameFrom']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:27 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] is visible after waiting.
+2016-02-11 01:04:27 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] has been clicked successfully
+2016-02-11 01:04:29 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:29 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='LE_1212_002'] is visible after waiting.
+2016-02-11 01:04:29 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='LE_1212_002'] has been clicked successfully
+2016-02-11 01:04:29 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Initial Subscription Amount']//following-sibling::input is visible
+2016-02-11 01:04:29 INFO  Elements:48 - The text90000 has been inputted successfully.
+2016-02-11 01:04:29 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Initial Subscription Date']//following-sibling::div//input is visible
+2016-02-11 01:04:29 INFO  Elements:48 - The text20/10/2015 has been inputted successfully.
+2016-02-11 01:04:29 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Last Closing Date']//following-sibling::div//input is visible
+2016-02-11 01:04:29 INFO  Elements:48 - The text20/12/2016 has been inputted successfully.
+2016-02-11 01:04:29 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='High Water Mark']//following-sibling::input is visible
+2016-02-11 01:04:30 INFO  Elements:48 - The text125 has been inputted successfully.
+2016-02-11 01:04:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Closing NAV']//following-sibling::input is visible
+2016-02-11 01:04:30 INFO  Elements:48 - The text252 has been inputted successfully.
+2016-02-11 01:04:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Closing Units']//following-sibling::input is visible
+2016-02-11 01:04:30 INFO  Elements:48 - The text256 has been inputted successfully.
+2016-02-11 01:04:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net MTD']//following-sibling::input is visible
+2016-02-11 01:04:30 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net QTD']//following-sibling::input is visible
+2016-02-11 01:04:30 INFO  Elements:48 - The text58 has been inputted successfully.
+2016-02-11 01:04:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net YTD']//following-sibling::input is visible
+2016-02-11 01:04:30 INFO  Elements:48 - The text555 has been inputted successfully.
+2016-02-11 01:04:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Management Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:30 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Performance Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:30 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net ITD']//following-sibling::input is visible
+2016-02-11 01:04:30 INFO  Elements:48 - The text585 has been inputted successfully.
+2016-02-11 01:04:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross MTD']//following-sibling::input is visible
+2016-02-11 01:04:31 INFO  Elements:48 - The text2558 has been inputted successfully.
+2016-02-11 01:04:31 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross QTD']//following-sibling::input is visible
+2016-02-11 01:04:31 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:31 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross YTD']//following-sibling::input is visible
+2016-02-11 01:04:31 INFO  Elements:48 - The text585 has been inputted successfully.
+2016-02-11 01:04:31 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross ITD']//following-sibling::input is visible
+2016-02-11 01:04:31 INFO  Elements:48 - The text252 has been inputted successfully.
+2016-02-11 01:04:31 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net P&L Yearly']//following-sibling::input is visible
+2016-02-11 01:04:31 INFO  Elements:48 - The text252 has been inputted successfully.
+2016-02-11 01:04:31 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross P&L Yearly']//following-sibling::input is visible
+2016-02-11 01:04:31 INFO  Elements:48 - The text898 has been inputted successfully.
+2016-02-11 01:04:31 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net PTD']//following-sibling::input is visible
+2016-02-11 01:04:31 INFO  Elements:48 - The text585 has been inputted successfully.
+2016-02-11 01:04:31 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross PTD']//following-sibling::input is visible
+2016-02-11 01:04:31 INFO  Elements:48 - The text52855 has been inputted successfully.
+2016-02-11 01:04:31 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Monthly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:32 INFO  Elements:48 - The text555 has been inputted successfully.
+2016-02-11 01:04:32 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Quarterly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:32 INFO  Elements:48 - The text878 has been inputted successfully.
+2016-02-11 01:04:32 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Half Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:32 INFO  Elements:48 - The text944 has been inputted successfully.
+2016-02-11 01:04:32 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:32 INFO  Elements:48 - The text455 has been inputted successfully.
+2016-02-11 01:04:32 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Monthly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:32 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:32 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Quarterly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:32 INFO  Elements:48 - The text525 has been inputted successfully.
+2016-02-11 01:04:32 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Half Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:32 INFO  Elements:48 - The text2245 has been inputted successfully.
+2016-02-11 01:04:32 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:32 INFO  Elements:48 - The text4545 has been inputted successfully.
+2016-02-11 01:04:35 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save'] has been clicked successfully
+2016-02-11 01:04:35 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-11 01:04:35 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-02-11 01:04:35 WARN  Elements:198 - The text  Opening Balance added successfully with Order Id OP00000132 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-02-11 01:04:35 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-02-11 01:04:35 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-02-11 01:04:35 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-02-11 01:04:35 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-02-11 01:04:35 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-11 01:04:37 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Opening Balance'] has been clicked successfully
+2016-02-11 01:04:37 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Opening Balance'] is visible after waiting.
+2016-02-11 01:04:37 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-02-11 01:04:37 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-02-11 01:04:37 INFO  Wait:39 - element By.id: uniform-rdIsInvestor is visible after waiting.
+2016-02-11 01:04:40 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:40 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] is visible after waiting.
+2016-02-11 01:04:40 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] has been clicked successfully
+2016-02-11 01:04:42 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundFamilyName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:42 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] is visible after waiting.
+2016-02-11 01:04:42 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] has been clicked successfully
+2016-02-11 01:04:44 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundNameFrom']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:44 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] is visible after waiting.
+2016-02-11 01:04:44 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Legal_Entity'] has been clicked successfully
+2016-02-11 01:04:46 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_cmbFundName']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 01:04:46 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='LE_1212_002'] is visible after waiting.
+2016-02-11 01:04:46 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='LE_1212_002'] has been clicked successfully
+2016-02-11 01:04:46 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Initial Subscription Amount']//following-sibling::input is visible
+2016-02-11 01:04:47 INFO  Elements:48 - The text90500 has been inputted successfully.
+2016-02-11 01:04:47 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Initial Subscription Date']//following-sibling::div//input is visible
+2016-02-11 01:04:47 INFO  Elements:48 - The text15/1/2010 has been inputted successfully.
+2016-02-11 01:04:47 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Last Closing Date']//following-sibling::div//input is visible
+2016-02-11 01:04:47 INFO  Elements:48 - The text20/12/2016 has been inputted successfully.
+2016-02-11 01:04:47 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='High Water Mark']//following-sibling::input is visible
+2016-02-11 01:04:47 INFO  Elements:48 - The text125 has been inputted successfully.
+2016-02-11 01:04:47 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Closing NAV']//following-sibling::input is visible
+2016-02-11 01:04:47 INFO  Elements:48 - The text252 has been inputted successfully.
+2016-02-11 01:04:47 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Closing Units']//following-sibling::input is visible
+2016-02-11 01:04:47 INFO  Elements:48 - The text256 has been inputted successfully.
+2016-02-11 01:04:47 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net MTD']//following-sibling::input is visible
+2016-02-11 01:04:47 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:47 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net QTD']//following-sibling::input is visible
+2016-02-11 01:04:48 INFO  Elements:48 - The text58 has been inputted successfully.
+2016-02-11 01:04:48 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net YTD']//following-sibling::input is visible
+2016-02-11 01:04:48 INFO  Elements:48 - The text555 has been inputted successfully.
+2016-02-11 01:04:48 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Management Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:48 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:48 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Performance Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:48 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:48 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net ITD']//following-sibling::input is visible
+2016-02-11 01:04:48 INFO  Elements:48 - The text585 has been inputted successfully.
+2016-02-11 01:04:48 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross MTD']//following-sibling::input is visible
+2016-02-11 01:04:48 INFO  Elements:48 - The text2558 has been inputted successfully.
+2016-02-11 01:04:48 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross QTD']//following-sibling::input is visible
+2016-02-11 01:04:48 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:48 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross YTD']//following-sibling::input is visible
+2016-02-11 01:04:48 INFO  Elements:48 - The text585 has been inputted successfully.
+2016-02-11 01:04:48 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross ITD']//following-sibling::input is visible
+2016-02-11 01:04:48 INFO  Elements:48 - The text252 has been inputted successfully.
+2016-02-11 01:04:48 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net P&L Yearly']//following-sibling::input is visible
+2016-02-11 01:04:49 INFO  Elements:48 - The text252 has been inputted successfully.
+2016-02-11 01:04:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross P&L Yearly']//following-sibling::input is visible
+2016-02-11 01:04:49 INFO  Elements:48 - The text898 has been inputted successfully.
+2016-02-11 01:04:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net PTD']//following-sibling::input is visible
+2016-02-11 01:04:49 INFO  Elements:48 - The text585 has been inputted successfully.
+2016-02-11 01:04:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Gross PTD']//following-sibling::input is visible
+2016-02-11 01:04:49 INFO  Elements:48 - The text52855 has been inputted successfully.
+2016-02-11 01:04:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Monthly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:49 INFO  Elements:48 - The text555 has been inputted successfully.
+2016-02-11 01:04:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Quarterly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:49 INFO  Elements:48 - The text878 has been inputted successfully.
+2016-02-11 01:04:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Half Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:49 INFO  Elements:48 - The text944 has been inputted successfully.
+2016-02-11 01:04:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted GAV Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:49 INFO  Elements:48 - The text455 has been inputted successfully.
+2016-02-11 01:04:49 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Monthly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:49 INFO  Elements:48 - The text255 has been inputted successfully.
+2016-02-11 01:04:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Quarterly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:50 INFO  Elements:48 - The text525 has been inputted successfully.
+2016-02-11 01:04:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Half Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:50 INFO  Elements:48 - The text2245 has been inputted successfully.
+2016-02-11 01:04:50 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Yearly Carry Forward']//following-sibling::input is visible
+2016-02-11 01:04:50 INFO  Elements:48 - The text4545 has been inputted successfully.
+2016-02-11 01:04:52 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save'] has been clicked successfully
+2016-02-11 01:04:52 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-11 01:04:52 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-02-11 01:04:52 WARN  Elements:198 - The text  Opening Balance added successfully with Order Id OP00000133 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-02-11 01:04:52 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-02-11 01:04:52 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-02-11 01:04:52 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-02-11 01:04:53 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

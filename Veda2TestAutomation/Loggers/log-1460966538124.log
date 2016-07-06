@@ -1,0 +1,13 @@
+2016-04-18 13:32:22 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-18 13:32:23 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-04-18 13:32:23 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-18 13:32:23 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-18 13:32:25 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-18 13:32:25 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-18 13:32:32 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-18 13:32:33 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-18 13:32:33 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-18 13:32:33 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-18 13:32:33 INFO  Elements:48 - The textTRA0542 has been inputted successfully.
+2016-04-18 13:32:34 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TRA0542'] is visible after waiting.
+2016-04-18 13:32:43 WARN  Wait:43 - element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Subscription']//..//parent::div[@role='row']//a[normalize-space(text())='TRA0542'] is not present after waiting 5 secs.

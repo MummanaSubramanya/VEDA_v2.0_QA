@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FeederREDAccountDetails>
+	<FeederREDAccount CheckerStatus="Pass" MakerStatus="Pass"
+		SearchID="SER0003" TestcaseName="TradeSearch_FeederRedemption_TC01" />
+	<FeederREDAccount CheckerStatus="Pass" MakerStatus="Pass"
+		SearchID="SER0004" TestcaseName="TradeSearch_FeederRedemption_TC02" />
+</FeederREDAccountDetails>

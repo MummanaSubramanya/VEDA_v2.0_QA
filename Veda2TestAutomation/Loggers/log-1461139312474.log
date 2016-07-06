@@ -1,0 +1,18 @@
+2016-04-20 13:31:57 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-20 13:31:57 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-04-20 13:31:57 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-20 13:31:57 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-20 13:32:00 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-20 13:32:00 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-20 13:32:00 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-04-20 13:32:00 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-04-20 13:32:00 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-04-20 13:32:00 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-04-20 13:32:00 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-04-20 13:32:01 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Trade Search'] has been clicked successfully
+2016-04-20 13:32:01 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Trade Search'] is visible after waiting.
+2016-04-20 13:32:54 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridSearchForAllTrades']/div/div[1]//input[@type='textarea'] is visible
+2016-04-20 13:32:54 INFO  Elements:48 - The textTRA0547 has been inputted successfully.
+2016-04-20 13:32:55 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridSearchForAllTrades']/div[1]/div[1]//div[text()='TRA0547'] is visible after waiting.
+2016-04-20 13:32:55 INFO  Wait:39 - element By.xpath: //div[@role='row']//div//div[contains(text(),'Transaction_SUB')]//..//..//parent::div[@role='row']//div[1]//div[normalize-space(text()='TRA0547')] is visible after waiting.
+2016-04-20 13:33:49 INFO  Elements:100 - The element By.xpath: //div[normalize-space()='TRA0547']//parent::div[@role='gridcell']//following-sibling::div//a[contains(@href,'modifyTrade')]//em has been clicked successfully

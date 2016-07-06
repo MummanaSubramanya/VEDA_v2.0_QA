@@ -1,0 +1,304 @@
+2016-04-25 19:28:52 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-25 19:28:52 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-04-25 19:28:52 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-25 19:28:52 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-25 19:28:54 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-25 19:28:54 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-25 19:29:02 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-25 19:29:02 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-25 19:29:02 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-25 19:29:02 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-25 19:29:02 INFO  Elements:48 - The textTRA0548 has been inputted successfully.
+2016-04-25 19:29:03 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TRA0548'] is visible after waiting.
+2016-04-25 19:29:03 INFO  Wait:39 - element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_SUB']//..//parent::div[@role='row']//a[normalize-space(text())='TRA0548'] is visible after waiting.
+2016-04-25 19:29:06 INFO  Elements:100 - The element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_SUB']//..//parent::div[@role='row']//a[normalize-space(text())='TRA0548'] has been clicked successfully
+2016-04-25 19:29:09 INFO  Wait:39 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Request Detail')] is visible after waiting.
+2016-04-25 19:29:09 INFO  Wait:39 - element By.xpath: //label[normalize-space()='Received Date']//following-sibling::div/i//following-sibling::input is visible after waiting.
+2016-04-25 19:29:09 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Received Date']//following-sibling::div/i//following-sibling::input is present in DOM
+2016-04-25 19:29:09 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Received Date']//following-sibling::div/i//following-sibling::input has value '23-Mar-2016' for attribute value
+2016-04-25 19:29:09 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Mode Of Request']//following-sibling::div//option is visible
+2016-04-25 19:29:09 WARN  Elements:198 - The text Email
+           from the element By.xpath: //label[normalize-space()='Mode Of Request']//following-sibling::div//option is retrieved
+2016-04-25 19:29:09 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='External ID Number']//following-sibling::div//input is present in DOM
+2016-04-25 19:29:09 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='External ID Number']//following-sibling::div//input has value '1234' for attribute value
+2016-04-25 19:29:09 INFO  Verify:23 - Element By.xpath: //label[text()='Investor Name' or normalize-space(text())='Investor Name']/..//input[@value="AB Associates"] is visible
+2016-04-25 19:29:09 INFO  Verify:35 - Element By.xpath: //label[text()='Holder Name' or normalize-space(text())='Holder Name']/..//input is present in DOM
+2016-04-25 19:29:09 WARN  Elements:180 - The element By.xpath: //label[text()='Holder Name' or normalize-space(text())='Holder Name']/..//input has value 'AB Associates' for attribute value
+2016-04-25 19:29:09 INFO  Verify:23 - Element By.xpath: //label[text()='Holder Name' or normalize-space(text())='Holder Name']/..//input[@value="AB Associates"] is visible
+2016-04-25 19:29:09 INFO  Verify:23 - Element By.xpath: //label[text()='Account ID' or normalize-space(text())='Account ID']/..//input[@value="AC0978"] is visible
+2016-04-25 19:29:09 INFO  Verify:23 - Element By.xpath: //label[text()='Client Name' or normalize-space(text())='Client Name']/..//input[@value="Viteos_Client"] is visible
+2016-04-25 19:29:09 INFO  Verify:23 - Element By.xpath: //label[text()='Fund Family Name' or normalize-space(text())='Fund Family Name']/..//input[@value="Viteos_FundFamily"] is visible
+2016-04-25 19:29:09 INFO  Verify:23 - Element By.xpath: //label[text()='Legal Entity Name' or normalize-space(text())='Legal Entity Name']/..//input[@value="Viteos_Account_Feeder_01"] is visible
+2016-04-25 19:29:09 INFO  Verify:35 - Element By.xpath: //label[contains(text(),'Effective Date')]//following-sibling::div//input[@id='effectiveDate'] is present in DOM
+2016-04-25 19:29:09 WARN  Elements:180 - The element By.xpath: //label[contains(text(),'Effective Date')]//following-sibling::div//input[@id='effectiveDate'] has value '30-Apr-2016' for attribute value
+2016-04-25 19:29:09 INFO  Wait:39 - element By.xpath: //input[@id='isAmount']//parent::span[@class='checked'] is visible after waiting.
+2016-04-25 19:29:09 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='No of Units']//following-sibling::div//input is present in DOM
+2016-04-25 19:29:09 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='No of Units']//following-sibling::div//input has value '50.000' for attribute value
+2016-04-25 19:29:09 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Cash']//following-sibling::div//input[@type='text'] is present in DOM
+2016-04-25 19:29:09 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Cash']//following-sibling::div//input[@type='text'] has value '5,000.0000' for attribute value
+2016-04-25 19:29:09 INFO  Wait:39 - element By.id: currencyName is visible after waiting.
+2016-04-25 19:29:10 INFO  Verify:23 - Element By.id: currencyName is visible
+2016-04-25 19:29:10 WARN  Elements:198 - The text United States Dollar from the element By.id: currencyName is retrieved
+2016-04-25 19:29:10 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='NAV Per Unit']//following-sibling::label is visible
+2016-04-25 19:29:10 WARN  Elements:198 - The text 100.0000 from the element By.xpath: //label[normalize-space()='NAV Per Unit']//following-sibling::label is retrieved
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='High Water Mark']//following-sibling::div//input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='High Water Mark']//following-sibling::div//input has value '5,000.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Notice Charges']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Notice Charges']//following-sibling::div/input has value '100.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Transaction Charges']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Transaction Charges']//following-sibling::div/input has value '1,000.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Adhoc Charges']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Adhoc Charges']//following-sibling::div/input has value '300.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Total Charges']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Total Charges']//following-sibling::div/input has value '1,400.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Interest']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Interest']//following-sibling::div/input has value '0.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[text()='Charges']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[text()='Charges']//following-sibling::div/input has value '1,400.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[text()='Interest']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[text()='Interest']//following-sibling::div/input has value '0.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[text()='Amount Payable']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[text()='Amount Payable']//following-sibling::div/input has value '6,400.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[text()='Difference']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[text()='Difference']//following-sibling::div/input has value '-1,400.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[text()='Net Amount']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[text()='Net Amount']//following-sibling::div/input has value '5,000.0000' for attribute value
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[text()='Net Units']//following-sibling::div/input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[text()='Net Units']//following-sibling::div/input has value '50.000' for attribute value
+2016-04-25 19:29:10 INFO  Wait:23 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Bank Detail')] is present after waiting.
+2016-04-25 19:29:10 INFO  Wait:23 - element By.xpath: //div[@id='uniform-managementFeeYes']/span[@class='checked'] is present after waiting.
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[contains(text(),'Management Fee %')]//following-sibling::div//input[1] is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[contains(text(),'Management Fee %')]//following-sibling::div//input[1] has value '3' for attribute value
+2016-04-25 19:29:10 INFO  Wait:23 - element By.xpath: //div[@id='uniform-incentiveFeeYes']/span[@class='checked'] is present after waiting.
+2016-04-25 19:29:10 INFO  Verify:35 - Element By.xpath: //label[contains(text(),'Incentive Fee %')]//following-sibling::div//input is present in DOM
+2016-04-25 19:29:10 WARN  Elements:180 - The element By.xpath: //label[contains(text(),'Incentive Fee %')]//following-sibling::div//input has value '20' for attribute value
+2016-04-25 19:29:10 INFO  Verify:23 - Element By.xpath: //h4[contains(text(),'Exception')]//following-sibling::div is visible
+2016-04-25 19:29:10 INFO  Elements:31 - The xpath count of the element By.xpath: //h4[contains(text(),'Exception')]//following-sibling::div is 2
+2016-04-25 19:29:10 INFO  Verify:23 - Element By.xpath: //h4[contains(text(),'Exception')]//following-sibling::div[1]//label is visible
+2016-04-25 19:29:10 WARN  Elements:198 - The text Notice Period Charge from the element By.xpath: //h4[contains(text(),'Exception')]//following-sibling::div[1]//label is retrieved
+2016-04-25 19:29:10 INFO  Verify:23 - Element By.xpath: //h4[contains(text(),'Exception')]//following-sibling::div[2]//label is visible
+2016-04-25 19:29:10 WARN  Elements:198 - The text Subscription Freqency from the element By.xpath: //h4[contains(text(),'Exception')]//following-sibling::div[2]//label is retrieved
+2016-04-25 19:29:11 INFO  Wait:39 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Request Detail')] is visible after waiting.
+2016-04-25 19:29:13 INFO  Elements:100 - The element By.xpath: //div[contains(@class, 'input-group')]/a[contains(@onclick, 'javascript:viewDocuments')] has been clicked successfully
+2016-04-25 19:29:48 WARN  Wait:27 - element By.xpath: //div[@id='uniform-approveOANo']/span[@class='checked']/input is not present after waiting 30.
+2016-04-25 19:29:48 INFO  Wait:23 - element By.xpath: //div[@id='uniform-approveOAYes']/span[@class='checked']/input is present after waiting.
+2016-04-25 19:29:48 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:29:50 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:29:52 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:29:54 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:29:56 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:29:58 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:30:00 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:30:02 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:30:05 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:30:07 WARN  Elements:106 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')]}
+2016-04-25 19:30:25 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}
+2016-04-25 19:30:27 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 61 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}
+2016-04-25 19:30:29 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 39 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}
+2016-04-25 19:30:31 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}
+2016-04-25 19:30:34 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}
+2016-04-25 19:30:36 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}
+2016-04-25 19:30:38 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}
+2016-04-25 19:30:40 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 42 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}
+2016-04-25 19:30:42 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 42 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}
+2016-04-25 19:30:44 WARN  Elements:106 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] cannot be clicked because no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#' and contains(text(),'Transactions')]"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 46 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8624_3066}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6689628950da8727c52db5e3f2de636
+*** Element info: {Using=xpath, value=//a[@href='#' and contains(text(),'Transactions')]}

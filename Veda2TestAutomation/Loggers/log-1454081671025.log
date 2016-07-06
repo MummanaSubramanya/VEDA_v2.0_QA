@@ -1,0 +1,150 @@
+2016-01-29 21:04:35 INFO  Verify:23 - Element By.id: j_username is visible
+2016-01-29 21:04:35 INFO  Elements:47 - The textveda.checker has been inputted successfully.
+2016-01-29 21:04:35 INFO  Verify:23 - Element By.id: j_password is visible
+2016-01-29 21:04:35 INFO  Elements:47 - The textViteos321 has been inputted successfully.
+2016-01-29 21:04:38 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-01-29 21:04:38 INFO  Wait:39 - element By.xpath: //p[contains(text(),'Dashboard')] is visible after waiting.
+2016-01-29 21:04:38 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is visible after waiting.
+2016-01-29 21:04:38 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is visible
+2016-01-29 21:04:38 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is visible and can be used
+2016-01-29 21:04:38 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] has been performed successfully.
+2016-01-29 21:04:38 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-01-29 21:04:39 INFO  Elements:94 - The element By.xpath: //a[contains(text(),'Fund Setup')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Class'] has been clicked successfully
+2016-01-29 21:04:39 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Class'] is visible after waiting.
+2016-01-29 21:04:39 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-01-29 21:04:40 INFO  Elements:94 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-01-29 21:04:40 INFO  Elements:94 - The element By.xpath: //label[normalize-space(text())='Client Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-01-29 21:04:40 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] is visible after waiting.
+2016-01-29 21:04:40 INFO  Elements:94 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client'] has been clicked successfully
+2016-01-29 21:04:40 INFO  Elements:94 - The element By.xpath: //label[normalize-space(text())='Fund Family Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-01-29 21:04:40 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] is visible after waiting.
+2016-01-29 21:04:40 INFO  Elements:94 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily'] has been clicked successfully
+2016-01-29 21:04:41 WARN  Elements:100 - The element By.xpath: //label[normalize-space(text())='Legal Entity Name']/following-sibling::div//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (417, 339). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=48.0.2564.97)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 41 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir8720_1709}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.97, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1857b628d8d655075733c3242eec3519
+2016-01-29 21:04:42 INFO  Elements:94 - The element By.xpath: //label[normalize-space(text())='Legal Entity Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-01-29 21:04:52 WARN  Wait:43 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())=''] is not present after waiting 10 secs.
+2016-01-29 21:04:52 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option is visible
+2016-01-29 21:04:52 INFO  Elements:31 - The xpath count of the element By.xpath: //select[@id='cmbFundName']/option is 58
+2016-01-29 21:04:52 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[1] is visible
+2016-01-29 21:04:52 WARN  Elements:192 - The text --Select-- from the element By.xpath: //select[@id='cmbFundName']/option[1] is retrieved
+2016-01-29 21:04:52 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[2] is visible
+2016-01-29 21:04:52 WARN  Elements:192 - The text Viteos_Legal_Entity from the element By.xpath: //select[@id='cmbFundName']/option[2] is retrieved
+2016-01-29 21:04:52 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[3] is visible
+2016-01-29 21:04:53 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_4 from the element By.xpath: //select[@id='cmbFundName']/option[3] is retrieved
+2016-01-29 21:04:53 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[4] is visible
+2016-01-29 21:04:53 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_8 from the element By.xpath: //select[@id='cmbFundName']/option[4] is retrieved
+2016-01-29 21:04:53 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[5] is visible
+2016-01-29 21:04:53 WARN  Elements:192 - The text Viteos_Legal_Entity_3001 from the element By.xpath: //select[@id='cmbFundName']/option[5] is retrieved
+2016-01-29 21:04:53 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[6] is visible
+2016-01-29 21:04:53 WARN  Elements:192 - The text Viteos_Legal_Entity_3007 from the element By.xpath: //select[@id='cmbFundName']/option[6] is retrieved
+2016-01-29 21:04:53 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[7] is visible
+2016-01-29 21:04:53 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_12 from the element By.xpath: //select[@id='cmbFundName']/option[7] is retrieved
+2016-01-29 21:04:53 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[8] is visible
+2016-01-29 21:04:53 WARN  Elements:192 - The text Viteos_Legal_Entity_3021 from the element By.xpath: //select[@id='cmbFundName']/option[8] is retrieved
+2016-01-29 21:04:54 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[9] is visible
+2016-01-29 21:04:54 WARN  Elements:192 - The text Viteos_Legal_Entity_3027 from the element By.xpath: //select[@id='cmbFundName']/option[9] is retrieved
+2016-01-29 21:04:54 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[10] is visible
+2016-01-29 21:04:54 WARN  Elements:192 - The text Viteos_Legal_Entity_CloneCreation_3032 from the element By.xpath: //select[@id='cmbFundName']/option[10] is retrieved
+2016-01-29 21:04:54 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[11] is visible
+2016-01-29 21:04:54 WARN  Elements:192 - The text Viteos_Legal_Entity_1 from the element By.xpath: //select[@id='cmbFundName']/option[11] is retrieved
+2016-01-29 21:04:54 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[12] is visible
+2016-01-29 21:04:54 WARN  Elements:192 - The text Viteos_Legal_Entity_2 from the element By.xpath: //select[@id='cmbFundName']/option[12] is retrieved
+2016-01-29 21:04:54 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[13] is visible
+2016-01-29 21:04:54 WARN  Elements:192 - The text Viteos_Account_Master01 from the element By.xpath: //select[@id='cmbFundName']/option[13] is retrieved
+2016-01-29 21:04:54 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[14] is visible
+2016-01-29 21:04:54 WARN  Elements:192 - The text Viteos_Account_Feeder_01 from the element By.xpath: //select[@id='cmbFundName']/option[14] is retrieved
+2016-01-29 21:04:55 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[15] is visible
+2016-01-29 21:04:55 WARN  Elements:192 - The text Viteos_Account_Feeder_02 from the element By.xpath: //select[@id='cmbFundName']/option[15] is retrieved
+2016-01-29 21:04:55 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[16] is visible
+2016-01-29 21:04:55 WARN  Elements:192 - The text Viteos_Account_Feeder_04 from the element By.xpath: //select[@id='cmbFundName']/option[16] is retrieved
+2016-01-29 21:04:55 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[17] is visible
+2016-01-29 21:04:55 WARN  Elements:192 - The text Viteos_Legal_Entity_3006 from the element By.xpath: //select[@id='cmbFundName']/option[17] is retrieved
+2016-01-29 21:04:55 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[18] is visible
+2016-01-29 21:04:55 WARN  Elements:192 - The text Viteos_Legal_Entity_3030 from the element By.xpath: //select[@id='cmbFundName']/option[18] is retrieved
+2016-01-29 21:04:55 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[19] is visible
+2016-01-29 21:04:55 WARN  Elements:192 - The text Viteos_Account_Feeder_03 from the element By.xpath: //select[@id='cmbFundName']/option[19] is retrieved
+2016-01-29 21:04:56 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[20] is visible
+2016-01-29 21:04:56 WARN  Elements:192 - The text Viteos_Legal_Entity_3029 from the element By.xpath: //select[@id='cmbFundName']/option[20] is retrieved
+2016-01-29 21:04:56 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[21] is visible
+2016-01-29 21:04:56 WARN  Elements:192 - The text Viteos_Legal_Entity_3023 from the element By.xpath: //select[@id='cmbFundName']/option[21] is retrieved
+2016-01-29 21:04:56 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[22] is visible
+2016-01-29 21:04:56 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Parameter_3 from the element By.xpath: //select[@id='cmbFundName']/option[22] is retrieved
+2016-01-29 21:04:56 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[23] is visible
+2016-01-29 21:04:56 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Incentive_Non_Cumulative_3 from the element By.xpath: //select[@id='cmbFundName']/option[23] is retrieved
+2016-01-29 21:04:56 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[24] is visible
+2016-01-29 21:04:56 WARN  Elements:192 - The text Viteos_Legal_Entity_3020 from the element By.xpath: //select[@id='cmbFundName']/option[24] is retrieved
+2016-01-29 21:04:56 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[25] is visible
+2016-01-29 21:04:56 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_10 from the element By.xpath: //select[@id='cmbFundName']/option[25] is retrieved
+2016-01-29 21:04:57 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[26] is visible
+2016-01-29 21:04:57 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_11 from the element By.xpath: //select[@id='cmbFundName']/option[26] is retrieved
+2016-01-29 21:04:57 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[27] is visible
+2016-01-29 21:04:57 WARN  Elements:192 - The text Viteos_Legal_Entity_3009 from the element By.xpath: //select[@id='cmbFundName']/option[27] is retrieved
+2016-01-29 21:04:57 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[28] is visible
+2016-01-29 21:04:57 WARN  Elements:192 - The text Viteos_Legal_Entity_3010 from the element By.xpath: //select[@id='cmbFundName']/option[28] is retrieved
+2016-01-29 21:04:57 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[29] is visible
+2016-01-29 21:04:57 WARN  Elements:192 - The text Viteos_Legal_Entity_3003 from the element By.xpath: //select[@id='cmbFundName']/option[29] is retrieved
+2016-01-29 21:04:57 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[30] is visible
+2016-01-29 21:04:57 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Incentive_Non_Cumulative_2 from the element By.xpath: //select[@id='cmbFundName']/option[30] is retrieved
+2016-01-29 21:04:58 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[31] is visible
+2016-01-29 21:04:58 WARN  Elements:192 - The text Viteos_Legal_Entity_3000 from the element By.xpath: //select[@id='cmbFundName']/option[31] is retrieved
+2016-01-29 21:04:58 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[32] is visible
+2016-01-29 21:04:58 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Management_Fee_2 from the element By.xpath: //select[@id='cmbFundName']/option[32] is retrieved
+2016-01-29 21:04:58 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[33] is visible
+2016-01-29 21:04:58 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Parameter_2 from the element By.xpath: //select[@id='cmbFundName']/option[33] is retrieved
+2016-01-29 21:04:58 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[34] is visible
+2016-01-29 21:04:58 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Management_Fee from the element By.xpath: //select[@id='cmbFundName']/option[34] is retrieved
+2016-01-29 21:04:58 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[35] is visible
+2016-01-29 21:04:58 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Parameter from the element By.xpath: //select[@id='cmbFundName']/option[35] is retrieved
+2016-01-29 21:04:58 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[36] is visible
+2016-01-29 21:04:58 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Incentive_Non_Cumulative from the element By.xpath: //select[@id='cmbFundName']/option[36] is retrieved
+2016-01-29 21:04:59 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[37] is visible
+2016-01-29 21:04:59 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_6 from the element By.xpath: //select[@id='cmbFundName']/option[37] is retrieved
+2016-01-29 21:04:59 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[38] is visible
+2016-01-29 21:04:59 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_7 from the element By.xpath: //select[@id='cmbFundName']/option[38] is retrieved
+2016-01-29 21:04:59 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[39] is visible
+2016-01-29 21:04:59 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_2 from the element By.xpath: //select[@id='cmbFundName']/option[39] is retrieved
+2016-01-29 21:04:59 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[40] is visible
+2016-01-29 21:04:59 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_3 from the element By.xpath: //select[@id='cmbFundName']/option[40] is retrieved
+2016-01-29 21:04:59 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[41] is visible
+2016-01-29 21:04:59 WARN  Elements:192 - The text LE_1212_002 from the element By.xpath: //select[@id='cmbFundName']/option[41] is retrieved
+2016-01-29 21:04:59 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[42] is visible
+2016-01-29 21:05:00 WARN  Elements:192 - The text Viteos_Legal_Entity_2999 from the element By.xpath: //select[@id='cmbFundName']/option[42] is retrieved
+2016-01-29 21:05:00 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[43] is visible
+2016-01-29 21:05:00 WARN  Elements:192 - The text LE_1212_003 from the element By.xpath: //select[@id='cmbFundName']/option[43] is retrieved
+2016-01-29 21:05:00 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[44] is visible
+2016-01-29 21:05:00 WARN  Elements:192 - The text LE_1212_003 from the element By.xpath: //select[@id='cmbFundName']/option[44] is retrieved
+2016-01-29 21:05:00 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[45] is visible
+2016-01-29 21:05:00 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_1 from the element By.xpath: //select[@id='cmbFundName']/option[45] is retrieved
+2016-01-29 21:05:00 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[46] is visible
+2016-01-29 21:05:00 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_5 from the element By.xpath: //select[@id='cmbFundName']/option[46] is retrieved
+2016-01-29 21:05:00 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[47] is visible
+2016-01-29 21:05:00 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Incentive_Cumulative from the element By.xpath: //select[@id='cmbFundName']/option[47] is retrieved
+2016-01-29 21:05:01 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[48] is visible
+2016-01-29 21:05:01 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Incentive_Cumulative_2 from the element By.xpath: //select[@id='cmbFundName']/option[48] is retrieved
+2016-01-29 21:05:01 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[49] is visible
+2016-01-29 21:05:01 WARN  Elements:192 - The text Viteos_Legal_Entity_3005 from the element By.xpath: //select[@id='cmbFundName']/option[49] is retrieved
+2016-01-29 21:05:01 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[50] is visible
+2016-01-29 21:05:01 WARN  Elements:192 - The text Viteos_Legal_Entity_3011 from the element By.xpath: //select[@id='cmbFundName']/option[50] is retrieved
+2016-01-29 21:05:01 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[51] is visible
+2016-01-29 21:05:01 WARN  Elements:192 - The text Viteos_Legal_Entity_For_Series_9 from the element By.xpath: //select[@id='cmbFundName']/option[51] is retrieved
+2016-01-29 21:05:01 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[52] is visible
+2016-01-29 21:05:01 WARN  Elements:192 - The text Viteos_Legal_Entity_3008 from the element By.xpath: //select[@id='cmbFundName']/option[52] is retrieved
+2016-01-29 21:05:01 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[53] is visible
+2016-01-29 21:05:02 WARN  Elements:192 - The text Viteos_Legal_Entity_3025 from the element By.xpath: //select[@id='cmbFundName']/option[53] is retrieved
+2016-01-29 21:05:02 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[54] is visible
+2016-01-29 21:05:02 WARN  Elements:192 - The text Viteos_Legal_Entity_3028 from the element By.xpath: //select[@id='cmbFundName']/option[54] is retrieved
+2016-01-29 21:05:02 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[55] is visible
+2016-01-29 21:05:02 WARN  Elements:192 - The text Viteos_Legal_Entity_3026 from the element By.xpath: //select[@id='cmbFundName']/option[55] is retrieved
+2016-01-29 21:05:02 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[56] is visible
+2016-01-29 21:05:02 WARN  Elements:192 - The text Viteos_Legal_Entity_3031 from the element By.xpath: //select[@id='cmbFundName']/option[56] is retrieved
+2016-01-29 21:05:02 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[57] is visible
+2016-01-29 21:05:02 WARN  Elements:192 - The text Viteos_Legal_Entity_My001 from the element By.xpath: //select[@id='cmbFundName']/option[57] is retrieved
+2016-01-29 21:05:02 INFO  Verify:23 - Element By.xpath: //select[@id='cmbFundName']/option[58] is visible
+2016-01-29 21:05:02 WARN  Elements:192 - The text Viteos_LE_7 from the element By.xpath: //select[@id='cmbFundName']/option[58] is retrieved

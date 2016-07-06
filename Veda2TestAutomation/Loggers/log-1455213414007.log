@@ -1,0 +1,170 @@
+2016-02-11 23:26:59 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-11 23:26:59 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-02-11 23:26:59 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-11 23:26:59 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-11 23:26:59 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-11 23:27:02 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-11 23:27:03 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-11 23:27:03 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-11 23:27:05 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-11 23:27:05 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-02-11 23:27:05 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-02-11 23:27:05 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-02-11 23:27:05 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-02-11 23:27:05 INFO  Elements:48 - The textVI00000220 has been inputted successfully.
+2016-02-11 23:27:07 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='VI00000220'] is visible after waiting.
+2016-02-11 23:27:07 INFO  Wait:39 - element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000220'] is visible after waiting.
+2016-02-11 23:27:10 INFO  Elements:100 - The element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000220'] has been clicked successfully
+2016-02-11 23:27:10 INFO  Wait:39 - element By.xpath: //h4//p[contains(text(),'Feeder Subscription')] is visible after waiting.
+2016-02-11 23:27:10 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:10 WARN  Elements:198 - The text Viteos_Client from the element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:10 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:10 WARN  Elements:198 - The text Viteos_FundFamily from the element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:10 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:10 WARN  Elements:198 - The text Viteos_Account_Feeder_01 from the element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:11 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is visible
+2016-02-11 23:27:11 WARN  Elements:198 - The text AC00000080 from the element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:11 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:11 WARN  Elements:198 - The text Viteos_Account_Master01 from the element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:11 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is visible
+2016-02-11 23:27:11 WARN  Elements:198 - The text Liquid from the element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:11 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is visible
+2016-02-11 23:27:11 WARN  Elements:198 - The text 15-Feb-2016 from the element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:11 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is visible
+2016-02-11 23:27:11 WARN  Elements:198 - The text 2,000,000 from the element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:11 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is visible
+2016-02-11 23:27:11 WARN  Elements:198 - The text 200 from the element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:17 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Approve'] has been clicked successfully
+2016-02-11 23:27:17 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-11 23:27:17 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-11 23:27:17 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-11 23:27:19 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-11 23:27:20 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-02-11 23:27:20 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-02-11 23:27:20 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-02-11 23:27:20 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-02-11 23:27:20 INFO  Elements:48 - The textVI00000222 has been inputted successfully.
+2016-02-11 23:27:21 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='VI00000222'] is visible after waiting.
+2016-02-11 23:27:21 INFO  Wait:39 - element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000222'] is visible after waiting.
+2016-02-11 23:27:21 INFO  Elements:100 - The element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000222'] has been clicked successfully
+2016-02-11 23:27:21 INFO  Wait:39 - element By.xpath: //h4//p[contains(text(),'Feeder Subscription')] is visible after waiting.
+2016-02-11 23:27:21 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:22 WARN  Elements:198 - The text Viteos_Client01 from the element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:22 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:22 WARN  Elements:198 - The text Viteos_FundFamily_01 from the element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:22 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:22 WARN  Elements:198 - The text Viteos_LE_Feeder_01 from the element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:22 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is visible
+2016-02-11 23:27:22 WARN  Elements:198 - The text AC00000332 from the element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:22 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:22 WARN  Elements:198 - The text Viteos_LE_Master_01 from the element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:22 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is visible
+2016-02-11 23:27:22 WARN  Elements:198 - The text Long Short from the element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:22 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is visible
+2016-02-11 23:27:22 WARN  Elements:198 - The text 29-Feb-2016 from the element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:22 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is visible
+2016-02-11 23:27:22 WARN  Elements:198 - The text 1,000,000 from the element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:22 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is visible
+2016-02-11 23:27:22 WARN  Elements:198 - The text 10,000 from the element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:25 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Approve'] has been clicked successfully
+2016-02-11 23:27:25 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-11 23:27:25 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-11 23:27:25 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-11 23:27:27 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-11 23:27:27 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-02-11 23:27:27 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-02-11 23:27:27 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-02-11 23:27:27 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-02-11 23:27:27 INFO  Elements:48 - The textVI00000223 has been inputted successfully.
+2016-02-11 23:27:28 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='VI00000223'] is visible after waiting.
+2016-02-11 23:27:28 INFO  Wait:39 - element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000223'] is visible after waiting.
+2016-02-11 23:27:29 INFO  Elements:100 - The element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000223'] has been clicked successfully
+2016-02-11 23:27:29 INFO  Wait:39 - element By.xpath: //h4//p[contains(text(),'Feeder Subscription')] is visible after waiting.
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text Viteos_Client01 from the element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text Viteos_FundFamily_01 from the element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text Viteos_LE_Feeder_01 from the element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='From Class']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text Viteos_Class-Feeder_01 from the element By.xpath: //div[normalize-space()='From Class']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text AC00000259 from the element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text Viteos_LE_Master_01 from the element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text Test Strategy from the element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text 10-Feb-2016 from the element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text 50,000 from the element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:29 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is visible
+2016-02-11 23:27:29 WARN  Elements:198 - The text 500 from the element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:32 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Approve'] has been clicked successfully
+2016-02-11 23:27:32 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-11 23:27:32 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-11 23:27:32 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-11 23:27:35 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-11 23:27:35 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-02-11 23:27:35 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-02-11 23:27:35 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-02-11 23:27:35 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-02-11 23:27:35 INFO  Elements:48 - The textVI00000225 has been inputted successfully.
+2016-02-11 23:27:36 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='VI00000225'] is visible after waiting.
+2016-02-11 23:27:36 INFO  Wait:39 - element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000225'] is visible after waiting.
+2016-02-11 23:27:37 INFO  Elements:100 - The element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000225'] has been clicked successfully
+2016-02-11 23:27:37 INFO  Wait:39 - element By.xpath: //h4//p[contains(text(),'Feeder Subscription')] is visible after waiting.
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text Viteos_Client01 from the element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text Viteos_FundFamily_01 from the element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text Viteos_LE_Feeder_01 from the element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='From Class']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text Viteos_Class-Feeder_01 from the element By.xpath: //div[normalize-space()='From Class']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text AC00000259 from the element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text Viteos_LE_Master_01 from the element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text Bmp from the element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text 15-Feb-2016 from the element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text 601 from the element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:37 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is visible
+2016-02-11 23:27:37 WARN  Elements:198 - The text 6 from the element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:40 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-11 23:27:40 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-11 23:27:43 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-11 23:27:43 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-02-11 23:27:43 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-02-11 23:27:43 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-02-11 23:27:43 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-02-11 23:27:43 INFO  Elements:48 - The textVI00000226 has been inputted successfully.
+2016-02-11 23:27:44 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='VI00000226'] is visible after waiting.
+2016-02-11 23:27:44 INFO  Wait:39 - element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000226'] is visible after waiting.
+2016-02-11 23:27:45 INFO  Elements:100 - The element By.xpath: //div[@role='row']//div//div[contains(text(),'Feeder SUB')]//..//..//parent::div[@role='row']//div[1]//div//a[text()='VI00000226'] has been clicked successfully
+2016-02-11 23:27:45 INFO  Wait:39 - element By.xpath: //h4//p[contains(text(),'Feeder Subscription')] is visible after waiting.
+2016-02-11 23:27:45 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:45 WARN  Elements:198 - The text Viteos_Client from the element By.xpath: //div[normalize-space()='Client Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:45 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is visible
+2016-02-11 23:27:45 WARN  Elements:198 - The text Viteos_FundFamily from the element By.xpath: //div[normalize-space()='Fund Family Name']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:45 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:45 WARN  Elements:198 - The text Viteos_Account_Feeder_01 from the element By.xpath: //div[normalize-space()='From Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:45 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is visible
+2016-02-11 23:27:45 WARN  Elements:198 - The text AC00000336 from the element By.xpath: //div[normalize-space()='Fund Account']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:45 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is visible
+2016-02-11 23:27:45 WARN  Elements:198 - The text Viteos_Account_Master01 from the element By.xpath: //div[normalize-space()='To Fund']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:45 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is visible
+2016-02-11 23:27:45 WARN  Elements:198 - The text CMF STRATEGY from the element By.xpath: //div[normalize-space()='Strategy']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:45 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is visible
+2016-02-11 23:27:45 WARN  Elements:198 - The text 01-Mar-2016 from the element By.xpath: //div[normalize-space()='Effective Date']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:45 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is visible
+2016-02-11 23:27:45 WARN  Elements:198 - The text 5,000,000 from the element By.xpath: //div[normalize-space()='Amount']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:45 INFO  Verify:23 - Element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is visible
+2016-02-11 23:27:45 WARN  Elements:198 - The text 500 from the element By.xpath: //div[normalize-space()='Units']//following-sibling::div[1] is retrieved
+2016-02-11 23:27:49 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-02-11 23:27:49 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-02-11 23:27:49 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-02-11 23:27:49 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

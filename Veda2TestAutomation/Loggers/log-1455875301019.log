@@ -1,0 +1,9 @@
+2016-02-19 15:18:26 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-19 15:18:26 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-02-19 15:18:26 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-19 15:18:26 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-19 15:18:40 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-19 15:18:40 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-19 15:19:20 WARN  Wait:43 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER MANAGEMENT')] is not present after waiting 30 secs.
+2016-02-19 15:20:07 WARN  Wait:43 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER MANAGEMENT')] is not present after waiting 30 secs.
+2016-02-19 15:20:23 WARN  Wait:43 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER MANAGEMENT')] is not present after waiting 30 secs.

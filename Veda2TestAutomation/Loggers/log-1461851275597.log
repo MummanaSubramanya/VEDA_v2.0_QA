@@ -1,0 +1,14 @@
+2016-04-28 19:18:00 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-28 19:18:00 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-04-28 19:18:00 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-28 19:18:00 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-28 19:18:02 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-28 19:18:02 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-28 19:18:05 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-04-28 19:18:05 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-04-28 19:18:10 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-04-28 19:18:10 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-04-28 19:18:15 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-04-28 19:18:15 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-04-28 19:18:15 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-04-28 19:18:15 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

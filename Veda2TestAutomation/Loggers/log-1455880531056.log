@@ -1,0 +1,279 @@
+2016-02-19 16:45:36 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-19 16:45:36 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-02-19 16:45:36 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-19 16:45:36 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-19 16:45:50 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-19 16:45:50 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-19 16:46:21 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible after waiting.
+2016-02-19 16:46:21 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 16:46:21 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 16:46:21 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 16:46:21 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-02-19 16:46:22 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='User - Role'] has been clicked successfully
+2016-02-19 16:46:22 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='User'] is visible after waiting.
+2016-02-19 16:46:28 INFO  Wait:23 - element By.xpath: //div[@id='createUserLoader' and contains(@style , 'display: none')] is present after waiting.
+2016-02-19 16:46:29 INFO  Wait:23 - element By.xpath: //div[@id='createRoleLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:46:29 INFO  Wait:23 - element By.xpath: //div[@id='createGroupLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:46:32 INFO  Wait:39 - element By.xpath: //li[contains(text(), 'User')] is visible after waiting.
+2016-02-19 16:46:32 INFO  Elements:100 - The element By.xpath: //span[normalize-space(text())='Group']/../following-sibling::div[1]/a has been clicked successfully
+2016-02-19 16:46:32 INFO  Wait:39 - element By.xpath: //li[text()='Group'] is visible after waiting.
+2016-02-19 16:46:35 INFO  Wait:39 - element By.xpath: //li[text()='Group'] is visible after waiting.
+2016-02-19 16:46:36 INFO  Verify:23 - Element By.xpath: //input[@name='groupName'] is visible
+2016-02-19 16:46:36 INFO  Elements:48 - The textVitGroup1 has been inputted successfully.
+2016-02-19 16:46:40 WARN  Verify:27 - Element By.xpath: //em[@class='fa fa-close']//parent::button is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//em[@class='fa fa-close']//parent::button"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 53 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4576_8684}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27828360e26023807ee3aebcceb6c972
+*** Element info: {Using=xpath, value=//em[@class='fa fa-close']//parent::button}
+2016-02-19 16:46:40 WARN  Elements:35 - The xpath count of the element By.xpath: //em[@class='fa fa-close']//parent::button is 0 because no such element: Unable to locate element: {"method":"xpath","selector":"//em[@class='fa fa-close']//parent::button"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 53 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4576_8684}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27828360e26023807ee3aebcceb6c972
+*** Element info: {Using=xpath, value=//em[@class='fa fa-close']//parent::button}
+2016-02-19 16:46:54 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Yes']//input[@name='leFlag0'] has been clicked successfully
+2016-02-19 16:46:54 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_client0']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-19 16:46:54 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_Client'] is visible after waiting.
+2016-02-19 16:46:54 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_Client'] has been clicked successfully
+2016-02-19 16:46:54 WARN  Elements:106 - The element By.xpath: //div[@id='s2id_fundFamily0']//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (371, 375). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4576_8684}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27828360e26023807ee3aebcceb6c972
+2016-02-19 16:46:55 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fundFamily0']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-19 16:46:55 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_FundFamily'] is visible after waiting.
+2016-02-19 16:46:55 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_FundFamily'] has been clicked successfully
+2016-02-19 16:46:56 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllLegalEntityId0'] has been clicked successfully
+2016-02-19 16:46:57 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllLegalEntityId0'] has been clicked successfully
+2016-02-19 16:46:57 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_3000'] is present after waiting.
+2016-02-19 16:46:57 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_3000'] is visible
+2016-02-19 16:46:57 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_3000'] is visible and can be used
+2016-02-19 16:46:57 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_3001'] is present after waiting.
+2016-02-19 16:46:57 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_3001'] is visible
+2016-02-19 16:46:57 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_3001'] is visible and can be used
+2016-02-19 16:46:57 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_3003'] is present after waiting.
+2016-02-19 16:46:57 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_3003'] is visible
+2016-02-19 16:46:57 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_3003'] is visible and can be used
+2016-02-19 16:46:58 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllRoleId0'] has been clicked successfully
+2016-02-19 16:46:59 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllRoleId0'] has been clicked successfully
+2016-02-19 16:46:59 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD1'] is present after waiting.
+2016-02-19 16:46:59 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD1'] is visible
+2016-02-19 16:46:59 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD1'] is visible and can be used
+2016-02-19 16:47:02 INFO  Elements:100 - The element By.xpath: //div[@id='groupAddDiv' and contains(@style , 'display: block')]//button[contains(normalize-space(),'Save')] has been clicked successfully
+2016-02-19 16:47:07 INFO  Wait:23 - element By.xpath: //body[@class='page-header-fixed page-quick-sidebar-over-content page-sidebar-closed'] is present after waiting.
+2016-02-19 16:47:07 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-19 16:47:07 INFO  Elements:100 - The element By.xpath: //div[@class='alert alert-success']//button has been clicked successfully
+2016-02-19 16:47:19 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible after waiting.
+2016-02-19 16:47:19 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 16:47:19 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 16:47:19 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 16:47:19 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-02-19 16:47:20 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='User - Role'] has been clicked successfully
+2016-02-19 16:47:20 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='User'] is visible after waiting.
+2016-02-19 16:47:23 INFO  Wait:23 - element By.xpath: //div[@id='createUserLoader' and contains(@style , 'display: none')] is present after waiting.
+2016-02-19 16:47:23 INFO  Wait:23 - element By.xpath: //div[@id='createRoleLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:47:23 INFO  Wait:23 - element By.xpath: //div[@id='createGroupLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:47:23 INFO  Wait:39 - element By.xpath: //li[contains(text(), 'User')] is visible after waiting.
+2016-02-19 16:47:23 INFO  Elements:100 - The element By.xpath: //span[normalize-space(text())='Group']/../following-sibling::div[1]/a has been clicked successfully
+2016-02-19 16:47:23 INFO  Wait:39 - element By.xpath: //li[text()='Group'] is visible after waiting.
+2016-02-19 16:47:23 INFO  Wait:39 - element By.xpath: //li[text()='Group'] is visible after waiting.
+2016-02-19 16:47:23 INFO  Verify:23 - Element By.xpath: //input[@name='groupName'] is visible
+2016-02-19 16:47:23 INFO  Elements:48 - The textVitGroup2 has been inputted successfully.
+2016-02-19 16:47:23 WARN  Verify:27 - Element By.xpath: //em[@class='fa fa-close']//parent::button is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//em[@class='fa fa-close']//parent::button"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4576_8684}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27828360e26023807ee3aebcceb6c972
+*** Element info: {Using=xpath, value=//em[@class='fa fa-close']//parent::button}
+2016-02-19 16:47:23 WARN  Elements:35 - The xpath count of the element By.xpath: //em[@class='fa fa-close']//parent::button is 0 because no such element: Unable to locate element: {"method":"xpath","selector":"//em[@class='fa fa-close']//parent::button"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4576_8684}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27828360e26023807ee3aebcceb6c972
+*** Element info: {Using=xpath, value=//em[@class='fa fa-close']//parent::button}
+2016-02-19 16:47:24 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Yes']//input[@name='leFlag0'] has been clicked successfully
+2016-02-19 16:47:24 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_client0']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-19 16:47:24 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_Client'] is visible after waiting.
+2016-02-19 16:47:24 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_Client'] has been clicked successfully
+2016-02-19 16:47:24 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fundFamily0']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-19 16:47:24 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_FundFamily'] is visible after waiting.
+2016-02-19 16:47:24 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_FundFamily'] has been clicked successfully
+2016-02-19 16:47:25 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllLegalEntityId0'] has been clicked successfully
+2016-02-19 16:47:25 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllLegalEntityId0'] has been clicked successfully
+2016-02-19 16:47:25 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Series_1'] is present after waiting.
+2016-02-19 16:47:26 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Series_1'] is visible
+2016-02-19 16:47:26 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Series_1'] is visible and can be used
+2016-02-19 16:47:26 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Series_2'] is present after waiting.
+2016-02-19 16:47:26 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Series_2'] is visible
+2016-02-19 16:47:26 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Series_2'] is visible and can be used
+2016-02-19 16:47:26 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Parameter'] is present after waiting.
+2016-02-19 16:47:26 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Parameter'] is visible
+2016-02-19 16:47:26 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Parameter'] is visible and can be used
+2016-02-19 16:47:27 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllRoleId0'] has been clicked successfully
+2016-02-19 16:47:27 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllRoleId0'] has been clicked successfully
+2016-02-19 16:47:27 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD2'] is present after waiting.
+2016-02-19 16:47:27 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD2'] is visible
+2016-02-19 16:47:27 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD2'] is visible and can be used
+2016-02-19 16:47:27 INFO  Elements:100 - The element By.xpath: //div[@id='groupAddDiv' and contains(@style , 'display: block')]//button[contains(normalize-space(),'Save')] has been clicked successfully
+2016-02-19 16:47:29 INFO  Wait:23 - element By.xpath: //body[@class='page-header-fixed page-quick-sidebar-over-content page-sidebar-closed'] is present after waiting.
+2016-02-19 16:47:29 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-19 16:47:29 INFO  Elements:100 - The element By.xpath: //div[@class='alert alert-success']//button has been clicked successfully
+2016-02-19 16:47:37 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible after waiting.
+2016-02-19 16:47:37 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 16:47:37 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 16:47:37 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 16:47:37 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-02-19 16:47:38 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='User - Role'] has been clicked successfully
+2016-02-19 16:47:38 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='User'] is visible after waiting.
+2016-02-19 16:47:38 INFO  Wait:23 - element By.xpath: //div[@id='createUserLoader' and contains(@style , 'display: none')] is present after waiting.
+2016-02-19 16:47:38 INFO  Wait:23 - element By.xpath: //div[@id='createRoleLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:47:38 INFO  Wait:23 - element By.xpath: //div[@id='createGroupLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:47:38 INFO  Wait:39 - element By.xpath: //li[contains(text(), 'User')] is visible after waiting.
+2016-02-19 16:47:38 INFO  Elements:100 - The element By.xpath: //span[normalize-space(text())='Group']/../following-sibling::div[1]/a has been clicked successfully
+2016-02-19 16:47:38 INFO  Wait:39 - element By.xpath: //li[text()='Group'] is visible after waiting.
+2016-02-19 16:47:38 INFO  Wait:39 - element By.xpath: //li[text()='Group'] is visible after waiting.
+2016-02-19 16:47:38 INFO  Verify:23 - Element By.xpath: //input[@name='groupName'] is visible
+2016-02-19 16:47:39 INFO  Elements:48 - The textVitGroup3 has been inputted successfully.
+2016-02-19 16:47:39 WARN  Verify:27 - Element By.xpath: //em[@class='fa fa-close']//parent::button is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//em[@class='fa fa-close']//parent::button"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4576_8684}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27828360e26023807ee3aebcceb6c972
+*** Element info: {Using=xpath, value=//em[@class='fa fa-close']//parent::button}
+2016-02-19 16:47:39 WARN  Elements:35 - The xpath count of the element By.xpath: //em[@class='fa fa-close']//parent::button is 0 because no such element: Unable to locate element: {"method":"xpath","selector":"//em[@class='fa fa-close']//parent::button"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4576_8684}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27828360e26023807ee3aebcceb6c972
+*** Element info: {Using=xpath, value=//em[@class='fa fa-close']//parent::button}
+2016-02-19 16:47:40 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Yes']//input[@name='leFlag0'] has been clicked successfully
+2016-02-19 16:47:40 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_client0']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-19 16:47:40 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_Client'] is visible after waiting.
+2016-02-19 16:47:40 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_Client'] has been clicked successfully
+2016-02-19 16:47:40 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fundFamily0']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-19 16:47:40 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_FundFamily'] is visible after waiting.
+2016-02-19 16:47:40 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_FundFamily'] has been clicked successfully
+2016-02-19 16:47:41 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllLegalEntityId0'] has been clicked successfully
+2016-02-19 16:47:42 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllLegalEntityId0'] has been clicked successfully
+2016-02-19 16:47:42 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Management_Fee'] is present after waiting.
+2016-02-19 16:47:42 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Management_Fee'] is visible
+2016-02-19 16:47:42 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Management_Fee'] is visible and can be used
+2016-02-19 16:47:42 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Parameter'] is present after waiting.
+2016-02-19 16:47:42 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Parameter'] is visible
+2016-02-19 16:47:42 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Parameter'] is visible and can be used
+2016-02-19 16:47:42 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Incentive_Cumulative'] is present after waiting.
+2016-02-19 16:47:42 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Incentive_Cumulative'] is visible
+2016-02-19 16:47:42 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Incentive_Cumulative'] is visible and can be used
+2016-02-19 16:47:43 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllRoleId0'] has been clicked successfully
+2016-02-19 16:47:43 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllRoleId0'] has been clicked successfully
+2016-02-19 16:47:43 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD3'] is present after waiting.
+2016-02-19 16:47:43 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD3'] is visible
+2016-02-19 16:47:43 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD3'] is visible and can be used
+2016-02-19 16:47:43 INFO  Elements:100 - The element By.xpath: //div[@id='groupAddDiv' and contains(@style , 'display: block')]//button[contains(normalize-space(),'Save')] has been clicked successfully
+2016-02-19 16:47:45 INFO  Wait:23 - element By.xpath: //body[@class='page-header-fixed page-quick-sidebar-over-content page-sidebar-closed'] is present after waiting.
+2016-02-19 16:47:45 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-19 16:47:45 INFO  Elements:100 - The element By.xpath: //div[@class='alert alert-success']//button has been clicked successfully
+2016-02-19 16:47:46 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible after waiting.
+2016-02-19 16:47:46 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 16:47:46 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 16:47:46 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 16:47:46 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-02-19 16:47:47 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='User - Role'] has been clicked successfully
+2016-02-19 16:47:47 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='User'] is visible after waiting.
+2016-02-19 16:47:47 INFO  Wait:23 - element By.xpath: //div[@id='createUserLoader' and contains(@style , 'display: none')] is present after waiting.
+2016-02-19 16:47:47 INFO  Wait:23 - element By.xpath: //div[@id='createRoleLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:47:47 INFO  Wait:23 - element By.xpath: //div[@id='createGroupLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:47:47 INFO  Wait:39 - element By.xpath: //li[contains(text(), 'User')] is visible after waiting.
+2016-02-19 16:47:47 INFO  Elements:100 - The element By.xpath: //span[normalize-space(text())='Group']/../following-sibling::div[1]/a has been clicked successfully
+2016-02-19 16:47:47 INFO  Wait:39 - element By.xpath: //li[text()='Group'] is visible after waiting.
+2016-02-19 16:47:47 INFO  Wait:39 - element By.xpath: //li[text()='Group'] is visible after waiting.
+2016-02-19 16:47:47 INFO  Verify:23 - Element By.xpath: //input[@name='groupName'] is visible
+2016-02-19 16:47:48 INFO  Elements:48 - The textVitGroup4 has been inputted successfully.
+2016-02-19 16:47:48 WARN  Verify:27 - Element By.xpath: //em[@class='fa fa-close']//parent::button is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//em[@class='fa fa-close']//parent::button"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4576_8684}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27828360e26023807ee3aebcceb6c972
+*** Element info: {Using=xpath, value=//em[@class='fa fa-close']//parent::button}
+2016-02-19 16:47:48 WARN  Elements:35 - The xpath count of the element By.xpath: //em[@class='fa fa-close']//parent::button is 0 because no such element: Unable to locate element: {"method":"xpath","selector":"//em[@class='fa fa-close']//parent::button"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4576_8684}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27828360e26023807ee3aebcceb6c972
+*** Element info: {Using=xpath, value=//em[@class='fa fa-close']//parent::button}
+2016-02-19 16:47:49 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Yes']//input[@name='leFlag0'] has been clicked successfully
+2016-02-19 16:47:49 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_client0']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-19 16:47:49 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_Client'] is visible after waiting.
+2016-02-19 16:47:49 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_Client'] has been clicked successfully
+2016-02-19 16:47:49 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fundFamily0']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-19 16:47:49 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_FundFamily'] is visible after waiting.
+2016-02-19 16:47:49 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Viteos_FundFamily'] has been clicked successfully
+2016-02-19 16:47:50 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllLegalEntityId0'] has been clicked successfully
+2016-02-19 16:47:50 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllLegalEntityId0'] has been clicked successfully
+2016-02-19 16:47:50 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Management_Fee'] is present after waiting.
+2016-02-19 16:47:50 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Management_Fee'] is visible
+2016-02-19 16:47:50 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Management_Fee'] is visible and can be used
+2016-02-19 16:47:50 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Parameter'] is present after waiting.
+2016-02-19 16:47:50 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Parameter'] is visible
+2016-02-19 16:47:50 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Parameter'] is visible and can be used
+2016-02-19 16:47:51 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Incentive_Cumulative'] is present after waiting.
+2016-02-19 16:47:51 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Incentive_Cumulative'] is visible
+2016-02-19 16:47:51 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Legal Entity']/following-sibling::div[1]//select[@id='legalEntity0']/option[text()='Viteos_Legal_Entity_For_Incentive_Cumulative'] is visible and can be used
+2016-02-19 16:47:51 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllRoleId0'] has been clicked successfully
+2016-02-19 16:47:52 INFO  Elements:100 - The element By.xpath: //input[@id='selectAllRoleId0'] has been clicked successfully
+2016-02-19 16:47:52 INFO  Wait:23 - element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD4'] is present after waiting.
+2016-02-19 16:47:52 INFO  Verify:23 - Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD4'] is visible
+2016-02-19 16:47:52 INFO  Elements:17 - The Element By.xpath: //div[@id='leRoleListHtml']//label[normalize-space(text())='Role']/following-sibling::div[1]//select[@id='role0']/option[text()='RoleRD4'] is visible and can be used
+2016-02-19 16:47:52 INFO  Elements:100 - The element By.xpath: //div[@id='groupAddDiv' and contains(@style , 'display: block')]//button[contains(normalize-space(),'Save')] has been clicked successfully
+2016-02-19 16:47:53 INFO  Wait:23 - element By.xpath: //body[@class='page-header-fixed page-quick-sidebar-over-content page-sidebar-closed'] is present after waiting.
+2016-02-19 16:47:53 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-19 16:47:53 INFO  Elements:100 - The element By.xpath: //div[@class='alert alert-success']//button has been clicked successfully
+2016-02-19 16:47:56 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-02-19 16:47:56 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-02-19 16:47:56 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-02-19 16:47:56 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

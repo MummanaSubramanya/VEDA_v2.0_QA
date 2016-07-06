@@ -1,0 +1,1166 @@
+2016-05-10 22:06:38 INFO  Verify:23 - Element By.id: j_username is visible
+2016-05-10 22:06:38 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-05-10 22:06:38 INFO  Verify:23 - Element By.id: j_password is visible
+2016-05-10 22:06:38 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-05-10 22:06:40 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-05-10 22:06:40 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-05-10 22:06:42 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:06:42 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:06:42 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:06:42 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:06:42 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:06:43 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:06:43 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:06:43 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:06:44 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:06:44 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:06:44 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:06:44 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] is visible after waiting.
+2016-05-10 22:06:45 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] has been clicked successfully
+2016-05-10 22:06:45 WARN  Elements:106 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (659, 250). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 26 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+2016-05-10 22:06:47 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:06:47 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] is visible after waiting.
+2016-05-10 22:06:47 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] has been clicked successfully
+2016-05-10 22:06:48 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:06:48 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 43 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:06:48 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:06:48 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:06:48 WARN  Elements:198 - The text  Investor Account added successfully with id AC0090 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:06:49 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:06:49 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:06:49 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:06:49 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:06:49 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:06:50 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:06:50 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:06:50 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:06:51 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:06:51 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:06:51 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:06:51 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments Institutional Master Fund, Ltd" or text()="Alternative Investments Institutional Master Fund, Ltd"] is visible after waiting.
+2016-05-10 22:06:51 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments Institutional Master Fund, Ltd" or text()="Alternative Investments Institutional Master Fund, Ltd"] has been clicked successfully
+2016-05-10 22:06:51 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:06:51 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments Institutional Master Fund, Ltd" or text()="Alternative Investments Institutional Master Fund, Ltd"] is visible after waiting.
+2016-05-10 22:06:51 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments Institutional Master Fund, Ltd" or text()="Alternative Investments Institutional Master Fund, Ltd"] has been clicked successfully
+2016-05-10 22:06:52 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:06:52 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:06:52 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:06:52 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:06:52 WARN  Elements:198 - The text  Investor Account added successfully with id AC0091 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:06:53 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:06:53 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:06:53 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:06:53 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:06:53 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:06:53 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:06:53 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:06:53 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:06:54 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:06:54 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:06:54 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:06:54 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Barfield Nominees Limited AC 16604" or text()="Barfield Nominees Limited AC 16604"] is visible after waiting.
+2016-05-10 22:06:54 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Barfield Nominees Limited AC 16604" or text()="Barfield Nominees Limited AC 16604"] has been clicked successfully
+2016-05-10 22:06:54 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:06:54 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Barfield Nominees Limited AC 16604" or text()="Barfield Nominees Limited AC 16604"] is visible after waiting.
+2016-05-10 22:06:54 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Barfield Nominees Limited AC 16604" or text()="Barfield Nominees Limited AC 16604"] has been clicked successfully
+2016-05-10 22:06:55 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:06:55 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:06:55 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:06:55 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:06:55 WARN  Elements:198 - The text  Investor Account added successfully with id AC0092 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:06:56 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:06:56 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:06:56 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:06:56 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:06:56 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:06:57 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:06:57 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:06:57 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:06:58 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:06:58 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:06:58 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:06:58 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co FBO: Ross Arnold Stramler" or text()="NTC & Co FBO: Ross Arnold Stramler"] is visible after waiting.
+2016-05-10 22:06:58 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co FBO: Ross Arnold Stramler" or text()="NTC & Co FBO: Ross Arnold Stramler"] has been clicked successfully
+2016-05-10 22:06:58 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:06:58 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co FBO: Ross Arnold Stramler" or text()="NTC & Co FBO: Ross Arnold Stramler"] is visible after waiting.
+2016-05-10 22:06:58 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co FBO: Ross Arnold Stramler" or text()="NTC & Co FBO: Ross Arnold Stramler"] has been clicked successfully
+2016-05-10 22:06:59 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:06:59 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:06:59 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:06:59 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:06:59 WARN  Elements:198 - The text  Investor Account added successfully with id AC0093 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:00 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:00 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:00 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:00 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:00 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:00 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:00 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:00 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:01 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:01 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:01 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:01 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] is visible after waiting.
+2016-05-10 22:07:01 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] has been clicked successfully
+2016-05-10 22:07:01 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:01 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] is visible after waiting.
+2016-05-10 22:07:01 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] has been clicked successfully
+2016-05-10 22:07:02 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:02 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:02 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:02 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:02 WARN  Elements:198 - The text  Investor Account added successfully with id AC0094 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:03 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:03 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:03 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:03 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:03 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:04 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:04 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:04 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:04 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:04 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:04 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:05 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] is visible after waiting.
+2016-05-10 22:07:05 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] has been clicked successfully
+2016-05-10 22:07:05 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:05 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] is visible after waiting.
+2016-05-10 22:07:05 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] has been clicked successfully
+2016-05-10 22:07:05 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:05 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:05 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:05 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:05 WARN  Elements:198 - The text  Investor Account added successfully with id AC0095 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:06 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:06 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:06 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:06 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:06 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:07 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:07 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:07 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:07 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:08 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:08 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:08 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Deutsche Bank (Cayman) Limited" or text()="Deutsche Bank (Cayman) Limited"] is visible after waiting.
+2016-05-10 22:07:08 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Deutsche Bank (Cayman) Limited" or text()="Deutsche Bank (Cayman) Limited"] has been clicked successfully
+2016-05-10 22:07:08 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:08 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Deutsche Bank (Cayman) Limited" or text()="Deutsche Bank (Cayman) Limited"] is visible after waiting.
+2016-05-10 22:07:08 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Deutsche Bank (Cayman) Limited" or text()="Deutsche Bank (Cayman) Limited"] has been clicked successfully
+2016-05-10 22:07:08 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:09 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:09 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:09 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:09 WARN  Elements:198 - The text  Investor Account added successfully with id AC0096 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:09 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:09 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:09 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:10 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:10 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:10 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:10 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:10 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:11 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:11 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:11 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:11 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="JP Morgan Chase Bank NA" or text()="JP Morgan Chase Bank NA"] is visible after waiting.
+2016-05-10 22:07:11 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="JP Morgan Chase Bank NA" or text()="JP Morgan Chase Bank NA"] has been clicked successfully
+2016-05-10 22:07:11 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:11 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="JP Morgan Chase Bank NA" or text()="JP Morgan Chase Bank NA"] is visible after waiting.
+2016-05-10 22:07:11 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="JP Morgan Chase Bank NA" or text()="JP Morgan Chase Bank NA"] has been clicked successfully
+2016-05-10 22:07:12 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:12 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:12 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:12 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:12 WARN  Elements:198 - The text  Investor Account added successfully with id AC0097 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:13 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:13 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:13 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:13 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:13 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:13 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:13 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:13 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:14 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:14 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:14 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:14 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] is visible after waiting.
+2016-05-10 22:07:14 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] has been clicked successfully
+2016-05-10 22:07:14 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:14 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] is visible after waiting.
+2016-05-10 22:07:14 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] has been clicked successfully
+2016-05-10 22:07:15 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:15 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:15 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:15 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:16 WARN  Elements:198 - The text  Investor Account added successfully with id AC0098 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:16 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:16 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:16 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:16 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:16 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:17 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:17 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:17 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:18 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:18 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:18 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:18 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Robert Lee Gilbert Trust UA 02-25-1991" or text()="Robert Lee Gilbert Trust UA 02-25-1991"] is visible after waiting.
+2016-05-10 22:07:18 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Robert Lee Gilbert Trust UA 02-25-1991" or text()="Robert Lee Gilbert Trust UA 02-25-1991"] has been clicked successfully
+2016-05-10 22:07:18 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:18 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Robert Lee Gilbert Trust UA 02-25-1991" or text()="Robert Lee Gilbert Trust UA 02-25-1991"] is visible after waiting.
+2016-05-10 22:07:18 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Robert Lee Gilbert Trust UA 02-25-1991" or text()="Robert Lee Gilbert Trust UA 02-25-1991"] has been clicked successfully
+2016-05-10 22:07:19 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:19 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:19 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:19 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:19 WARN  Elements:198 - The text  Investor Account added successfully with id AC0099 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:20 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:20 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:20 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:20 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:20 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:20 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:20 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:20 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:21 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:21 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:21 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:21 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital Management LLC" or text()="Connective Capital Management LLC"] is visible after waiting.
+2016-05-10 22:07:21 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital Management LLC" or text()="Connective Capital Management LLC"] has been clicked successfully
+2016-05-10 22:07:21 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:21 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital Management LLC" or text()="Connective Capital Management LLC"] is visible after waiting.
+2016-05-10 22:07:21 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital Management LLC" or text()="Connective Capital Management LLC"] has been clicked successfully
+2016-05-10 22:07:22 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:22 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:22 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:22 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:22 WARN  Elements:198 - The text  Investor Account added successfully with id AC0100 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:23 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:23 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:23 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:23 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:23 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:24 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:24 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:24 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:24 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:24 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:25 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:25 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mt. Tam Partners, LP" or text()="Mt. Tam Partners, LP"] is visible after waiting.
+2016-05-10 22:07:25 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mt. Tam Partners, LP" or text()="Mt. Tam Partners, LP"] has been clicked successfully
+2016-05-10 22:07:25 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:25 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mt. Tam Partners, LP" or text()="Mt. Tam Partners, LP"] is visible after waiting.
+2016-05-10 22:07:25 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mt. Tam Partners, LP" or text()="Mt. Tam Partners, LP"] has been clicked successfully
+2016-05-10 22:07:25 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:25 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:25 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:25 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:25 WARN  Elements:198 - The text  Investor Account added successfully with id AC0101 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:26 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:26 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:26 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:26 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:26 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:27 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:27 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:27 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:28 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:28 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:28 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:28 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sawyer Family Trust" or text()="Sawyer Family Trust"] is visible after waiting.
+2016-05-10 22:07:28 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sawyer Family Trust" or text()="Sawyer Family Trust"] has been clicked successfully
+2016-05-10 22:07:28 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:28 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sawyer Family Trust" or text()="Sawyer Family Trust"] is visible after waiting.
+2016-05-10 22:07:28 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sawyer Family Trust" or text()="Sawyer Family Trust"] has been clicked successfully
+2016-05-10 22:07:29 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:29 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:29 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:29 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:29 WARN  Elements:198 - The text  Investor Account added successfully with id AC0102 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:30 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:30 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:30 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:30 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:30 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:30 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:30 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:30 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:31 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:31 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:31 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:31 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Bartner Family LLC" or text()="Bartner Family LLC"] is visible after waiting.
+2016-05-10 22:07:31 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Bartner Family LLC" or text()="Bartner Family LLC"] has been clicked successfully
+2016-05-10 22:07:31 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:31 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Bartner Family LLC" or text()="Bartner Family LLC"] is visible after waiting.
+2016-05-10 22:07:31 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Bartner Family LLC" or text()="Bartner Family LLC"] has been clicked successfully
+2016-05-10 22:07:32 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:32 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 26 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:32 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:32 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:32 WARN  Elements:198 - The text  Investor Account added successfully with id AC0103 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:33 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:33 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:33 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:33 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:33 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:34 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:34 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:34 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:34 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:34 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:34 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:34 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Straus Family Trust" or text()="Straus Family Trust"] is visible after waiting.
+2016-05-10 22:07:34 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Straus Family Trust" or text()="Straus Family Trust"] has been clicked successfully
+2016-05-10 22:07:35 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:35 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Straus Family Trust" or text()="Straus Family Trust"] is visible after waiting.
+2016-05-10 22:07:35 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Straus Family Trust" or text()="Straus Family Trust"] has been clicked successfully
+2016-05-10 22:07:35 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:35 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:35 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:35 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:35 WARN  Elements:198 - The text  Investor Account added successfully with id AC0104 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:36 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:36 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:36 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:36 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:36 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:37 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:37 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:37 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:38 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:38 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:38 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:38 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Partners, LP" or text()="Athena Stonehorse Partners, LP"] is visible after waiting.
+2016-05-10 22:07:38 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Partners, LP" or text()="Athena Stonehorse Partners, LP"] has been clicked successfully
+2016-05-10 22:07:38 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:38 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Partners, LP" or text()="Athena Stonehorse Partners, LP"] is visible after waiting.
+2016-05-10 22:07:38 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Partners, LP" or text()="Athena Stonehorse Partners, LP"] has been clicked successfully
+2016-05-10 22:07:39 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:39 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:39 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:39 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:39 WARN  Elements:198 - The text  Investor Account added successfully with id AC0105 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:40 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:40 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:40 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:40 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:40 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:40 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:40 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:40 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:41 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:41 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:41 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:41 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="The Terry L. and Janice G. Opdendyk Living Trust" or text()="The Terry L. and Janice G. Opdendyk Living Trust"] is visible after waiting.
+2016-05-10 22:07:41 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="The Terry L. and Janice G. Opdendyk Living Trust" or text()="The Terry L. and Janice G. Opdendyk Living Trust"] has been clicked successfully
+2016-05-10 22:07:41 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:41 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="The Terry L. and Janice G. Opdendyk Living Trust" or text()="The Terry L. and Janice G. Opdendyk Living Trust"] is visible after waiting.
+2016-05-10 22:07:41 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="The Terry L. and Janice G. Opdendyk Living Trust" or text()="The Terry L. and Janice G. Opdendyk Living Trust"] has been clicked successfully
+2016-05-10 22:07:42 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:42 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:42 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:42 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:42 WARN  Elements:198 - The text  Investor Account added successfully with id AC0106 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:43 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:43 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:43 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:43 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:43 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:43 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:43 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:44 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:44 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:44 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:44 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:44 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Orsak Family Trust" or text()="Orsak Family Trust"] is visible after waiting.
+2016-05-10 22:07:44 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Orsak Family Trust" or text()="Orsak Family Trust"] has been clicked successfully
+2016-05-10 22:07:44 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:44 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Orsak Family Trust" or text()="Orsak Family Trust"] is visible after waiting.
+2016-05-10 22:07:45 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Orsak Family Trust" or text()="Orsak Family Trust"] has been clicked successfully
+2016-05-10 22:07:45 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:45 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:45 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:45 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:45 WARN  Elements:198 - The text  Investor Account added successfully with id AC0107 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:46 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:46 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:46 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:46 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:46 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:47 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:47 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:47 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:47 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:48 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:48 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:48 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Boyle Family Trust U/D/T Dated 9-3-1998" or text()="Boyle Family Trust U/D/T Dated 9-3-1998"] is visible after waiting.
+2016-05-10 22:07:48 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Boyle Family Trust U/D/T Dated 9-3-1998" or text()="Boyle Family Trust U/D/T Dated 9-3-1998"] has been clicked successfully
+2016-05-10 22:07:48 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:48 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Boyle Family Trust U/D/T Dated 9-3-1998" or text()="Boyle Family Trust U/D/T Dated 9-3-1998"] is visible after waiting.
+2016-05-10 22:07:48 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Boyle Family Trust U/D/T Dated 9-3-1998" or text()="Boyle Family Trust U/D/T Dated 9-3-1998"] has been clicked successfully
+2016-05-10 22:07:48 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:48 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 26 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:49 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:49 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:49 WARN  Elements:198 - The text  Investor Account added successfully with id AC0108 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:49 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:49 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:49 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:49 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:49 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:50 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:50 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:50 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:51 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:51 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:51 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:51 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Treehouse Capital LLC" or text()="Treehouse Capital LLC"] is visible after waiting.
+2016-05-10 22:07:51 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Treehouse Capital LLC" or text()="Treehouse Capital LLC"] has been clicked successfully
+2016-05-10 22:07:51 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:51 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Treehouse Capital LLC" or text()="Treehouse Capital LLC"] is visible after waiting.
+2016-05-10 22:07:51 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Treehouse Capital LLC" or text()="Treehouse Capital LLC"] has been clicked successfully
+2016-05-10 22:07:52 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:52 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 26 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:52 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:52 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:52 WARN  Elements:198 - The text  Investor Account added successfully with id AC0109 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:53 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:53 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:53 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:53 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:53 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:53 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:53 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:53 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:54 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:54 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:54 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:54 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Vanoverbeek-Hawley Living Trust, dtd 4-30-04" or text()="Vanoverbeek-Hawley Living Trust, dtd 4-30-04"] is visible after waiting.
+2016-05-10 22:07:54 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Vanoverbeek-Hawley Living Trust, dtd 4-30-04" or text()="Vanoverbeek-Hawley Living Trust, dtd 4-30-04"] has been clicked successfully
+2016-05-10 22:07:54 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:54 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Vanoverbeek-Hawley Living Trust, dtd 4-30-04" or text()="Vanoverbeek-Hawley Living Trust, dtd 4-30-04"] is visible after waiting.
+2016-05-10 22:07:54 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Vanoverbeek-Hawley Living Trust, dtd 4-30-04" or text()="Vanoverbeek-Hawley Living Trust, dtd 4-30-04"] has been clicked successfully
+2016-05-10 22:07:55 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:55 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:55 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:55 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:55 WARN  Elements:198 - The text  Investor Account added successfully with id AC0110 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:56 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:56 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:56 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:56 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:56 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:07:57 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:07:57 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:07:57 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:07:57 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:07:57 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:07:57 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:57 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments, LP" or text()="Alternative Investments, LP"] is visible after waiting.
+2016-05-10 22:07:57 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments, LP" or text()="Alternative Investments, LP"] has been clicked successfully
+2016-05-10 22:07:58 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:07:58 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments, LP" or text()="Alternative Investments, LP"] is visible after waiting.
+2016-05-10 22:07:58 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments, LP" or text()="Alternative Investments, LP"] has been clicked successfully
+2016-05-10 22:07:58 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:07:58 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:07:58 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:07:58 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:07:58 WARN  Elements:198 - The text  Investor Account added successfully with id AC0111 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:07:59 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:07:59 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:07:59 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:07:59 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:07:59 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:00 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:00 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:00 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:00 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:01 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:01 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:01 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="KW Capital, LP" or text()="KW Capital, LP"] is visible after waiting.
+2016-05-10 22:08:01 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="KW Capital, LP" or text()="KW Capital, LP"] has been clicked successfully
+2016-05-10 22:08:01 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:01 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="KW Capital, LP" or text()="KW Capital, LP"] is visible after waiting.
+2016-05-10 22:08:01 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="KW Capital, LP" or text()="KW Capital, LP"] has been clicked successfully
+2016-05-10 22:08:01 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:01 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:01 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:02 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:02 WARN  Elements:198 - The text  Investor Account added successfully with id AC0112 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:02 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:02 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:02 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:02 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:02 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:03 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:03 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:03 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:04 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:04 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:04 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:04 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mark Boyce" or text()="Mark Boyce"] is visible after waiting.
+2016-05-10 22:08:04 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mark Boyce" or text()="Mark Boyce"] has been clicked successfully
+2016-05-10 22:08:04 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:04 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mark Boyce" or text()="Mark Boyce"] is visible after waiting.
+2016-05-10 22:08:04 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mark Boyce" or text()="Mark Boyce"] has been clicked successfully
+2016-05-10 22:08:05 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:05 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:05 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:05 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:05 WARN  Elements:198 - The text  Investor Account added successfully with id AC0113 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:06 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:06 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:06 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:06 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:06 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:06 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:06 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:07 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:07 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:07 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:07 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:07 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Robert Romero" or text()="Robert Romero"] is visible after waiting.
+2016-05-10 22:08:07 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Robert Romero" or text()="Robert Romero"] has been clicked successfully
+2016-05-10 22:08:07 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:07 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Robert Romero" or text()="Robert Romero"] is visible after waiting.
+2016-05-10 22:08:07 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Robert Romero" or text()="Robert Romero"] has been clicked successfully
+2016-05-10 22:08:08 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:08 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:08 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:08 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:08 WARN  Elements:198 - The text  Investor Account added successfully with id AC0114 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:09 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:09 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:09 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:09 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:09 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:10 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:10 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:10 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:10 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:10 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:10 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:10 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="David Lichtenger TOD Sylvia Lichtenger" or text()="David Lichtenger TOD Sylvia Lichtenger"] is visible after waiting.
+2016-05-10 22:08:11 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="David Lichtenger TOD Sylvia Lichtenger" or text()="David Lichtenger TOD Sylvia Lichtenger"] has been clicked successfully
+2016-05-10 22:08:11 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:11 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="David Lichtenger TOD Sylvia Lichtenger" or text()="David Lichtenger TOD Sylvia Lichtenger"] is visible after waiting.
+2016-05-10 22:08:11 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="David Lichtenger TOD Sylvia Lichtenger" or text()="David Lichtenger TOD Sylvia Lichtenger"] has been clicked successfully
+2016-05-10 22:08:11 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:11 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:11 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:11 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:11 WARN  Elements:198 - The text  Investor Account added successfully with id AC0115 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:12 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:12 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:12 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:12 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:12 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:13 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:13 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:13 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:13 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:13 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:14 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:14 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sidney Chen" or text()="Sidney Chen"] is visible after waiting.
+2016-05-10 22:08:14 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sidney Chen" or text()="Sidney Chen"] has been clicked successfully
+2016-05-10 22:08:14 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:14 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sidney Chen" or text()="Sidney Chen"] is visible after waiting.
+2016-05-10 22:08:14 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sidney Chen" or text()="Sidney Chen"] has been clicked successfully
+2016-05-10 22:08:14 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:14 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:14 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:15 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:15 WARN  Elements:198 - The text  Investor Account added successfully with id AC0116 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:15 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:15 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:15 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:15 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:15 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:16 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:16 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:16 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:17 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:17 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:17 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:17 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="David Schellhase" or text()="David Schellhase"] is visible after waiting.
+2016-05-10 22:08:17 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="David Schellhase" or text()="David Schellhase"] has been clicked successfully
+2016-05-10 22:08:17 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:17 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="David Schellhase" or text()="David Schellhase"] is visible after waiting.
+2016-05-10 22:08:17 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="David Schellhase" or text()="David Schellhase"] has been clicked successfully
+2016-05-10 22:08:18 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:18 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:18 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:18 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:18 WARN  Elements:198 - The text  Investor Account added successfully with id AC0117 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:19 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:19 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:19 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:19 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:19 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:19 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:19 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:19 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:20 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:20 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:20 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:20 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Lois Romero" or text()="Lois Romero"] is visible after waiting.
+2016-05-10 22:08:20 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Lois Romero" or text()="Lois Romero"] has been clicked successfully
+2016-05-10 22:08:20 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:20 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Lois Romero" or text()="Lois Romero"] is visible after waiting.
+2016-05-10 22:08:20 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Lois Romero" or text()="Lois Romero"] has been clicked successfully
+2016-05-10 22:08:21 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:21 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:21 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:21 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:21 WARN  Elements:198 - The text  Investor Account added successfully with id AC0118 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:22 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:22 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:22 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:22 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:22 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:22 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:23 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:23 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:23 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:23 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:23 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:23 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alex P Antebi" or text()="Alex P Antebi"] is visible after waiting.
+2016-05-10 22:08:23 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alex P Antebi" or text()="Alex P Antebi"] has been clicked successfully
+2016-05-10 22:08:23 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:24 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alex P Antebi" or text()="Alex P Antebi"] is visible after waiting.
+2016-05-10 22:08:24 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alex P Antebi" or text()="Alex P Antebi"] has been clicked successfully
+2016-05-10 22:08:24 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:24 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:24 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:24 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:24 WARN  Elements:198 - The text  Investor Account added successfully with id AC0119 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:25 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:25 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:25 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:25 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:25 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:26 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:26 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:26 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:26 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:26 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:27 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:27 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Ross A Stramler" or text()="Ross A Stramler"] is visible after waiting.
+2016-05-10 22:08:27 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Ross A Stramler" or text()="Ross A Stramler"] has been clicked successfully
+2016-05-10 22:08:27 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:27 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Ross A Stramler" or text()="Ross A Stramler"] is visible after waiting.
+2016-05-10 22:08:27 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Ross A Stramler" or text()="Ross A Stramler"] has been clicked successfully
+2016-05-10 22:08:27 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:28 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:28 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:28 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:28 WARN  Elements:198 - The text  Investor Account added successfully with id AC0120 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:28 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:28 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:28 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:28 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:28 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:29 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:29 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:29 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:30 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:30 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:30 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:30 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Peter Sinclair" or text()="Peter Sinclair"] is visible after waiting.
+2016-05-10 22:08:30 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Peter Sinclair" or text()="Peter Sinclair"] has been clicked successfully
+2016-05-10 22:08:30 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:30 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Peter Sinclair" or text()="Peter Sinclair"] is visible after waiting.
+2016-05-10 22:08:30 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Peter Sinclair" or text()="Peter Sinclair"] has been clicked successfully
+2016-05-10 22:08:31 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:31 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:31 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:31 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:31 WARN  Elements:198 - The text  Investor Account added successfully with id AC0121 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:32 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:32 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:32 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:32 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:32 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:32 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:32 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:32 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:33 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:33 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:33 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:33 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sarah Vanoverbeek" or text()="Sarah Vanoverbeek"] is visible after waiting.
+2016-05-10 22:08:33 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sarah Vanoverbeek" or text()="Sarah Vanoverbeek"] has been clicked successfully
+2016-05-10 22:08:33 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:33 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sarah Vanoverbeek" or text()="Sarah Vanoverbeek"] is visible after waiting.
+2016-05-10 22:08:33 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Sarah Vanoverbeek" or text()="Sarah Vanoverbeek"] has been clicked successfully
+2016-05-10 22:08:34 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:34 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:34 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:34 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:34 WARN  Elements:198 - The text  Investor Account added successfully with id AC0122 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:35 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:35 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:35 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:35 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:35 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:36 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:36 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:36 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:36 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:36 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:36 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:36 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Emily K Brown" or text()="Emily K Brown"] is visible after waiting.
+2016-05-10 22:08:36 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Emily K Brown" or text()="Emily K Brown"] has been clicked successfully
+2016-05-10 22:08:37 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:37 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Emily K Brown" or text()="Emily K Brown"] is visible after waiting.
+2016-05-10 22:08:37 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Emily K Brown" or text()="Emily K Brown"] has been clicked successfully
+2016-05-10 22:08:37 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:37 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:37 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:37 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:37 WARN  Elements:198 - The text  Investor Account added successfully with id AC0123 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:38 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:38 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:38 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:38 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:38 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:39 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:39 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:39 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:39 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:40 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:40 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:40 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Andrew G Brown" or text()="Andrew G Brown"] is visible after waiting.
+2016-05-10 22:08:40 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Andrew G Brown" or text()="Andrew G Brown"] has been clicked successfully
+2016-05-10 22:08:40 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:40 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Andrew G Brown" or text()="Andrew G Brown"] is visible after waiting.
+2016-05-10 22:08:40 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Andrew G Brown" or text()="Andrew G Brown"] has been clicked successfully
+2016-05-10 22:08:40 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:40 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:40 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:41 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:41 WARN  Elements:198 - The text  Investor Account added successfully with id AC0124 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:41 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:41 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:41 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:42 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:42 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:42 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:42 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:42 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:43 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:43 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:43 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:43 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="James B Hoover" or text()="James B Hoover"] is visible after waiting.
+2016-05-10 22:08:43 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="James B Hoover" or text()="James B Hoover"] has been clicked successfully
+2016-05-10 22:08:43 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:43 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="James B Hoover" or text()="James B Hoover"] is visible after waiting.
+2016-05-10 22:08:43 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="James B Hoover" or text()="James B Hoover"] has been clicked successfully
+2016-05-10 22:08:44 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:44 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:44 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:44 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:44 WARN  Elements:198 - The text  Investor Account added successfully with id AC0125 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:45 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:08:45 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:08:45 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:08:45 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:08:45 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:08:45 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Account'] has been clicked successfully
+2016-05-10 22:08:45 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Account'] is visible after waiting.
+2016-05-10 22:08:46 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-05-10 22:08:46 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-05-10 22:08:46 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Investor']//input has been clicked successfully
+2016-05-10 22:08:46 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:46 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Jeff Osher" or text()="Jeff Osher"] is visible after waiting.
+2016-05-10 22:08:46 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Jeff Osher" or text()="Jeff Osher"] has been clicked successfully
+2016-05-10 22:08:46 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Holder']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:08:46 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Jeff Osher" or text()="Jeff Osher"] is visible after waiting.
+2016-05-10 22:08:46 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Jeff Osher" or text()="Jeff Osher"] has been clicked successfully
+2016-05-10 22:08:47 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save' or contains(normalize-space(),'Save')] has been clicked successfully
+2016-05-10 22:08:47 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.94)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6552_19521}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.94, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ac501c5ccfba421c83368b942296b96
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-05-10 22:08:47 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 22:08:47 INFO  Verify:23 - Element By.xpath: //div[@class='alert alert-success'] is visible
+2016-05-10 22:08:47 WARN  Elements:198 - The text  Investor Account added successfully with id AC0126 from the element By.xpath: //div[@class='alert alert-success'] is retrieved
+2016-05-10 22:08:49 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-05-10 22:08:49 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-05-10 22:08:49 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-05-10 22:08:49 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

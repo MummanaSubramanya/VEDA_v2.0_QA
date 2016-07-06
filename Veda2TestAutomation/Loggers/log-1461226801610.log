@@ -1,0 +1,62 @@
+2016-04-21 13:50:06 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-21 13:50:06 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-04-21 13:50:06 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-21 13:50:06 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-21 13:50:09 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-21 13:50:09 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-21 13:50:09 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-04-21 13:50:09 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-04-21 13:50:09 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-04-21 13:50:09 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-04-21 13:50:20 WARN  Wait:43 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is not present after waiting 10 secs.
+2016-04-21 13:50:21 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-04-21 13:50:21 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-04-21 13:50:21 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-04-21 13:50:21 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-04-21 13:50:22 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Trade Search'] has been clicked successfully
+2016-04-21 13:50:22 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Trade Search'] is visible after waiting.
+2016-04-21 13:50:26 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridSearchForAllTrades']/div/div[1]//input[@type='textarea'] is visible
+2016-04-21 13:50:26 INFO  Elements:48 - The textTRA0194 has been inputted successfully.
+2016-04-21 13:50:27 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridSearchForAllTrades']/div[1]/div[1]//div[text()='TRA0194'] is visible after waiting.
+2016-04-21 13:50:27 INFO  Wait:39 - element By.xpath: //div[@role='row']//div//div[contains(text(),'Transaction_TRA')]//..//..//parent::div[@role='row']//div[1]//div[normalize-space(text()='TRA0194')] is visible after waiting.
+2016-04-21 13:50:35 INFO  Elements:100 - The element By.xpath: //div[normalize-space()='TRA0194']//parent::div[@role='gridcell']//following-sibling::div//a[contains(@href,'modifyTrade')] has been clicked successfully
+2016-04-21 13:51:24 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 47 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir5748_3021}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ea31eb015c4c2bb672a920384add42c5
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-04-21 13:51:25 INFO  Elements:100 - The element By.xpath: //p[contains(normalize-space(),'Transfer')] has been clicked successfully
+2016-04-21 13:51:43 INFO  Wait:39 - element By.xpath: //input[@id='requestDate'] is visible after waiting.
+2016-04-21 13:51:45 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:51:45 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:51:45 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:51:48 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:51:50 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:51:55 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:51:55 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:51:55 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:52:00 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:52:00 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:52:00 INFO  Verify:23 - Element By.xpath: //input[@id='transferPercentage'] is visible
+2016-04-21 13:52:01 INFO  Elements:48 - The text25 has been inputted successfully.
+2016-04-21 13:52:01 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:52:10 INFO  Elements:100 - The element By.xpath: //button[contains(@onclick,'proceedToTaxSlot')] has been clicked successfully
+2016-04-21 13:52:20 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:52:27 INFO  Verify:23 - Element By.xpath: //input[@id='taxSlotSize']//following-sibling::div//tbody//tr//td[7] is visible
+2016-04-21 13:52:27 INFO  Elements:31 - The xpath count of the element By.xpath: //input[@id='taxSlotSize']//following-sibling::div//tbody//tr//td[7] is 1
+2016-04-21 13:52:30 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:52:45 INFO  Elements:100 - The element By.xpath: //div[@id='uniform-noticeChargesDetailsYes']/span has been clicked successfully
+2016-04-21 13:52:45 INFO  Verify:23 - Element By.xpath: //div[@id='uniform-noticeChargesDetailsYes']/span[@class='checked'] is visible
+2016-04-21 13:52:45 INFO  Verify:35 - Element By.id: noticeChargesAmount is present in DOM
+2016-04-21 13:52:45 WARN  Elements:180 - The element By.id: noticeChargesAmount has value '200.00' for attribute value
+2016-04-21 13:52:45 INFO  Verify:23 - Element By.xpath: //input[@id='adhocCharges'] is visible
+2016-04-21 13:52:45 INFO  Elements:48 - The text250 has been inputted successfully.
+2016-04-21 13:52:45 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-21 13:52:45 INFO  Verify:35 - Element By.xpath: //input[@id='totalCharges'] is present in DOM
+2016-04-21 13:52:45 WARN  Elements:180 - The element By.xpath: //input[@id='totalCharges'] has value '450' for attribute value

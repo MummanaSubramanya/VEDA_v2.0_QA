@@ -1,0 +1,27 @@
+2016-02-20 03:18:40 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-20 03:18:40 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-02-20 03:18:40 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-20 03:18:40 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-20 03:18:46 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-20 03:18:46 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-20 03:19:05 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-20 03:19:05 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-20 03:19:08 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-20 03:19:15 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div/div[5]/div is visible
+2016-02-20 03:19:15 INFO  Elements:31 - The xpath count of the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div/div[5]/div is 6
+2016-02-20 03:19:15 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[1]/div[5]/div is visible
+2016-02-20 03:19:15 WARN  Elements:198 - The text Transaction_TRA from the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[1]/div[5]/div is retrieved
+2016-02-20 03:19:16 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[2]/div[5]/div is visible
+2016-02-20 03:19:16 WARN  Elements:198 - The text Transaction_TRA from the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[2]/div[5]/div is retrieved
+2016-02-20 03:19:17 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[3]/div[5]/div is visible
+2016-02-20 03:19:17 WARN  Elements:198 - The text Transaction_TRA from the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[3]/div[5]/div is retrieved
+2016-02-20 03:19:18 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[4]/div[5]/div is visible
+2016-02-20 03:19:18 WARN  Elements:198 - The text Transaction_EXC from the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[4]/div[5]/div is retrieved
+2016-02-20 03:19:19 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[5]/div[5]/div is visible
+2016-02-20 03:19:19 WARN  Elements:198 - The text Transaction_TRA from the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[5]/div[5]/div is retrieved
+2016-02-20 03:19:21 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[6]/div[5]/div is visible
+2016-02-20 03:19:21 WARN  Elements:198 - The text Transaction_SUB from the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[6]/div[5]/div is retrieved
+2016-02-20 03:19:21 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[6]/div[5]//following-sibling::div/div is visible
+2016-02-20 03:19:22 WARN  Elements:198 - The text Maker Reviewed from the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[6]/div[5]//following-sibling::div/div is retrieved
+2016-02-20 03:19:48 INFO  Elements:100 - The element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[6]/div[1]//a has been clicked successfully
+2016-02-20 03:20:43 WARN  Wait:43 - element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequestForSub')and contains(@onclick, 'Done')] is not present after waiting 30 secs.

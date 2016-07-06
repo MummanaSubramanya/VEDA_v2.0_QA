@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Result.xsl"?><TestSuite EndTime="06-09-2016 18:28:08" StartTime="06-09-2016 18:27:48" TF="1" TP="0" TotalTestCases="1"><Functionality name="Comparison Reports"><TestScript EndTime="06-09-2016 18:28:08" StartTime="06-09-2016 18:27:48" TC_Status="Fail" name="SomerSet_TC1"><Iterator no="0"><step no="1"><status>Fail</status><stepname>Comparison of EDS_Report for Series:null</stepname><Description>Failed to Compare EDS Reports
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+</Description><screenshot>..\screenshots\ScreenShot_06-09-2016182748.png</screenshot><timestamp>06-09-2016 18:27:52</timestamp></step><step no="2"><status>Pass</status><stepname>Comparison of EDS_Report for Series:null</stepname><Description>Successful to Compare EDS Reports
+</Description><screenshot/><timestamp>06-09-2016 18:27:52</timestamp></step><step no="3"><status>Fail</status><stepname>Comparison of EDS_Report for Series:null</stepname><Description>Failed to Compare EDS Reports
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+</Description><screenshot>..\screenshots\ScreenShot_06-09-2016182752.png</screenshot><timestamp>06-09-2016 18:27:55</timestamp></step><step no="4"><status>Pass</status><stepname>Comparison of EDS_Report for Series:null</stepname><Description>Successful to Compare EDS Reports
+</Description><screenshot/><timestamp>06-09-2016 18:27:55</timestamp></step><step no="5"><status>Fail</status><stepname>Comparison of EDS_Report for Series:null</stepname><Description>Failed to Compare EDS Reports
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+</Description><screenshot>..\screenshots\ScreenShot_06-09-2016182755.png</screenshot><timestamp>06-09-2016 18:27:58</timestamp></step><step no="6"><status>Pass</status><stepname>Comparison of EDS_Report for Series:null</stepname><Description>Successful to Compare EDS Reports
+</Description><screenshot/><timestamp>06-09-2016 18:27:58</timestamp></step><step no="7"><status>Fail</status><stepname>Comparison of EDS_Report for Series:null</stepname><Description>Failed to Compare EDS Reports
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+[Error: Unable to compare the values for Series: null]
+</Description><screenshot>..\screenshots\ScreenShot_06-09-2016182758.png</screenshot><timestamp>06-09-2016 18:28:01</timestamp></step><step no="8"><status>Pass</status><stepname>Comparison of EDS_Report for Series:null</stepname><Description>Successful to Compare EDS Reports
+</Description><screenshot/><timestamp>06-09-2016 18:28:01</timestamp></step><step no="9"><status>Fail</status><stepname>Creation of New EDS Comparision Report in Excel in the Path: ComparisonReportsResultsInExcelFormat</stepname><Description>Failed to create New Excel File Report</Description><screenshot>..\screenshots\ScreenShot_06-09-2016182801.png</screenshot><timestamp>06-09-2016 18:28:05</timestamp></step><step no="10"><status>Pass</status><stepname>Creation of New EDS Comparision Report in Excel in the Path: ComparisonReportsResultsInExcelFormat</stepname><Description>Successfully created New Excel File Report</Description><screenshot/><timestamp>06-09-2016 18:28:05</timestamp></step><step no="11"><status>Fail</status><stepname>Compaison of Fund Wise EDS Reports: </stepname><Description>Actual Fund Wise EDS Report is Not matching with the Expected Fund wise EDS Report</Description><screenshot>..\screenshots\ScreenShot_06-09-2016182805.png</screenshot><timestamp>06-09-2016 18:28:08</timestamp></step></Iterator></TestScript></Functionality></TestSuite>

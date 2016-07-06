@@ -1,0 +1,33 @@
+2016-01-30 19:10:29 INFO  Verify:23 - Element By.id: j_username is visible
+2016-01-30 19:10:29 INFO  Elements:47 - The textveda.maker has been inputted successfully.
+2016-01-30 19:10:29 INFO  Verify:23 - Element By.id: j_password is visible
+2016-01-30 19:10:29 INFO  Elements:47 - The textViteos321 has been inputted successfully.
+2016-01-30 19:10:29 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-01-30 19:10:32 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-01-30 19:10:32 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is visible after waiting.
+2016-01-30 19:10:32 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is visible
+2016-01-30 19:10:32 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is visible and can be used
+2016-01-30 19:10:32 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] has been performed successfully.
+2016-01-30 19:10:32 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-01-30 19:10:33 INFO  Elements:94 - The element By.xpath: //a[contains(text(),'Fund Setup')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Client'] has been clicked successfully
+2016-01-30 19:10:33 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Client'] is visible after waiting.
+2016-01-30 19:10:33 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-01-30 19:10:33 INFO  Elements:94 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-01-30 19:10:33 INFO  Wait:39 - element By.xpath: //a[contains(text(),'General Details')] is visible after waiting.
+2016-01-30 19:10:33 INFO  Elements:94 - The element By.id: clientName has been clicked successfully
+2016-01-30 19:10:33 INFO  Verify:23 - Element By.id: clientName is visible
+2016-01-30 19:10:33 INFO  Elements:47 - The textViteos_Client_Sri1 has been inputted successfully.
+2016-01-30 19:10:33 INFO  Elements:94 - The element By.id: uniform-rdIsSwithAllowedYes has been clicked successfully
+2016-01-30 19:10:33 INFO  Verify:23 - Element By.xpath: //input[@id='entity'] is visible
+2016-01-30 19:10:34 INFO  Elements:47 - The textAdmin_client41 has been inputted successfully.
+2016-01-30 19:10:34 INFO  Elements:94 - The element By.xpath: //label[normalize-space()='ICN']//div//input has been clicked successfully
+2016-01-30 19:10:34 INFO  Elements:94 - The element By.xpath: //label[normalize-space()='FCN']//div//input has been clicked successfully
+2016-01-30 19:10:34 INFO  Verify:23 - Element By.id: externalId1 is visible
+2016-01-30 19:10:34 INFO  Elements:47 - The text465 has been inputted successfully.
+2016-01-30 19:10:34 INFO  Verify:23 - Element By.id: externalId2 is visible
+2016-01-30 19:10:34 INFO  Elements:47 - The textiu has been inputted successfully.
+2016-01-30 19:10:34 INFO  Verify:23 - Element By.id: externalId3 is visible
+2016-01-30 19:10:34 INFO  Elements:47 - The text456 has been inputted successfully.
+2016-01-30 19:10:35 INFO  Elements:94 - The element By.xpath: //button[normalize-space()='Save'] has been clicked successfully
+2016-01-30 19:10:45 WARN  Wait:43 - element By.xpath: //div[@class='alert alert-success'] is not present after waiting 20 secs.
+2016-01-30 19:10:50 WARN  Wait:43 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Fund Setup')] is not present after waiting 30 secs.

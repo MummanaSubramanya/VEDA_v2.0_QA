@@ -1,0 +1,123 @@
+2016-02-17 12:54:14 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-17 12:54:14 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-02-17 12:54:14 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-17 12:54:14 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-17 12:54:24 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-17 12:54:24 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-17 12:54:50 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-02-17 12:54:50 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-02-17 12:54:50 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-02-17 12:54:50 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-02-17 12:54:50 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-17 12:54:52 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Subscription'] has been clicked successfully
+2016-02-17 12:54:52 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Subscription'] is visible after waiting.
+2016-02-17 12:55:00 INFO  Wait:39 - element By.xpath: //input[@id='requestDate'] is visible after waiting.
+2016-02-17 12:55:04 INFO  Verify:23 - Element By.xpath: //input[@id='requestDate'] is visible
+2016-02-17 12:55:04 INFO  Elements:48 - The text07/01/2016 has been inputted successfully.
+2016-02-17 12:55:07 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorNameDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-17 12:55:07 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO' or text()='ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO'] is visible after waiting.
+2016-02-17 12:55:07 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO' or text()='ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO'] has been clicked successfully
+2016-02-17 12:55:07 WARN  Elements:106 - The element By.xpath: //div[@id='s2id_holderNameDropdown']//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (567, 452). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 814px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 36 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir14848_11276}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a6797f15cf9abab600d0e7f64bb2cd07
+2016-02-17 12:55:08 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_holderNameDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-17 12:55:08 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO_HOLDERTYPE_ENTITY' or text()='ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO_HOLDERTYPE_ENTITY'] is visible after waiting.
+2016-02-17 12:55:08 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO_HOLDERTYPE_ENTITY' or text()='ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO_HOLDERTYPE_ENTITY'] has been clicked successfully
+2016-02-17 12:55:08 WARN  Elements:106 - The element By.xpath: //div[@id='s2id_accountNameDropdown']//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (905, 452). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 814px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir14848_11276}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a6797f15cf9abab600d0e7f64bb2cd07
+2016-02-17 12:55:09 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_accountNameDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-17 12:55:09 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='AC00000037' or text()='AC00000037'] is visible after waiting.
+2016-02-17 12:55:10 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='AC00000037' or text()='AC00000037'] has been clicked successfully
+2016-02-17 12:55:12 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_clientNameDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-17 12:55:12 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client' or text()='Viteos_Client'] is visible after waiting.
+2016-02-17 12:55:12 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_Client' or text()='Viteos_Client'] has been clicked successfully
+2016-02-17 12:55:12 WARN  Elements:106 - The element By.xpath: //div[@id='s2id_fundFamilyNameDropdown']//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (437, 595). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 814px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 36 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir14848_11276}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a6797f15cf9abab600d0e7f64bb2cd07
+2016-02-17 12:55:13 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fundFamilyNameDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-17 12:55:14 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily' or text()='Viteos_FundFamily'] is visible after waiting.
+2016-02-17 12:55:14 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_FundFamily' or text()='Viteos_FundFamily'] has been clicked successfully
+2016-02-17 12:55:14 WARN  Elements:106 - The element By.xpath: //div[@id='s2id_legalEntityNameDropdown']//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (685, 595). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 814px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 37 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir14848_11276}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a6797f15cf9abab600d0e7f64bb2cd07
+2016-02-17 12:55:15 WARN  Elements:106 - The element By.xpath: //div[@id='s2id_legalEntityNameDropdown']//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (685, 595). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 814px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 34 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir14848_11276}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a6797f15cf9abab600d0e7f64bb2cd07
+2016-02-17 12:55:16 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_legalEntityNameDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-17 12:55:16 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_LE_SUB' or text()='Viteos_LE_SUB'] is visible after waiting.
+2016-02-17 12:55:16 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='Viteos_LE_SUB' or text()='Viteos_LE_SUB'] has been clicked successfully
+2016-02-17 12:55:23 INFO  Elements:100 - The element By.xpath: //label[text()='Class Currency'] has been clicked successfully
+2016-02-17 12:55:24 INFO  Elements:100 - The element By.xpath: //div[@id='uniform-isAmount']/span has been clicked successfully
+2016-02-17 12:55:24 INFO  Verify:23 - Element By.xpath: //input[@id='amount'] is visible
+2016-02-17 12:55:24 INFO  Elements:48 - The text5500 has been inputted successfully.
+2016-02-17 12:55:24 INFO  Elements:100 - The element By.xpath: //label[contains(text(),'Cash')] has been clicked successfully
+2016-02-17 12:55:34 INFO  Elements:100 - The element By.xpath: //label[text()='Class Currency'] has been clicked successfully
+2016-02-17 12:55:35 INFO  Wait:39 - element By.xpath: //input[@id='isAmount']//parent::span[@class='checked'] is visible after waiting.
+2016-02-17 12:55:35 INFO  Verify:35 - Element By.xpath: //input[@id='units'] is present in DOM
+2016-02-17 12:55:35 WARN  Elements:180 - The element By.xpath: //input[@id='units'] has value '0' for attribute value
+2016-02-17 12:55:35 INFO  Wait:39 - element By.id: currencyName is visible after waiting.
+2016-02-17 12:55:35 INFO  Verify:23 - Element By.id: currencyName is visible
+2016-02-17 12:55:35 WARN  Elements:198 - The text British Pound from the element By.id: currencyName is retrieved
+2016-02-17 12:55:35 INFO  Verify:23 - Element By.xpath: //label[contains(text(),'NAV Per Unit')]//following-sibling::label[@id='navPerUnitLabel'] is visible
+2016-02-17 12:55:35 WARN  Elements:198 - The text NA from the element By.xpath: //label[contains(text(),'NAV Per Unit')]//following-sibling::label[@id='navPerUnitLabel'] is retrieved
+2016-02-17 12:55:35 INFO  Verify:35 - Element By.id: navDate is present in DOM
+2016-02-17 12:55:35 WARN  Elements:180 - The element By.id: navDate has value '03/01/2016' for attribute value
+2016-02-17 12:55:40 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Notice Charges'] has been clicked successfully
+2016-02-17 12:55:44 INFO  Elements:100 - The element By.id: viewDefaultNoticeCharges has been clicked successfully
+2016-02-17 12:55:49 INFO  Wait:39 - element By.xpath: //h4[text()='Notice Period Charges'] is visible after waiting.
+2016-02-17 12:55:51 INFO  Verify:23 - Element By.xpath: //div[@ng-show='showNoticePeriodDefaultBlock']//p[@id='noticePeriodView'] is visible
+2016-02-17 12:55:51 WARN  Elements:198 - The text 2 from the element By.xpath: //div[@ng-show='showNoticePeriodDefaultBlock']//p[@id='noticePeriodView'] is retrieved
+2016-02-17 12:55:56 INFO  Verify:23 - Element By.xpath: //div[@ng-show='showNoticePeriodDefaultBlock']//p[@id='noticePeriodTypeView'] is visible
+2016-02-17 12:55:56 WARN  Elements:198 - The text Day from the element By.xpath: //div[@ng-show='showNoticePeriodDefaultBlock']//p[@id='noticePeriodTypeView'] is retrieved
+2016-02-17 12:55:58 INFO  Verify:23 - Element By.xpath: //div[@ng-show='showNoticePeriodDefaultBlock']//p[@id='noticePeriodCalendarView'] is visible
+2016-02-17 12:55:58 WARN  Elements:198 - The text Calendar from the element By.xpath: //div[@ng-show='showNoticePeriodDefaultBlock']//p[@id='noticePeriodCalendarView'] is retrieved
+2016-02-17 12:55:59 INFO  Verify:23 - Element By.xpath: //div[@ng-show='showNoticePeriodTypeDefaultBlock']//p[@id='noticePeriodChargesTypeView'] is visible
+2016-02-17 12:55:59 WARN  Elements:198 - The text Amount from the element By.xpath: //div[@ng-show='showNoticePeriodTypeDefaultBlock']//p[@id='noticePeriodChargesTypeView'] is retrieved
+2016-02-17 12:56:02 INFO  Elements:100 - The element By.xpath: //button[contains(@ng-click,'closeNewNoticeCharges')]/em has been clicked successfully
+2016-02-17 12:56:06 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Transaction Charges'] has been clicked successfully
+2016-02-17 12:56:07 INFO  Elements:100 - The element By.id: viewDefaultTransactionCharges has been clicked successfully
+2016-02-17 12:56:09 INFO  Wait:39 - element By.xpath: //h4[text()='Transaction Charges'] is visible after waiting.
+2016-02-17 12:56:10 INFO  Verify:23 - Element By.xpath: //div[@ng-show='showEffectiveDateDefaultBlock']//p[@id='effectiveDateView'] is visible
+2016-02-17 12:56:10 WARN  Elements:198 - The text 03/05/2016 from the element By.xpath: //div[@ng-show='showEffectiveDateDefaultBlock']//p[@id='effectiveDateView'] is retrieved
+2016-02-17 12:56:15 INFO  Verify:23 - Element By.xpath: //p[@id='transactionChargeTypeView'] is visible
+2016-02-17 12:56:15 WARN  Elements:198 - The text Amount from the element By.xpath: //p[@id='transactionChargeTypeView'] is retrieved
+2016-02-17 12:56:16 INFO  Verify:23 - Element By.xpath: //p[@id='transactionRateMethodView'] is visible
+2016-02-17 12:56:16 WARN  Elements:198 - The text Tiered from the element By.xpath: //p[@id='transactionRateMethodView'] is retrieved
+2016-02-17 12:56:17 INFO  Verify:23 - Element By.xpath: //p[@id='transactionCalculationBaseView'] is visible
+2016-02-17 12:56:17 WARN  Elements:198 - The text Inclusive from the element By.xpath: //p[@id='transactionCalculationBaseView'] is retrieved
+2016-02-17 12:56:20 INFO  Elements:100 - The element By.xpath: //button[contains(@ng-click,'closeNewTransactionCharges')]/em has been clicked successfully
+2016-02-17 12:56:40 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-02-17 12:56:40 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-02-17 12:56:40 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-02-17 12:56:41 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

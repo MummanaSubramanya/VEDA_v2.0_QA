@@ -1,0 +1,53 @@
+<project basedir="." default="runTS" name="SampleAnt">
+	<property environment="env"/>
+	<property name="ECLIPSE_HOME" value="E:/eclipse-jee-kepler-SR2-win32/eclipse"/>
+	<property name="target" value="1.8"/>
+	<property name="source" value="1.8"/>
+	<property name="build.dir" value="${basedir}/build"/>
+	<property name="lib.dir" value="${basedir}/jars"/>
+	<property name="src.dir" value="${basedir}/src"/>
+	<property name="Var_Client" value="${Client}"/>
+	<property name="Var_FundFamily" value="${FundFamily}"/>
+	<property name="Var_LegalEnity" value="${LegalEnity}"/>
+	<property name="Var_Class" value="${Class}"/>
+	<property name="Var_Series" value="${Series}"/>
+	<property name="Var_FormulaSetup" value="${FormulaSetup}"/>
+	<property name="Var_Parameter" value="${Parameter}"/>
+	<property name="Var_IncentiveFee" value="${IncentiveFee}"/>
+	<property name="Var_ManagementFee" value="${ManagementFee}"/>
+	<target name="setClassPath">
+		<path id="classpath_jars">
+			<pathelement path="${basedir}/"/>
+			<fileset dir="${lib.dir}" includes="**/*.jar"/>
+		</path>
+		<pathconvert pathsep=":" property="test.classpath" refid="classpath_jars"/>
+	</target>
+	<target name="loadTestNG" depends="setClassPath">
+		<taskdef resource="testngtasks" classpath="${test.classpath}"/>
+	</target>	
+	<target name="init">
+		<mkdir dir="${build.dir}"/>
+	</target>
+	<target name="clean">
+		<echo message="deleting existing build....................."/>
+		<delete dir="${build.dir}"/>
+	</target>
+	<target name="compile" depends="clean,init,setClassPath,loadTestNG">
+		<echo message="classpath:${test.classpath}"/>
+		<echo message="compiling...."/>
+		<javac destdir="${build.dir}" srcdir="${src.dir}" classpath="${test.classpath}"/>		
+	</target>
+	<target name="runTS" depends="compile">
+		 <java fork="true" classname="com.viteos.veda.testsuites.TestSuite2" classpath="${test.classpath}:${build.dir}">
+		 	<arg value="${Var_Client}"/>
+		 	<arg value ="${Var_FundFamily}"/>
+		 	<arg value="${Var_LegalEnity}"/>
+		 	<arg value ="${Var_Class}"/>
+		 	<arg value="${Var_Series}"/>
+		 	<arg value ="${Var_FormulaSetup}"/>
+		 	<arg value ="${Var_Parameter}"/>
+		 	<arg value ="${Var_IncentiveFee}"/>
+		 	<arg value ="${Var_ManagementFee}"/>
+		 </java>
+	</target>
+</project>

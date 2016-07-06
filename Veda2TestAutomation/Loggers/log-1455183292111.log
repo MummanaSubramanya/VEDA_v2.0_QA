@@ -1,0 +1,65 @@
+2016-02-11 15:04:57 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-11 15:04:58 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-02-11 15:04:58 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-11 15:04:58 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-11 15:05:00 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-11 15:05:00 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-11 15:05:22 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADE')] is visible after waiting.
+2016-02-11 15:05:22 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADE')] is visible
+2016-02-11 15:05:22 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADE')] is visible and can be used
+2016-02-11 15:05:22 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADE')] has been performed successfully.
+2016-02-11 15:05:22 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADE')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-11 15:05:26 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'TRADE')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Opening Balance'] has been clicked successfully
+2016-02-11 15:05:26 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Opening Balance'] is visible after waiting.
+2016-02-11 15:05:35 INFO  Wait:39 - element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] is visible after waiting.
+2016-02-11 15:05:35 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 15:05:35 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='active'] is visible after waiting.
+2016-02-11 15:05:35 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='active'] has been clicked successfully
+2016-02-11 15:05:35 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-02-11 15:05:35 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-11 15:05:35 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='active'] is visible after waiting.
+2016-02-11 15:05:35 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='active'] has been clicked successfully
+2016-02-11 15:05:35 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-search']//parent::button is visible after waiting.
+2016-02-11 15:05:42 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-search']//parent::button has been clicked successfully
+2016-02-11 15:05:42 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchOpeningBalance']/div[1] is visible after waiting.
+2016-02-11 15:05:48 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 58 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir12512_27956}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7799d2bddf28741282b05a70a10b5049
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-02-11 15:05:49 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchOpeningBalance']/div is visible
+2016-02-11 15:05:49 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='columntablejqxgridsearchOpeningBalance']/div is 6
+2016-02-11 15:05:49 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchOpeningBalance']/div[1]/div/div/span is visible
+2016-02-11 15:05:49 WARN  Elements:198 - The text Opening balance Id from the element By.xpath: //div[@id='columntablejqxgridsearchOpeningBalance']/div[1]/div/div/span is retrieved
+2016-02-11 15:05:59 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-02-11 15:05:59 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridsearchOpeningBalance']/div/div[1]//input is visible
+2016-02-11 15:05:59 INFO  Elements:48 - The textOP00000130 has been inputted successfully.
+2016-02-11 15:05:59 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchOpeningBalance']/div/div[1]/div[normalize-space(text())='OP00000130'] is visible after waiting.
+2016-02-11 15:06:12 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-pencil'] has been clicked successfully
+2016-02-11 15:06:29 INFO  Wait:39 - element By.id: uniform-rdIsInvestor is visible after waiting.
+2016-02-11 15:06:29 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Initial Subscription Date']//following-sibling::div//input is visible
+2016-02-11 15:06:29 INFO  Elements:48 - The text100000 has been inputted successfully.
+2016-02-11 15:06:29 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Last Closing Date']//following-sibling::div//input is visible
+2016-02-11 15:06:30 INFO  Elements:48 - The text01/01/2016 has been inputted successfully.
+2016-02-11 15:06:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='High Water Mark']//following-sibling::input is visible
+2016-02-11 15:06:30 INFO  Elements:48 - The text2526 has been inputted successfully.
+2016-02-11 15:06:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Net QTD']//following-sibling::input is visible
+2016-02-11 15:06:30 INFO  Elements:48 - The text252 has been inputted successfully.
+2016-02-11 15:06:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Management Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 15:06:30 INFO  Elements:48 - The text585 has been inputted successfully.
+2016-02-11 15:06:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Performance Fee Carry Forward']//following-sibling::input is visible
+2016-02-11 15:06:30 INFO  Elements:48 - The text13565 has been inputted successfully.
+2016-02-11 15:06:30 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Adjusted NAV Monthly Carry Forward']//following-sibling::input is visible
+2016-02-11 15:06:30 INFO  Elements:48 - The text252 has been inputted successfully.
+2016-02-11 15:06:33 INFO  Elements:100 - The element By.xpath: //button[normalize-space()='Save'] has been clicked successfully
+2016-02-11 15:06:33 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-11 15:07:34 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-02-11 15:07:34 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-02-11 15:07:34 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-02-11 15:07:34 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

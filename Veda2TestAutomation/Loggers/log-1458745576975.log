@@ -1,0 +1,193 @@
+2016-03-23 20:36:22 INFO  Verify:23 - Element By.id: j_username is visible
+2016-03-23 20:36:22 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-03-23 20:36:22 INFO  Verify:23 - Element By.id: j_password is visible
+2016-03-23 20:36:22 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-03-23 20:36:25 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-03-23 20:36:25 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-03-23 20:36:25 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')] is visible after waiting.
+2016-03-23 20:36:25 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')] is visible
+2016-03-23 20:36:25 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')] is visible and can be used
+2016-03-23 20:36:25 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')] has been performed successfully.
+2016-03-23 20:36:25 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'FUND SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-03-23 20:36:26 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'FUND SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Legal Entity'] has been clicked successfully
+2016-03-23 20:36:26 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Legal Entity'] is visible after waiting.
+2016-03-23 20:36:30 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-plus']//parent::button is visible after waiting.
+2016-03-23 20:36:33 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-plus']//parent::button has been clicked successfully
+2016-03-23 20:36:43 INFO  Wait:39 - element By.id: s2id_clientDefinition.clientId is visible after waiting.
+2016-03-23 20:36:43 INFO  Elements:100 - The element By.id: s2id_clientDefinition.clientId has been clicked successfully
+2016-03-23 20:36:43 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_Client" or text()="Viteos_Client"] is visible after waiting.
+2016-03-23 20:36:43 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_Client" or text()="Viteos_Client"] has been clicked successfully
+2016-03-23 20:36:43 INFO  Elements:100 - The element By.xpath: //p[contains(text(),'Legal Entity')] has been clicked successfully
+2016-03-23 20:36:43 INFO  Elements:100 - The element By.id: s2id_cmbFundFamilyName has been clicked successfully
+2016-03-23 20:36:43 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_FundFamily" or text()="Viteos_FundFamily"] is visible after waiting.
+2016-03-23 20:36:43 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Viteos_FundFamily" or text()="Viteos_FundFamily"] has been clicked successfully
+2016-03-23 20:36:43 INFO  Verify:23 - Element By.id: legalEntityDescription is visible
+2016-03-23 20:36:44 INFO  Elements:48 - The textViteos_Account_Feeder_03 has been inputted successfully.
+2016-03-23 20:36:44 INFO  Elements:100 - The element By.xpath: //input[@id='isCloneNo'] has been clicked successfully
+2016-03-23 20:36:44 INFO  Elements:100 - The element By.id: s2id_fkLegalEntityType has been clicked successfully
+2016-03-23 20:36:44 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="ISE" or text()="ISE"] is visible after waiting.
+2016-03-23 20:36:44 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="ISE" or text()="ISE"] has been clicked successfully
+2016-03-23 20:36:44 INFO  Elements:100 - The element By.id: s2id_cmbBaseCurrency has been clicked successfully
+2016-03-23 20:36:44 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Hong Kong Dollars" or text()="Hong Kong Dollars"] is visible after waiting.
+2016-03-23 20:36:44 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Hong Kong Dollars" or text()="Hong Kong Dollars"] has been clicked successfully
+2016-03-23 20:36:45 INFO  Elements:100 - The element By.id: s2id_accountingSystem has been clicked successfully
+2016-03-23 20:36:45 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Geneva" or text()="Geneva"] is visible after waiting.
+2016-03-23 20:36:45 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Geneva" or text()="Geneva"] has been clicked successfully
+2016-03-23 20:36:45 INFO  Verify:23 - Element By.id: accountingId is visible
+2016-03-23 20:36:45 INFO  Elements:48 - The text12345 has been inputted successfully.
+2016-03-23 20:36:45 INFO  Elements:100 - The element By.id: s2id_investmentRegion.countryIdPk has been clicked successfully
+2016-03-23 20:36:45 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Spain" or text()="Spain"] is visible after waiting.
+2016-03-23 20:36:45 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Spain" or text()="Spain"] has been clicked successfully
+2016-03-23 20:36:45 INFO  Verify:23 - Element By.id: billingCodes is visible
+2016-03-23 20:36:46 INFO  Elements:48 - The text1234565 has been inputted successfully.
+2016-03-23 20:36:46 INFO  Elements:100 - The element By.id: s2id_accountingMethod.referenceIdPk has been clicked successfully
+2016-03-23 20:36:46 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="GER" or text()="GER"] is visible after waiting.
+2016-03-23 20:36:46 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="GER" or text()="GER"] has been clicked successfully
+2016-03-23 20:36:47 INFO  Elements:100 - The element By.id: s2id_investmentStarategy has been clicked successfully
+2016-03-23 20:36:47 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Liquid" or text()="Liquid"] is visible after waiting.
+2016-03-23 20:36:50 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Liquid" or text()="Liquid"] has been clicked successfully
+2016-03-23 20:36:50 INFO  Elements:100 - The element By.id: isSidePocketInvestmentNo has been clicked successfully
+2016-03-23 20:36:51 INFO  Elements:100 - The element By.id: s2id_masterFeeder has been clicked successfully
+2016-03-23 20:36:51 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Feeder" or text()="Feeder"] is visible after waiting.
+2016-03-23 20:36:51 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Feeder" or text()="Feeder"] has been clicked successfully
+2016-03-23 20:36:51 INFO  Elements:100 - The element By.xpath: //label[contains(text(),'Master Fund')]/following-sibling::div[1]//li[contains(@class,'search-field')] has been clicked successfully
+2016-03-23 20:36:51 INFO  Wait:39 - element By.xpath: //ul[@class='select2-results']//li//div[normalize-space()="Viteos_Account_Master01"] is visible after waiting.
+2016-03-23 20:36:51 INFO  Elements:100 - The element By.xpath: //ul[@class='select2-results']//li//div[normalize-space()="Viteos_Account_Master01"] has been clicked successfully
+2016-03-23 20:36:51 INFO  Verify:23 - Element By.id: externalId1 is visible
+2016-03-23 20:36:52 INFO  Elements:48 - The textExternal Id1 has been inputted successfully.
+2016-03-23 20:36:52 INFO  Verify:23 - Element By.id: externalId2 is visible
+2016-03-23 20:36:52 INFO  Elements:48 - The textExternal Id1 has been inputted successfully.
+2016-03-23 20:36:52 INFO  Verify:23 - Element By.id: externalId3 is visible
+2016-03-23 20:36:52 INFO  Elements:48 - The textExternal Id1 has been inputted successfully.
+2016-03-23 20:37:02 INFO  Elements:100 - The element By.xpath: //ul[@class='nav nav-tabs']//a[contains(text(),'General Details')] has been clicked successfully
+2016-03-23 20:37:10 INFO  Wait:39 - element By.xpath: //div[@id='s2id_fkIsUnitizeOrNonUnitize']//span[contains(@id,'select2-chosen')] is visible after waiting.
+2016-03-23 20:37:12 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fkIsUnitizeOrNonUnitize']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 20:37:12 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Non Unitized" or text()="Non Unitized"] is visible after waiting.
+2016-03-23 20:37:13 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Non Unitized" or text()="Non Unitized"] has been clicked successfully
+2016-03-23 20:37:13 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_reportingFrequency.frequencyIdPk']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 20:37:13 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Daily'] is visible after waiting.
+2016-03-23 20:37:13 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Daily'] has been clicked successfully
+2016-03-23 20:37:13 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_estimationFrequency']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 20:37:13 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Daily'] is visible after waiting.
+2016-03-23 20:37:14 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Daily'] has been clicked successfully
+2016-03-23 20:37:14 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_crystalizationFrequency.frequencyIdPk']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 20:37:14 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Daily'] is visible after waiting.
+2016-03-23 20:37:14 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[text()='Daily'] has been clicked successfully
+2016-03-23 20:37:14 INFO  Verify:23 - Element By.id: incorporationDate is visible
+2016-03-23 20:37:14 INFO  Elements:48 - The text01/01/2016 has been inputted successfully.
+2016-03-23 20:37:15 INFO  Elements:100 - The element By.xpath: //h4//p[contains(text(),'Legal Entity')] has been clicked successfully
+2016-03-23 20:37:15 INFO  Verify:23 - Element By.id: initialOfferingDate is visible
+2016-03-23 20:37:15 INFO  Elements:48 - The text01/01/2016 has been inputted successfully.
+2016-03-23 20:37:15 INFO  Elements:100 - The element By.xpath: //h4//p[contains(text(),'Legal Entity')] has been clicked successfully
+2016-03-23 20:37:15 INFO  Verify:23 - Element By.id: fiscalYearEnd is visible
+2016-03-23 20:37:16 INFO  Elements:48 - The text12/31/2016 has been inputted successfully.
+2016-03-23 20:37:16 INFO  Elements:100 - The element By.xpath: //h4//p[contains(text(),'Legal Entity')] has been clicked successfully
+2016-03-23 20:37:16 INFO  Verify:23 - Element By.id: firstFiscalYearEnd is visible
+2016-03-23 20:37:16 INFO  Elements:48 - The text12/31/2016 has been inputted successfully.
+2016-03-23 20:37:16 INFO  Elements:100 - The element By.xpath: //h4//p[contains(text(),'Legal Entity')] has been clicked successfully
+2016-03-23 20:37:16 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_openClosedEnded.referenceIdPk']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-03-23 20:37:17 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Closed Ended" or text()="Closed Ended"] is visible after waiting.
+2016-03-23 20:37:17 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Closed Ended" or text()="Closed Ended"] has been clicked successfully
+2016-03-23 20:37:17 INFO  Elements:100 - The element By.xpath: //h4//p[contains(text(),'Legal Entity')] has been clicked successfully
+2016-03-23 20:37:17 INFO  Elements:100 - The element By.id: isClawBackNo has been clicked successfully
+2016-03-23 20:37:17 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_leHolidayMapList']/ul/li is visible
+2016-03-23 20:37:17 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='s2id_leHolidayMapList']/ul/li is 1
+2016-03-23 20:37:18 INFO  Elements:100 - The element By.xpath: //label[contains(text(),'Holiday Calendar')]/following-sibling::div[1]//li[contains(@class,'search-field')] has been clicked successfully
+2016-03-23 20:37:18 INFO  Wait:39 - element By.xpath: //ul[@class='select2-results']//li//div[normalize-space()="India"] is visible after waiting.
+2016-03-23 20:37:18 INFO  Elements:100 - The element By.xpath: //ul[@class='select2-results']//li//div[normalize-space()="India"] has been clicked successfully
+2016-03-23 20:37:18 INFO  Verify:35 - Element By.xpath: //label[contains(text(),'Sunday')]/preceding-sibling::div//span[@class='checked'] is present in DOM
+2016-03-23 20:37:18 INFO  Elements:100 - The element By.xpath: //label[contains(text(),'Sunday')]/preceding-sibling::div//input has been clicked successfully
+2016-03-23 20:37:18 WARN  Verify:39 - Element By.xpath: //label[contains(text(),'Monday')]/preceding-sibling::div//span[@class='checked'] is not present in DOM because no such element: Unable to locate element: {"method":"xpath","selector":"//label[contains(text(),'Monday')]/preceding-sibling::div//span[@class='checked']"}
+  (Session info: chrome=49.0.2623.87)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 39 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.174.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6184_890}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 361d5d8c82419daa65ed89a41263df84
+*** Element info: {Using=xpath, value=//label[contains(text(),'Monday')]/preceding-sibling::div//span[@class='checked']}
+2016-03-23 20:37:18 WARN  Verify:39 - Element By.xpath: //label[contains(text(),'Tuesday')]/preceding-sibling::div//span[@class='checked'] is not present in DOM because no such element: Unable to locate element: {"method":"xpath","selector":"//label[contains(text(),'Tuesday')]/preceding-sibling::div//span[@class='checked']"}
+  (Session info: chrome=49.0.2623.87)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 37 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.174.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6184_890}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 361d5d8c82419daa65ed89a41263df84
+*** Element info: {Using=xpath, value=//label[contains(text(),'Tuesday')]/preceding-sibling::div//span[@class='checked']}
+2016-03-23 20:37:18 INFO  Elements:100 - The element By.xpath: //label[contains(text(),'Tuesday')]/preceding-sibling::div//input has been clicked successfully
+2016-03-23 20:37:18 WARN  Verify:39 - Element By.xpath: //label[contains(text(),'Wednesday')]/preceding-sibling::div//span[@class='checked'] is not present in DOM because no such element: Unable to locate element: {"method":"xpath","selector":"//label[contains(text(),'Wednesday')]/preceding-sibling::div//span[@class='checked']"}
+  (Session info: chrome=49.0.2623.87)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 39 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.174.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6184_890}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 361d5d8c82419daa65ed89a41263df84
+*** Element info: {Using=xpath, value=//label[contains(text(),'Wednesday')]/preceding-sibling::div//span[@class='checked']}
+2016-03-23 20:37:19 WARN  Verify:39 - Element By.xpath: //label[contains(text(),'Thursday')]/preceding-sibling::div//span[@class='checked'] is not present in DOM because no such element: Unable to locate element: {"method":"xpath","selector":"//label[contains(text(),'Thursday')]/preceding-sibling::div//span[@class='checked']"}
+  (Session info: chrome=49.0.2623.87)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 37 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.174.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6184_890}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 361d5d8c82419daa65ed89a41263df84
+*** Element info: {Using=xpath, value=//label[contains(text(),'Thursday')]/preceding-sibling::div//span[@class='checked']}
+2016-03-23 20:37:19 WARN  Verify:39 - Element By.xpath: //label[contains(text(),'Friday')]/preceding-sibling::div//span[@class='checked'] is not present in DOM because no such element: Unable to locate element: {"method":"xpath","selector":"//label[contains(text(),'Friday')]/preceding-sibling::div//span[@class='checked']"}
+  (Session info: chrome=49.0.2623.87)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 39 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.174.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6184_890}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 361d5d8c82419daa65ed89a41263df84
+*** Element info: {Using=xpath, value=//label[contains(text(),'Friday')]/preceding-sibling::div//span[@class='checked']}
+2016-03-23 20:37:19 WARN  Verify:39 - Element By.xpath: //label[contains(text(),'Saturady')]/preceding-sibling::div//span[@class='checked'] is not present in DOM because no such element: Unable to locate element: {"method":"xpath","selector":"//label[contains(text(),'Saturady')]/preceding-sibling::div//span[@class='checked']"}
+  (Session info: chrome=49.0.2623.87)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 38 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.174.135', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir6184_890}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 361d5d8c82419daa65ed89a41263df84
+*** Element info: {Using=xpath, value=//label[contains(text(),'Saturady')]/preceding-sibling::div//span[@class='checked']}
+2016-03-23 20:37:24 INFO  Elements:100 - The element By.xpath: //ul[@class='nav nav-tabs']//a[contains(text(),'Other Details')] has been clicked successfully
+2016-03-23 20:37:30 INFO  Wait:39 - element By.id: shareDecimalsForCalculations is visible after waiting.
+2016-03-23 20:37:31 INFO  Verify:23 - Element By.id: shareDecimalsForCalculations is visible
+2016-03-23 20:37:31 INFO  Elements:48 - The text4 has been inputted successfully.
+2016-03-23 20:37:33 INFO  Verify:23 - Element By.id: shareDecimalsDisplay is visible
+2016-03-23 20:37:33 INFO  Elements:48 - The text4 has been inputted successfully.
+2016-03-23 20:37:34 INFO  Verify:23 - Element By.id: navDecimalsForCalculation is visible
+2016-03-23 20:37:35 INFO  Elements:48 - The text4 has been inputted successfully.
+2016-03-23 20:37:37 INFO  Verify:23 - Element By.id: navDecimalsDisplay is visible
+2016-03-23 20:37:37 INFO  Elements:48 - The text4 has been inputted successfully.
+2016-03-23 20:37:42 INFO  Elements:100 - The element By.id: isErisaApplicableNo has been clicked successfully
+2016-03-23 20:37:45 INFO  Elements:100 - The element By.id: TradingRestriction_Yes has been clicked successfully
+2016-03-23 20:37:51 INFO  Elements:100 - The element By.xpath: //select[@id='tradResLog_0']//parent::div//span[contains(@id,'select2')] has been clicked successfully
+2016-03-23 20:37:51 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Subscription" or text()="Subscription"] is visible after waiting.
+2016-03-23 20:37:51 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Subscription" or text()="Subscription"] has been clicked successfully
+2016-03-23 20:37:51 INFO  Verify:23 - Element By.id: tradingRestrictionsList0fromDateRange0 is visible
+2016-03-23 20:37:52 INFO  Elements:48 - The text04/01/2016 has been inputted successfully.
+2016-03-23 20:37:52 INFO  Verify:23 - Element By.id: tradingRestrictionsList0toDateRange0 is visible
+2016-03-23 20:37:52 INFO  Elements:48 - The text04/10/2016 has been inputted successfully.
+2016-03-23 20:37:53 INFO  Elements:100 - The element By.id: addMoreTradingRestrictions has been clicked successfully
+2016-03-23 20:37:53 INFO  Elements:100 - The element By.xpath: //select[@id='tradResLog_1']//parent::div//span[contains(@id,'select2')] has been clicked successfully
+2016-03-23 20:37:53 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Redemption" or text()="Redemption"] is visible after waiting.
+2016-03-23 20:37:53 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Redemption" or text()="Redemption"] has been clicked successfully
+2016-03-23 20:37:53 INFO  Verify:23 - Element By.id: tradingRestrictionsList1fromDateRange0 is visible
+2016-03-23 20:37:54 INFO  Elements:48 - The text04/01/2016 has been inputted successfully.
+2016-03-23 20:37:54 INFO  Verify:23 - Element By.id: tradingRestrictionsList1toDateRange0 is visible
+2016-03-23 20:37:54 INFO  Elements:48 - The text04/10/2016 has been inputted successfully.

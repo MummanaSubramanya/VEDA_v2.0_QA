@@ -1,0 +1,34 @@
+2016-04-21 16:16:15 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-21 16:16:15 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-04-21 16:16:15 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-21 16:16:15 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-21 16:16:18 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-21 16:16:18 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-21 16:16:18 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-21 16:16:18 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-21 16:16:18 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-21 16:16:18 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-21 16:16:18 INFO  Elements:48 - The textTRA0194 has been inputted successfully.
+2016-04-21 16:16:19 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TRA0194'] is visible after waiting.
+2016-04-21 16:16:19 INFO  Wait:39 - element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_TRA']//..//parent::div[@role='row']//a[normalize-space(text())='TRA0194'] is visible after waiting.
+2016-04-21 16:16:21 INFO  Elements:100 - The element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_TRA']//..//parent::div[@role='row']//a[normalize-space(text())='TRA0194'] has been clicked successfully
+2016-04-21 16:17:14 INFO  Wait:39 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Request Detail')] is visible after waiting.
+2016-04-21 16:17:14 INFO  Verify:35 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'To Investor')]//parent::div[contains(@class,'title')]//following-sibling::div[contains(@class,'portlet')]//div//label[contains(normalize-space(),'Account')]//following-sibling::label//input is present in DOM
+2016-04-21 16:17:14 WARN  Elements:180 - The element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'To Investor')]//parent::div[contains(@class,'title')]//following-sibling::div[contains(@class,'portlet')]//div//label[contains(normalize-space(),'Account')]//following-sibling::label//input has value 'AC0932' for attribute value
+2016-04-21 16:17:15 INFO  Verify:35 - Element By.xpath: //label[text()='Amount/Share']/following-sibling::label/input is present in DOM
+2016-04-21 16:17:15 WARN  Elements:180 - The element By.xpath: //label[text()='Amount/Share']/following-sibling::label/input has value 'Amount' for attribute value
+2016-04-21 16:17:15 INFO  Verify:35 - Element By.xpath: //Label[text()='Percentage']//following-sibling::label//input is present in DOM
+2016-04-21 16:17:15 WARN  Elements:180 - The element By.xpath: //Label[text()='Percentage']//following-sibling::label//input has value '25.0' for attribute value
+2016-04-21 16:17:15 INFO  Verify:23 - Element By.xpath: //label[text()='Notice Charge Default']/following-sibling::label[normalize-space(text())='Yes'] is visible
+2016-04-21 16:17:15 INFO  Verify:35 - Element By.xpath: //label[text()='Notice Charge Amount']/following-sibling::label/input is present in DOM
+2016-04-21 16:17:15 WARN  Elements:180 - The element By.xpath: //label[text()='Notice Charge Amount']/following-sibling::label/input has value '200' for attribute value
+2016-04-21 16:17:15 INFO  Verify:35 - Element By.xpath: //label[text()='Adhoc Charges Amount']/following-sibling::label/input is present in DOM
+2016-04-21 16:17:15 WARN  Elements:180 - The element By.xpath: //label[text()='Adhoc Charges Amount']/following-sibling::label/input has value '250' for attribute Value
+2016-04-21 16:17:15 INFO  Verify:35 - Element By.xpath: //label[text()='Total Charges']/following-sibling::label/input is present in DOM
+2016-04-21 16:17:15 WARN  Elements:180 - The element By.xpath: //label[text()='Total Charges']/following-sibling::label/input has value '450' for attribute value
+2016-04-21 16:17:15 INFO  Verify:23 - Element By.xpath: //label[contains(text(),'Exceptions')]//following-sibling::div/div[contains(@class, 'col-md-10')] is visible
+2016-04-21 16:17:15 INFO  Elements:31 - The xpath count of the element By.xpath: //label[contains(text(),'Exceptions')]//following-sibling::div/div[contains(@class, 'col-md-10')] is 2
+2016-04-21 16:17:15 INFO  Verify:23 - Element By.xpath: //label[contains(text(),'Exceptions')]//following-sibling::div//div[1]//label is visible
+2016-04-21 16:17:15 WARN  Elements:198 - The text Notice Period Charges Exception from the element By.xpath: //label[contains(text(),'Exceptions')]//following-sibling::div//div[1]//label is retrieved
+2016-04-21 16:17:15 INFO  Verify:23 - Element By.xpath: //label[contains(text(),'Exceptions')]//following-sibling::div//div[2]//label is visible
+2016-04-21 16:17:15 WARN  Elements:198 - The text Transfer Frequency Exception from the element By.xpath: //label[contains(text(),'Exceptions')]//following-sibling::div//div[2]//label is retrieved

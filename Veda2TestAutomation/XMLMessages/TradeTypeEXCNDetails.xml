@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TradeTypeEXCNDetails>
+	<TradeTypeEXCN CheckerStatus="Pass" MakerStatus="Pass"
+		TestcaseName="Exchange_TC1" TransactionID="TRA0001" />
+</TradeTypeEXCNDetails>

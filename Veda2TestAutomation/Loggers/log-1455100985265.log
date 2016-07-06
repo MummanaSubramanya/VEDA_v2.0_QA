@@ -1,0 +1,50 @@
+2016-02-10 16:13:09 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-10 16:13:09 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-02-10 16:13:09 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-10 16:13:10 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-10 16:13:21 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-10 16:13:21 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-10 16:13:29 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-10 16:13:30 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-10 16:13:31 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-10 16:13:37 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-02-10 16:13:37 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-02-10 16:13:37 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-02-10 16:13:38 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible after waiting.
+2016-02-10 16:13:38 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible
+2016-02-10 16:13:38 INFO  Elements:48 - The textOP00000081 has been inputted successfully.
+2016-02-10 16:13:39 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']/div[1]/div[1]//a[text()='OP00000081'] is visible after waiting.
+2016-02-10 16:13:43 INFO  Elements:100 - The element By.xpath: //div[1]/div[1]//a[text()='OP00000081'] has been clicked successfully
+2016-02-10 16:13:57 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-10 16:13:57 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-10 16:14:07 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-10 16:14:12 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-02-10 16:14:12 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-02-10 16:14:13 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-02-10 16:14:13 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible after waiting.
+2016-02-10 16:14:13 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible
+2016-02-10 16:14:13 INFO  Elements:48 - The textOP00000088 has been inputted successfully.
+2016-02-10 16:14:15 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']/div[1]/div[1]//a[text()='OP00000088'] is visible after waiting.
+2016-02-10 16:14:19 INFO  Elements:100 - The element By.xpath: //div[1]/div[1]//a[text()='OP00000088'] has been clicked successfully
+2016-02-10 16:14:30 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-10 16:14:30 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-10 16:14:31 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-10 16:14:35 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-02-10 16:14:35 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-02-10 16:14:35 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-02-10 16:14:36 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible after waiting.
+2016-02-10 16:14:36 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible
+2016-02-10 16:14:36 INFO  Elements:48 - The textOP00000079 has been inputted successfully.
+2016-02-10 16:14:37 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']/div[1]/div[1]//a[text()='OP00000079'] is visible after waiting.
+2016-02-10 16:14:38 INFO  Elements:100 - The element By.xpath: //div[1]/div[1]//a[text()='OP00000079'] has been clicked successfully
+2016-02-10 16:15:12 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-10 16:15:12 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-10 16:15:15 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-10 16:15:18 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-02-10 16:15:18 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-02-10 16:15:18 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-02-10 16:15:19 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible after waiting.
+2016-02-10 16:15:19 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[1]//input is visible
+2016-02-10 16:15:19 INFO  Elements:48 - The textOP00000087 has been inputted successfully.
+2016-02-10 16:15:20 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']/div[1]/div[1]//a[text()='OP00000087'] is visible after waiting.
+2016-02-10 16:15:20 INFO  Elements:100 - The element By.xpath: //div[1]/div[1]//a[text()='OP00000087'] has been clicked successfully

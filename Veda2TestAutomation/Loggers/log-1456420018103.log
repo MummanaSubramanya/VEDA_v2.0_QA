@@ -1,0 +1,28 @@
+2016-02-25 22:37:02 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-25 22:37:02 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-02-25 22:37:02 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-25 22:37:02 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-25 22:37:14 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-25 22:37:14 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-25 22:37:32 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-02-25 22:37:32 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-02-25 22:37:43 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-02-25 22:37:49 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-02-25 22:37:49 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-02-25 22:37:49 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-02-25 22:37:49 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-02-25 22:37:49 INFO  Elements:48 - The textTR00000021 has been inputted successfully.
+2016-02-25 22:37:50 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TR00000021'] is visible after waiting.
+2016-02-25 22:38:11 INFO  Elements:100 - The element By.xpath: //div[1]/div[1]//a[text()='TR00000021'] has been clicked successfully
+2016-02-25 22:38:25 INFO  Wait:39 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Request Detail')] is visible after waiting.
+2016-02-25 22:38:30 INFO  Wait:39 - element By.xpath: //label[normalize-space()='Received Date']//following-sibling::label/input is visible after waiting.
+2016-02-25 22:38:30 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Received Date']//following-sibling::label/input is present in DOM
+2016-02-25 22:38:30 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Received Date']//following-sibling::label/input has value '12-Dec-2019' for attribute value
+2016-02-25 22:38:30 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Received Time']//following-sibling::label/input is present in DOM
+2016-02-25 22:38:30 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Received Time']//following-sibling::label/input has value '01:15' for attribute value
+2016-02-25 22:38:30 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Order Received Office']//following-sibling::label/input is present in DOM
+2016-02-25 22:38:30 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Order Received Office']//following-sibling::label/input has value 'Powai' for attribute value
+2016-02-25 22:38:30 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Mode of Request']//following-sibling::label/input is present in DOM
+2016-02-25 22:38:30 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Mode of Request']//following-sibling::label/input has value 'Email' for attribute value
+2016-02-25 22:38:30 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='External ID Number']//following-sibling::label/input is present in DOM
+2016-02-25 22:38:30 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='External ID Number']//following-sibling::label/input has value '4563' for attribute value

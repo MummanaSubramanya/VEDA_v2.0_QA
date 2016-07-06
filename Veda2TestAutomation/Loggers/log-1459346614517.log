@@ -1,0 +1,19 @@
+2016-03-30 19:33:40 INFO  Verify:23 - Element By.id: j_username is visible
+2016-03-30 19:33:40 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-03-30 19:33:40 INFO  Verify:23 - Element By.id: j_password is visible
+2016-03-30 19:33:40 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-03-30 19:33:44 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-03-30 19:33:44 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-03-30 19:33:47 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-03-30 19:33:47 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-03-30 19:33:49 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-03-30 19:33:55 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-03-30 19:33:55 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-03-30 19:33:55 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-03-30 19:33:55 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-03-30 19:33:55 INFO  Elements:48 - The textTR00000098 has been inputted successfully.
+2016-03-30 19:33:55 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TR00000098'] is visible after waiting.
+2016-03-30 19:34:21 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div/div[5]/div is visible
+2016-03-30 19:34:21 INFO  Elements:31 - The xpath count of the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div/div[5]/div is 1
+2016-03-30 19:34:54 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[1]/div[5]/div is visible
+2016-03-30 19:34:54 WARN  Elements:198 - The text 30-Mar-2016 from the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[1]/div[5]/div is retrieved

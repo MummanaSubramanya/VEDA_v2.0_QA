@@ -1,0 +1,22 @@
+2016-02-19 15:28:27 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-19 15:28:27 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-02-19 15:28:27 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-19 15:28:28 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-19 15:28:38 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-19 15:28:38 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-19 15:29:01 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible after waiting.
+2016-02-19 15:29:02 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 15:29:02 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 15:29:02 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 15:29:02 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-19 15:29:05 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='User - Role'] has been clicked successfully
+2016-02-19 15:29:09 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='User'] is visible after waiting.
+2016-02-19 15:29:13 INFO  Wait:23 - element By.xpath: //div[@id='createUserLoader' and contains(@style , 'display: none')] is present after waiting.
+2016-02-19 15:29:14 INFO  Wait:23 - element By.xpath: //div[@id='createRoleLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 15:29:15 INFO  Wait:23 - element By.xpath: //div[@id='createGroupLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 15:29:16 INFO  Wait:39 - element By.xpath: //li[contains(text(), 'User')] is visible after waiting.
+2016-02-19 15:29:16 INFO  Elements:100 - The element By.xpath: //span[normalize-space(text())='Role']/../following-sibling::div[1]/a has been clicked successfully
+2016-02-19 15:29:17 INFO  Wait:39 - element By.xpath: //li[text()='Role'] is visible after waiting.
+2016-02-19 15:29:20 INFO  Wait:39 - element By.xpath: //li[text()='Role'] is visible after waiting.
+2016-02-19 15:29:21 INFO  Verify:23 - Element By.id: roleCode is visible
+2016-02-19 15:29:21 INFO  Elements:48 - The textRole_D_4 has been inputted successfully.

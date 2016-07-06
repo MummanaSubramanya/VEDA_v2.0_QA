@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FundSetupSuite" duration-ms="2677522" started-at="2016-01-07T08:49:30Z" finished-at="2016-01-07T09:34:07Z">
+    <groups>
+    </groups>
+    <test name="SeriesTests" duration-ms="2677522" started-at="2016-01-07T08:49:30Z" finished-at="2016-01-07T09:34:07Z">
+      <class name="com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_MakerOperations_TC1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_MakerOperations_TC1@6073f712]" name="setUp" is-config="true" duration-ms="6607" started-at="2016-01-07T14:44:05Z" finished-at="2016-01-07T14:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_MakerOperations_TC1@6073f712]" name="test" duration-ms="25285" started-at="2016-01-07T14:44:12Z" finished-at="2016-01-07T14:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_MakerOperations_TC1@6073f712]" name="tearDown" is-config="true" duration-ms="1951" started-at="2016-01-07T14:44:37Z" finished-at="2016-01-07T14:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_MakerOperations_TC1 -->
+      <class name="com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyMakerOperations_TC3">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyMakerOperations_TC3@3d04a311]" name="setUp" is-config="true" duration-ms="7084" started-at="2016-01-07T14:53:28Z" finished-at="2016-01-07T14:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchFunctions()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyMakerOperations_TC3@3d04a311]" name="testSearchFunctions" duration-ms="425994" started-at="2016-01-07T14:53:35Z" finished-at="2016-01-07T15:00:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyMakerOperations_TC3@3d04a311]" name="tearDown" is-config="true" duration-ms="1905" started-at="2016-01-07T15:00:41Z" finished-at="2016-01-07T15:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyMakerOperations_TC3 -->
+      <class name="com.viteos.veda.master.seriestestscripts.SeriesMaster_MakerOperations_TC1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_MakerOperations_TC1@1c6b6478]" name="setUp" is-config="true" duration-ms="6635" started-at="2016-01-07T14:38:25Z" finished-at="2016-01-07T14:38:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_MakerOperations_TC1@1c6b6478]" name="test" duration-ms="64460" started-at="2016-01-07T14:38:32Z" finished-at="2016-01-07T14:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_MakerOperations_TC1@1c6b6478]" name="tearDown" is-config="true" duration-ms="1773" started-at="2016-01-07T14:39:36Z" finished-at="2016-01-07T14:39:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.seriestestscripts.SeriesMaster_MakerOperations_TC1 -->
+      <class name="com.viteos.veda.master.clienttestscripts.ClientMaster_MakerOperations_TC1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_MakerOperations_TC1@2e5c649]" name="setUp" is-config="true" duration-ms="8595" started-at="2016-01-07T14:19:30Z" finished-at="2016-01-07T14:19:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_MakerOperations_TC1@2e5c649]" name="test" duration-ms="44889" started-at="2016-01-07T14:19:38Z" finished-at="2016-01-07T14:20:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_MakerOperations_TC1@2e5c649]" name="tearDown" is-config="true" duration-ms="1970" started-at="2016-01-07T14:20:23Z" finished-at="2016-01-07T14:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.clienttestscripts.ClientMaster_MakerOperations_TC1 -->
+      <class name="com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyCheckerOperations_TC4">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyCheckerOperations_TC4@5577140b]" name="setUp" is-config="true" duration-ms="6544" started-at="2016-01-07T14:35:32Z" finished-at="2016-01-07T14:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckerOperations()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyCheckerOperations_TC4@5577140b]" name="testCheckerOperations" duration-ms="165146" started-at="2016-01-07T14:35:38Z" finished-at="2016-01-07T14:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckerOperations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyCheckerOperations_TC4@5577140b]" name="tearDown" is-config="true" duration-ms="1960" started-at="2016-01-07T14:38:23Z" finished-at="2016-01-07T14:38:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyCheckerOperations_TC4 -->
+      <class name="com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyCheckerOperations_TC4">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyCheckerOperations_TC4@1055e4af]" name="setUp" is-config="true" duration-ms="6786" started-at="2016-01-07T14:25:41Z" finished-at="2016-01-07T14:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckerOperations()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyCheckerOperations_TC4@1055e4af]" name="testCheckerOperations" duration-ms="116699" started-at="2016-01-07T14:25:48Z" finished-at="2016-01-07T14:27:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckerOperations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyCheckerOperations_TC4@1055e4af]" name="tearDown" is-config="true" duration-ms="1923" started-at="2016-01-07T14:27:44Z" finished-at="2016-01-07T14:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyCheckerOperations_TC4 -->
+      <class name="com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyCheckerOperations_TC4">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyCheckerOperations_TC4@7a46a697]" name="setUp" is-config="true" duration-ms="6836" started-at="2016-01-07T15:00:43Z" finished-at="2016-01-07T15:00:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckerOperations()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyCheckerOperations_TC4@7a46a697]" name="testCheckerOperations" duration-ms="195222" started-at="2016-01-07T15:00:50Z" finished-at="2016-01-07T15:04:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckerOperations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyCheckerOperations_TC4@7a46a697]" name="tearDown" is-config="true" duration-ms="1987" started-at="2016-01-07T15:04:05Z" finished-at="2016-01-07T15:04:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_ModifyCheckerOperations_TC4 -->
+      <class name="com.viteos.veda.master.fftestscripts.FundFamilyMaster_CheckerOperations_TC2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_CheckerOperations_TC2@e6ea0c6]" name="setUp" is-config="true" duration-ms="6145" started-at="2016-01-07T14:29:36Z" finished-at="2016-01-07T14:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckerOperations()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_CheckerOperations_TC2@e6ea0c6]" name="testCheckerOperations" duration-ms="20672" started-at="2016-01-07T14:29:42Z" finished-at="2016-01-07T14:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckerOperations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_CheckerOperations_TC2@e6ea0c6]" name="tearDown" is-config="true" duration-ms="1914" started-at="2016-01-07T14:30:03Z" finished-at="2016-01-07T14:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.fftestscripts.FundFamilyMaster_CheckerOperations_TC2 -->
+      <class name="com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyMakerOperations_TC3">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyMakerOperations_TC3@4ac68d3e]" name="setUp" is-config="true" duration-ms="6842" started-at="2016-01-07T14:42:16Z" finished-at="2016-01-07T14:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchFunctions()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyMakerOperations_TC3@4ac68d3e]" name="testSearchFunctions" duration-ms="37101" started-at="2016-01-07T14:42:23Z" finished-at="2016-01-07T14:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyMakerOperations_TC3@4ac68d3e]" name="tearDown" is-config="true" duration-ms="2010" started-at="2016-01-07T14:43:00Z" finished-at="2016-01-07T14:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyMakerOperations_TC3 -->
+      <class name="com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyMakerOperations_TC3">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyMakerOperations_TC3@6a38e57f]" name="setUp" is-config="true" duration-ms="6561" started-at="2016-01-07T14:30:05Z" finished-at="2016-01-07T14:30:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchFunctions()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyMakerOperations_TC3@6a38e57f]" name="testSearchFunctions" duration-ms="317979" started-at="2016-01-07T14:30:12Z" finished-at="2016-01-07T14:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyMakerOperations_TC3@6a38e57f]" name="tearDown" is-config="true" duration-ms="1941" started-at="2016-01-07T14:35:30Z" finished-at="2016-01-07T14:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.fftestscripts.FundFamilyMaster_ModifyMakerOperations_TC3 -->
+      <class name="com.viteos.veda.master.clienttestscripts.ClientMaster_CheckerOperations_TC2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_CheckerOperations_TC2@136432db]" name="setUp" is-config="true" duration-ms="6818" started-at="2016-01-07T14:20:25Z" finished-at="2016-01-07T14:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckerOperations()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_CheckerOperations_TC2@136432db]" name="testCheckerOperations" duration-ms="217368" started-at="2016-01-07T14:20:32Z" finished-at="2016-01-07T14:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckerOperations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_CheckerOperations_TC2@136432db]" name="tearDown" is-config="true" duration-ms="1937" started-at="2016-01-07T14:24:09Z" finished-at="2016-01-07T14:24:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.clienttestscripts.ClientMaster_CheckerOperations_TC2 -->
+      <class name="com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyMakerOperations_TC3">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyMakerOperations_TC3@7382f612]" name="setUp" is-config="true" duration-ms="6332" started-at="2016-01-07T14:24:11Z" finished-at="2016-01-07T14:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchFunctions()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyMakerOperations_TC3@7382f612]" name="testSearchFunctions" duration-ms="81549" started-at="2016-01-07T14:24:17Z" finished-at="2016-01-07T14:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyMakerOperations_TC3@7382f612]" name="tearDown" is-config="true" duration-ms="1776" started-at="2016-01-07T14:25:39Z" finished-at="2016-01-07T14:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.clienttestscripts.ClientMaster_ModifyMakerOperations_TC3 -->
+      <class name="com.viteos.veda.master.seriestestscripts.SeriesMaster_CheckerOperations_TC2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_CheckerOperations_TC2@67f89fa3]" name="setUp" is-config="true" duration-ms="7001" started-at="2016-01-07T14:39:38Z" finished-at="2016-01-07T14:39:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckerOperations()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_CheckerOperations_TC2@67f89fa3]" name="testCheckerOperations" duration-ms="148889" started-at="2016-01-07T14:39:45Z" finished-at="2016-01-07T14:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckerOperations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_CheckerOperations_TC2@67f89fa3]" name="tearDown" is-config="true" duration-ms="1891" started-at="2016-01-07T14:42:14Z" finished-at="2016-01-07T14:42:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.seriestestscripts.SeriesMaster_CheckerOperations_TC2 -->
+      <class name="com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_CheckerOperations_TC2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_CheckerOperations_TC2@43556938]" name="setUp" is-config="true" duration-ms="6553" started-at="2016-01-07T14:44:39Z" finished-at="2016-01-07T14:44:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckerOperations()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_CheckerOperations_TC2@43556938]" name="testCheckerOperations" duration-ms="520267" started-at="2016-01-07T14:44:46Z" finished-at="2016-01-07T14:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckerOperations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_CheckerOperations_TC2@43556938]" name="tearDown" is-config="true" duration-ms="1924" started-at="2016-01-07T14:53:26Z" finished-at="2016-01-07T14:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.formulatestscripts.FormulaSetupMaster_CheckerOperations_TC2 -->
+      <class name="com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyCheckerOperations_TC4">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyCheckerOperations_TC4@277c0f21]" name="setUp" is-config="true" duration-ms="7059" started-at="2016-01-07T14:43:02Z" finished-at="2016-01-07T14:43:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckerOperations()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyCheckerOperations_TC4@277c0f21]" name="testCheckerOperations" duration-ms="54743" started-at="2016-01-07T14:43:09Z" finished-at="2016-01-07T14:44:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckerOperations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyCheckerOperations_TC4@277c0f21]" name="tearDown" is-config="true" duration-ms="1809" started-at="2016-01-07T14:44:04Z" finished-at="2016-01-07T14:44:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.seriestestscripts.SeriesMaster_ModifyCheckerOperations_TC4 -->
+      <class name="com.viteos.veda.master.fftestscripts.FundFamilyMaster_MakerOperations_TC1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_MakerOperations_TC1@3caeaf62]" name="setup" is-config="true" duration-ms="6905" started-at="2016-01-07T14:27:46Z" finished-at="2016-01-07T14:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewFundFamily()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_MakerOperations_TC1@3caeaf62]" name="addNewFundFamily" duration-ms="101387" started-at="2016-01-07T14:27:53Z" finished-at="2016-01-07T14:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewFundFamily -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.viteos.veda.master.fftestscripts.FundFamilyMaster_MakerOperations_TC1@3caeaf62]" name="tearDown" is-config="true" duration-ms="1865" started-at="2016-01-07T14:29:34Z" finished-at="2016-01-07T14:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.viteos.veda.master.fftestscripts.FundFamilyMaster_MakerOperations_TC1 -->
+    </test> <!-- SeriesTests -->
+  </suite> <!-- FundSetupSuite -->
+</testng-results>

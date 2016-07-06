@@ -1,0 +1,91 @@
+2016-04-01 20:41:34 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-01 20:41:34 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-04-01 20:41:34 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-01 20:41:34 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-01 20:41:37 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-01 20:41:37 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-01 20:41:40 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-04-01 20:41:40 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-04-01 20:41:42 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-04-01 20:41:42 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-01 20:41:42 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-01 20:41:42 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-01 20:41:42 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-01 20:41:42 INFO  Elements:48 - The textTRA0107 has been inputted successfully.
+2016-04-01 20:41:43 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TRA0107'] is visible after waiting.
+2016-04-01 20:41:43 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div/div[5]/div is visible
+2016-04-01 20:41:43 INFO  Elements:31 - The xpath count of the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div/div[5]/div is 1
+2016-04-01 20:41:43 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[1]/div[5]/div is visible
+2016-04-01 20:41:44 WARN  Elements:198 - The text Transaction_EXC from the element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[1]/div[5]/div is retrieved
+2016-04-01 20:41:45 INFO  Elements:100 - The element By.xpath: //div[contains(@id,'contenttable') and contains(@id,'TransactionToOperate')]/div[1]/div[1]//a[text()='TRA0107'] has been clicked successfully
+2016-04-01 20:41:48 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='1']//..//following-sibling::div//a[@class='expand'] is visible after waiting.
+2016-04-01 20:41:51 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='1']//..//following-sibling::div//a[@class='collapse'] is not present after waiting 3 secs.
+2016-04-01 20:41:53 INFO  Wait:23 - element By.xpath: //div[@class='sub-caption']/span[text()='1'] is present after waiting.
+2016-04-01 20:41:53 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Received Date']/following::div/input[contains(@id,'requestDate')] is visible
+2016-04-01 20:41:53 INFO  Elements:48 - The text04/01/2016 has been inputted successfully.
+2016-04-01 20:41:53 INFO  Verify:23 - Element By.xpath: //label[normalize-space()='Received Time']/following::div/input[contains(@id,'requestTime')] is visible
+2016-04-01 20:41:54 INFO  Elements:48 - The text4:05 PM has been inputted successfully.
+2016-04-01 20:41:54 INFO  Elements:100 - The element By.xpath: //h4/p[contains(text(),'Exchange')] has been clicked successfully
+2016-04-01 20:41:54 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Mode of Request']/following::div[@id='s2id_tblOrderTransferMaster.modeOfRequest.referenceIdPk'] has been clicked successfully
+2016-04-01 20:41:54 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Email" or text()="Email"] is visible after waiting.
+2016-04-01 20:41:54 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Email" or text()="Email"] has been clicked successfully
+2016-04-01 20:41:55 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='2']//..//following-sibling::div//a[@class='expand'] is visible after waiting.
+2016-04-01 20:41:59 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='2']//..//following-sibling::div//a[@class='collapse'] is not present after waiting 3 secs.
+2016-04-01 20:42:01 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorMaster']/a[contains(@class,'select2-choice')] has been clicked successfully
+2016-04-01 20:42:01 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] is visible after waiting.
+2016-04-01 20:42:01 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] has been clicked successfully
+2016-04-01 20:42:01 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorHolder']/a[contains(@class,'select2-choice')] has been clicked successfully
+2016-04-01 20:42:01 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] is visible after waiting.
+2016-04-01 20:42:01 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] has been clicked successfully
+2016-04-01 20:42:01 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_investorAccount']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-01 20:42:01 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="AC00000001" or text()="AC00000001"] is visible after waiting.
+2016-04-01 20:42:01 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="AC00000001" or text()="AC00000001"] has been clicked successfully
+2016-04-01 20:42:02 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='3']//..//following-sibling::div//a[@class='expand'] is visible after waiting.
+2016-04-01 20:42:05 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='3']//..//following-sibling::div//a[@class='collapse'] is not present after waiting 3 secs.
+2016-04-01 20:42:08 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fromClient']//span[contains(@id, 'select2-chosen')] has been clicked successfully
+2016-04-01 20:42:08 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital" or text()="Connective Capital"] is visible after waiting.
+2016-04-01 20:42:08 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital" or text()="Connective Capital"] has been clicked successfully
+2016-04-01 20:42:08 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fromFundFamily']//span[contains(@id, 'select2-chosen')] has been clicked successfully
+2016-04-01 20:42:08 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital I Master Fund Ltd" or text()="Connective Capital I Master Fund Ltd"] is visible after waiting.
+2016-04-01 20:42:08 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital I Master Fund Ltd" or text()="Connective Capital I Master Fund Ltd"] has been clicked successfully
+2016-04-01 20:42:08 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fromLegalEntity']//span[contains(@id, 'select2-chosen')] has been clicked successfully
+2016-04-01 20:42:08 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital I Offshore Fund Ltd" or text()="Connective Capital I Offshore Fund Ltd"] is visible after waiting.
+2016-04-01 20:42:08 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital I Offshore Fund Ltd" or text()="Connective Capital I Offshore Fund Ltd"] has been clicked successfully
+2016-04-01 20:42:08 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fromClass']//span[contains(@id, 'select2-chosen')] has been clicked successfully
+2016-04-01 20:42:08 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Class A" or text()="Class A"] is visible after waiting.
+2016-04-01 20:42:08 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Class A" or text()="Class A"] has been clicked successfully
+2016-04-01 20:42:09 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fromSeries']//span[contains(@id, 'select2-chosen')] has been clicked successfully
+2016-04-01 20:42:09 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Series 1105" or text()="Series 1105"] is visible after waiting.
+2016-04-01 20:42:09 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Series 1105" or text()="Series 1105"] has been clicked successfully
+2016-04-01 20:42:10 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='4']//..//following-sibling::div//a[@class='expand'] is visible after waiting.
+2016-04-01 20:42:14 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='4']//..//following-sibling::div//a[@class='collapse'] is not present after waiting 3 secs.
+2016-04-01 20:42:16 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_toClient']//span[contains(@id,'select2-chosen')] is visible
+2016-04-01 20:42:16 WARN  Elements:198 - The text Connective Capital from the element By.xpath: //div[@id='s2id_toClient']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-01 20:42:16 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_toFundFamily']//span[contains(@id,'select2-chosen')] is visible
+2016-04-01 20:42:16 WARN  Elements:198 - The text Connective Capital I Master Fund Ltd from the element By.xpath: //div[@id='s2id_toFundFamily']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-01 20:42:16 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_toLegalEntity']//span[contains(@id,'select2-chosen')] is visible
+2016-04-01 20:42:16 WARN  Elements:198 - The text Connective Capital I Offshore Fund Ltd from the element By.xpath: //div[@id='s2id_toLegalEntity']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-01 20:42:16 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_toClass']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-01 20:42:16 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Class C" or text()="Class C"] is visible after waiting.
+2016-04-01 20:42:16 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Class C" or text()="Class C"] has been clicked successfully
+2016-04-01 20:42:16 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_toSeries']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-01 20:42:16 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Series1112" or text()="Series1112"] is visible after waiting.
+2016-04-01 20:42:16 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Series1112" or text()="Series1112"] has been clicked successfully
+2016-04-01 20:42:18 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='5']//..//following-sibling::div//a[@class='expand'] is visible after waiting.
+2016-04-01 20:42:21 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='5']//..//following-sibling::div//a[@class='collapse'] is not present after waiting 3 secs.
+2016-04-01 20:42:24 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='No']/div[@id='uniform-fullExchange']/span has been clicked successfully
+2016-04-01 20:42:24 INFO  Verify:23 - Element By.xpath: //input[@id='effectiveDate'] is visible
+2016-04-01 20:42:24 INFO  Elements:48 - The text04/04/2016 has been inputted successfully.
+2016-04-01 20:42:24 INFO  Elements:100 - The element By.xpath: //div[@id='uniform-amountShare1'] has been clicked successfully
+2016-04-01 20:42:25 INFO  Verify:23 - Element By.xpath: //input[@id='amountValue'] is visible
+2016-04-01 20:42:25 INFO  Elements:48 - The text4000 has been inputted successfully.
+2016-04-01 20:42:32 INFO  Elements:100 - The element By.xpath: //button[contains(@onclick, 'proceedModify')] has been clicked successfully
+2016-04-01 20:42:36 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='6']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-01 20:42:36 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='6']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-01 20:42:36 INFO  Wait:39 - element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is visible after waiting.
+2016-04-01 20:42:36 INFO  Verify:23 - Element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is visible
+2016-04-01 20:42:36 INFO  Elements:31 - The xpath count of the element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is 1
+2016-04-01 20:42:36 INFO  Wait:39 - element By.xpath: //input[@id='check_1']//parent::span[@class='checked'] is visible after waiting.
+2016-04-01 20:42:37 INFO  Elements:100 - The element By.xpath: //h4/p[contains(text(),'Exchange')] has been clicked successfully
+2016-04-01 20:42:37 INFO  Verify:35 - Element By.id: share_1 is present in DOM
+2016-04-01 20:42:37 WARN  Elements:180 - The element By.id: share_1 has value '4' for attribute value

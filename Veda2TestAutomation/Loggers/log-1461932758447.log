@@ -1,0 +1,239 @@
+2016-04-29 17:56:03 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-29 17:56:03 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-04-29 17:56:04 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-29 17:56:04 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-29 17:56:06 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-29 17:56:06 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-29 17:56:10 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-04-29 17:56:10 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-04-29 17:56:11 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-04-29 17:56:11 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-29 17:56:11 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-29 17:56:11 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-29 17:56:11 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-29 17:56:11 INFO  Elements:48 - The textTRA2246 has been inputted successfully.
+2016-04-29 17:56:12 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TRA2246'] is visible after waiting.
+2016-04-29 17:56:12 INFO  Wait:39 - element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_EXC']//..//parent::div[@role='row']//a[normalize-space(text())='TRA2246'] is visible after waiting.
+2016-04-29 17:56:42 INFO  Elements:100 - The element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_EXC']//..//parent::div[@role='row']//a[normalize-space(text())='TRA2246'] has been clicked successfully
+2016-04-29 17:56:45 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='1']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:56:46 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='1']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:56:46 INFO  Verify:35 - Element By.xpath: //input[@id='requestDate'] is present in DOM
+2016-04-29 17:56:46 WARN  Elements:180 - The element By.xpath: //input[@id='requestDate'] has value '03/28/2016' for attribute value
+2016-04-29 17:56:46 INFO  Verify:35 - Element By.id: requestTime is present in DOM
+2016-04-29 17:56:46 WARN  Elements:180 - The element By.id: requestTime has value '2:00 PM' for attribute value
+2016-04-29 17:56:46 INFO  Verify:35 - Element By.xpath: //label[contains(text(),'Mode of Request')]//following-sibling::input is present in DOM
+2016-04-29 17:56:46 WARN  Elements:180 - The element By.xpath: //label[contains(text(),'Mode of Request')]//following-sibling::input has value 'Email' for attribute value
+2016-04-29 17:56:49 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='2']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:56:49 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='2']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:56:49 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Investor Name']/input is present in DOM
+2016-04-29 17:56:49 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Investor Name']/input has value 'Alex Mac' for attribute value
+2016-04-29 17:56:49 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Holder Name']/input is present in DOM
+2016-04-29 17:56:49 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Holder Name']/input has value 'Alex Mac' for attribute value
+2016-04-29 17:56:49 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Account ID']/input is present in DOM
+2016-04-29 17:56:49 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Account ID']/input has value 'AC0962' for attribute value
+2016-04-29 17:56:52 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='3']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:56:52 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='3']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:56:52 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Client Name']/input is present in DOM
+2016-04-29 17:56:52 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Client Name']/input has value 'Connective Capital' for attribute value
+2016-04-29 17:56:52 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Fund Family Name']/input is present in DOM
+2016-04-29 17:56:52 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Fund Family Name']/input has value 'Connective Capital I Master Fund Ltd' for attribute value
+2016-04-29 17:56:52 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Legal Entity Name']/input is present in DOM
+2016-04-29 17:56:52 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Legal Entity Name']/input has value 'Connective Capital I Offshore Fund Ltd' for attribute value
+2016-04-29 17:56:52 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Class Name']/input is present in DOM
+2016-04-29 17:56:52 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Class Name']/input has value 'Class A' for attribute value
+2016-04-29 17:56:52 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Series Name']/input is present in DOM
+2016-04-29 17:56:52 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Series Name']/input has value 'Series 1105' for attribute value
+2016-04-29 17:56:56 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='4']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:56:56 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='4']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:56:56 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Client Name']/input is present in DOM
+2016-04-29 17:56:56 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Client Name']/input has value 'Connective Capital' for attribute value
+2016-04-29 17:56:56 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Fund Family Name']/input is present in DOM
+2016-04-29 17:56:56 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Fund Family Name']/input has value 'Connective Capital I Master Fund Ltd' for attribute value
+2016-04-29 17:56:56 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Legal Entity Name']/input is present in DOM
+2016-04-29 17:56:56 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Legal Entity Name']/input has value 'Connective Capital I Offshore Fund Ltd' for attribute value
+2016-04-29 17:56:56 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Class Name']/input is present in DOM
+2016-04-29 17:56:56 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Class Name']/input has value 'Class D' for attribute value
+2016-04-29 17:56:56 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Series Name']/input is present in DOM
+2016-04-29 17:56:56 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Series Name']/input has value 'Series 02-06' for attribute value
+2016-04-29 17:56:59 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='5']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:56:59 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='5']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:57:00 INFO  Wait:23 - element By.xpath: //label[contains(text(),'Full Exchange')]//following-sibling::div//label[contains(text(),'Yes')]//span[@class='checked']/input is present after waiting.
+2016-04-29 17:57:00 INFO  Verify:35 - Element By.xpath: //input[@id='effectiveDate'] is present in DOM
+2016-04-29 17:57:00 WARN  Elements:180 - The element By.xpath: //input[@id='effectiveDate'] has value '04/25/2016' for attribute value
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //label[contains(text(),'NAV Date')]//following-sibling::label is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 30-Apr-2013 from the element By.xpath: //label[contains(text(),'NAV Date')]//following-sibling::label is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is visible
+2016-04-29 17:57:00 INFO  Elements:31 - The xpath count of the element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is 1
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]/td[11]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220,533.99 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]/td[11]/span is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]/td[12]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220.53 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]/td[12]/span is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is visible
+2016-04-29 17:57:00 INFO  Elements:31 - The xpath count of the element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is 1
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[5]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220533.99 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[5]/span is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[6]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220.53 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[6]/span is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[7]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220533.99 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[7]/span is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[8]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220.53 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[8]/span is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[1]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220533.99 from the element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[1]/span is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[2]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220.53 from the element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[2]/span is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[3]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220533.99 from the element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[3]/span is retrieved
+2016-04-29 17:57:00 INFO  Verify:23 - Element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[4]/span is visible
+2016-04-29 17:57:00 WARN  Elements:198 - The text 220.53 from the element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[4]/span is retrieved
+2016-04-29 17:57:00 INFO  Wait:23 - element By.xpath: //label[contains(normalize-space(),'Notice Charge Default')]//following-sibling::div//label[contains(text(),'Yes')]//span[@class='checked'] is present after waiting.
+2016-04-29 17:57:00 INFO  Wait:23 - element By.xpath: //label[contains(normalize-space(),'Notice Charge Default')]//following-sibling::div//label[contains(text(),'Yes')]//span[@class='checked'] is present after waiting.
+2016-04-29 17:57:00 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Notice Charges']//following-sibling::div/input is present in DOM
+2016-04-29 17:57:00 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Notice Charges']//following-sibling::div/input has value '100' for attribute value
+2016-04-29 17:57:00 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Total Charges']//following-sibling::div/input is present in DOM
+2016-04-29 17:57:01 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Total Charges']//following-sibling::div/input has value '100' for attribute value
+2016-04-29 17:57:01 INFO  Verify:35 - Element By.xpath: //input[contains(@id,'grossAmount')] is present in DOM
+2016-04-29 17:57:01 WARN  Elements:180 - The element By.xpath: //input[contains(@id,'grossAmount')] has value '220,533.99' for attribute value
+2016-04-29 17:57:01 INFO  Verify:35 - Element By.xpath: //input[@id='totalChargesView'] is present in DOM
+2016-04-29 17:57:01 WARN  Elements:180 - The element By.xpath: //input[@id='totalChargesView'] has value '100' for attribute value
+2016-04-29 17:57:01 INFO  Verify:35 - Element By.xpath: //input[@id='exchangeAmountView'] is present in DOM
+2016-04-29 17:57:01 WARN  Elements:180 - The element By.xpath: //input[@id='exchangeAmountView'] has value '220,433.99' for attribute value
+2016-04-29 17:57:01 INFO  Verify:35 - Element By.xpath: //input[@id='netUnitView'] is present in DOM
+2016-04-29 17:57:01 WARN  Elements:180 - The element By.xpath: //input[@id='netUnitView'] has value '220.43' for attribute value
+2016-04-29 17:57:01 INFO  Wait:23 - element By.xpath: //label[contains(normalize-space(),'Crystalize Fee')]//following-sibling::div//label[contains(text(),'No')]//span[@class='checked'] is present after waiting.
+2016-04-29 17:57:01 INFO  Wait:23 - element By.xpath: //label[contains(normalize-space(),'Cumulative Return')]//following-sibling::div//label[contains(text(),'No')]//span[@class='checked'] is present after waiting.
+2016-04-29 17:57:04 WARN  Wait:27 - element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::h4[contains(normalize-space(),'Override')]//preceding-sibling::div is not present after waiting 3.
+2016-04-29 17:57:04 INFO  Wait:23 - element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div is present after waiting.
+2016-04-29 17:57:04 INFO  Verify:23 - Element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div is visible
+2016-04-29 17:57:04 INFO  Elements:31 - The xpath count of the element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div is 2
+2016-04-29 17:57:04 INFO  Verify:23 - Element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div[1]/label is visible
+2016-04-29 17:57:04 WARN  Elements:198 - The text 1 . Notice Period Charges Exception from the element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div[1]/label is retrieved
+2016-04-29 17:57:04 INFO  Verify:23 - Element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div[2]/label is visible
+2016-04-29 17:57:04 WARN  Elements:198 - The text 2 . Exchange Frequency Exception from the element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div[2]/label is retrieved
+2016-04-29 17:57:04 INFO  Wait:39 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Request Detail')] is visible after waiting.
+2016-04-29 17:57:04 INFO  Elements:100 - The element By.xpath: //div[contains(@class, 'input-group')]/a[contains(@onclick, 'javascript:viewDocuments')] has been clicked successfully
+2016-04-29 17:57:40 WARN  Wait:27 - element By.xpath: //div[@id='uniform-approveOANo']/span[@class='checked']/input is not present after waiting 30.
+2016-04-29 17:57:40 INFO  Wait:23 - element By.xpath: //div[@id='uniform-approveOAYes']/span[@class='checked']/input is present after waiting.
+2016-04-29 17:57:46 INFO  Elements:100 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] has been clicked successfully
+2016-04-29 17:57:52 WARN  Wait:93 - Alert is not present after waiting 5 secs.
+2016-04-29 17:57:52 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-04-29 17:57:55 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-04-29 17:57:55 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-04-29 17:57:56 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-04-29 17:57:56 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-29 17:57:56 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-29 17:57:56 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-29 17:57:56 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-29 17:57:56 INFO  Elements:48 - The textTRA2247 has been inputted successfully.
+2016-04-29 17:57:57 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TRA2247'] is visible after waiting.
+2016-04-29 17:57:57 INFO  Wait:39 - element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_EXC']//..//parent::div[@role='row']//a[normalize-space(text())='TRA2247'] is visible after waiting.
+2016-04-29 17:58:33 INFO  Elements:100 - The element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_EXC']//..//parent::div[@role='row']//a[normalize-space(text())='TRA2247'] has been clicked successfully
+2016-04-29 17:58:36 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='1']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:58:37 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='1']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:58:37 INFO  Verify:35 - Element By.xpath: //input[@id='requestDate'] is present in DOM
+2016-04-29 17:58:37 WARN  Elements:180 - The element By.xpath: //input[@id='requestDate'] has value '03/28/2016' for attribute value
+2016-04-29 17:58:37 INFO  Verify:35 - Element By.id: requestTime is present in DOM
+2016-04-29 17:58:37 WARN  Elements:180 - The element By.id: requestTime has value '2:00 PM' for attribute value
+2016-04-29 17:58:37 INFO  Verify:35 - Element By.xpath: //label[contains(text(),'Mode of Request')]//following-sibling::input is present in DOM
+2016-04-29 17:58:37 WARN  Elements:180 - The element By.xpath: //label[contains(text(),'Mode of Request')]//following-sibling::input has value 'Email' for attribute value
+2016-04-29 17:58:40 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='2']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:58:40 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='2']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:58:40 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Investor Name']/input is present in DOM
+2016-04-29 17:58:40 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Investor Name']/input has value 'Ben Stiller' for attribute value
+2016-04-29 17:58:40 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Holder Name']/input is present in DOM
+2016-04-29 17:58:40 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Holder Name']/input has value 'Ben Stiller' for attribute value
+2016-04-29 17:58:40 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Account ID']/input is present in DOM
+2016-04-29 17:58:40 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Account ID']/input has value 'AC0963' for attribute value
+2016-04-29 17:58:43 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='3']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:58:43 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='3']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:58:43 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Client Name']/input is present in DOM
+2016-04-29 17:58:43 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Client Name']/input has value 'Connective Capital' for attribute value
+2016-04-29 17:58:43 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Fund Family Name']/input is present in DOM
+2016-04-29 17:58:43 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Fund Family Name']/input has value 'Connective Capital I Master Fund Ltd' for attribute value
+2016-04-29 17:58:43 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Legal Entity Name']/input is present in DOM
+2016-04-29 17:58:43 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Legal Entity Name']/input has value 'Connective Capital I Offshore Fund Ltd' for attribute value
+2016-04-29 17:58:43 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Class Name']/input is present in DOM
+2016-04-29 17:58:43 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Class Name']/input has value 'Class A' for attribute value
+2016-04-29 17:58:43 INFO  Verify:35 - Element By.xpath: //div[@data-original-title='Series Name']/input is present in DOM
+2016-04-29 17:58:43 WARN  Elements:180 - The element By.xpath: //div[@data-original-title='Series Name']/input has value 'Series 1110' for attribute value
+2016-04-29 17:58:47 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='4']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:58:47 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='4']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:58:47 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Client Name']/input is present in DOM
+2016-04-29 17:58:47 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Client Name']/input has value 'Connective Capital' for attribute value
+2016-04-29 17:58:47 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Fund Family Name']/input is present in DOM
+2016-04-29 17:58:47 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Fund Family Name']/input has value 'Connective Capital I Master Fund Ltd' for attribute value
+2016-04-29 17:58:47 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Legal Entity Name']/input is present in DOM
+2016-04-29 17:58:47 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Legal Entity Name']/input has value 'Connective Capital I Offshore Fund Ltd' for attribute value
+2016-04-29 17:58:47 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Class Name']/input is present in DOM
+2016-04-29 17:58:47 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Class Name']/input has value 'Class C' for attribute value
+2016-04-29 17:58:47 INFO  Verify:35 - Element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Series Name']/input is present in DOM
+2016-04-29 17:58:47 WARN  Elements:180 - The element By.xpath: //div[contains(normalize-space(),'To Fund Details')]/span//parent::div//parent::div//following::div[@class='portlet-body form']//div[@data-original-title='Series Name']/input has value 'Series1112' for attribute value
+2016-04-29 17:58:50 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='5']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-29 17:58:50 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='5']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-29 17:58:51 INFO  Wait:23 - element By.xpath: //label[contains(text(),'Full Exchange')]//following-sibling::div//label[contains(text(),'No')]//span[@class='checked']/input is present after waiting.
+2016-04-29 17:58:51 INFO  Verify:35 - Element By.xpath: //input[@id='effectiveDate'] is present in DOM
+2016-04-29 17:58:51 WARN  Elements:180 - The element By.xpath: //input[@id='effectiveDate'] has value '04/21/2016' for attribute value
+2016-04-29 17:58:51 INFO  Wait:23 - element By.xpath: //span[@class='checked']/input[@id='amountShare1'] is present after waiting.
+2016-04-29 17:58:51 INFO  Verify:35 - Element By.xpath: //input[@id='amountValue'] is present in DOM
+2016-04-29 17:58:51 WARN  Elements:180 - The element By.xpath: //input[@id='amountValue'] has value '5,000' for attribute value
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //label[contains(text(),'NAV Date')]//following-sibling::label is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 30-Apr-2013 from the element By.xpath: //label[contains(text(),'NAV Date')]//following-sibling::label is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is visible
+2016-04-29 17:58:51 INFO  Elements:31 - The xpath count of the element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is 1
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]/td[11]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 5,000 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]/td[11]/span is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]/td[12]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 5 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]/td[12]/span is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is visible
+2016-04-29 17:58:51 INFO  Elements:31 - The xpath count of the element By.xpath: //tr//td//div[contains(@id,'uniform-check')] is 1
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[5]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 2021642.89 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[5]/span is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[6]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 2021.64 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[6]/span is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[7]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 2021642.89 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[7]/span is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[8]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 2021.64 from the element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Available Balance')]//parent::div//following::div//table//tbody//tr[1]//td[8]/span is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[1]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 2021642.89 from the element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[1]/span is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[2]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 2021.64 from the element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[2]/span is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[3]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 2021642.89 from the element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[3]/span is retrieved
+2016-04-29 17:58:51 INFO  Verify:23 - Element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[4]/span is visible
+2016-04-29 17:58:51 WARN  Elements:198 - The text 2021.64 from the element By.xpath: //strong[text()='Total']//parent::td//following-sibling::td[4]/span is retrieved
+2016-04-29 17:58:51 INFO  Wait:23 - element By.xpath: //label[contains(normalize-space(),'Notice Charge Default')]//following-sibling::div//label[contains(text(),'Yes')]//span[@class='checked'] is present after waiting.
+2016-04-29 17:58:51 INFO  Wait:23 - element By.xpath: //label[contains(normalize-space(),'Notice Charge Default')]//following-sibling::div//label[contains(text(),'Yes')]//span[@class='checked'] is present after waiting.
+2016-04-29 17:58:51 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Notice Charges']//following-sibling::div/input is present in DOM
+2016-04-29 17:58:51 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Notice Charges']//following-sibling::div/input has value '100' for attribute value
+2016-04-29 17:58:51 INFO  Verify:35 - Element By.xpath: //label[normalize-space()='Total Charges']//following-sibling::div/input is present in DOM
+2016-04-29 17:58:51 WARN  Elements:180 - The element By.xpath: //label[normalize-space()='Total Charges']//following-sibling::div/input has value '200' for attribute value
+2016-04-29 17:58:52 INFO  Verify:35 - Element By.xpath: //input[contains(@id,'grossAmount')] is present in DOM
+2016-04-29 17:58:52 WARN  Elements:180 - The element By.xpath: //input[contains(@id,'grossAmount')] has value '5,000' for attribute value
+2016-04-29 17:58:52 INFO  Verify:35 - Element By.xpath: //input[@id='totalChargesView'] is present in DOM
+2016-04-29 17:58:52 WARN  Elements:180 - The element By.xpath: //input[@id='totalChargesView'] has value '200' for attribute value
+2016-04-29 17:58:52 INFO  Verify:35 - Element By.xpath: //input[@id='exchangeAmountView'] is present in DOM
+2016-04-29 17:58:52 WARN  Elements:180 - The element By.xpath: //input[@id='exchangeAmountView'] has value '4,800' for attribute value
+2016-04-29 17:58:52 INFO  Verify:35 - Element By.xpath: //input[@id='netUnitView'] is present in DOM
+2016-04-29 17:58:52 WARN  Elements:180 - The element By.xpath: //input[@id='netUnitView'] has value '4.80' for attribute value
+2016-04-29 17:58:52 INFO  Wait:23 - element By.xpath: //label[contains(normalize-space(),'Crystalize Fee')]//following-sibling::div//label[contains(text(),'No')]//span[@class='checked'] is present after waiting.
+2016-04-29 17:58:52 INFO  Wait:23 - element By.xpath: //label[contains(normalize-space(),'Cumulative Return')]//following-sibling::div//label[contains(text(),'No')]//span[@class='checked'] is present after waiting.
+2016-04-29 17:58:55 WARN  Wait:27 - element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::h4[contains(normalize-space(),'Override')]//preceding-sibling::div is not present after waiting 3.
+2016-04-29 17:58:55 INFO  Wait:23 - element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div is present after waiting.
+2016-04-29 17:58:55 INFO  Verify:23 - Element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div is visible
+2016-04-29 17:58:55 INFO  Elements:31 - The xpath count of the element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div is 2
+2016-04-29 17:58:55 INFO  Verify:23 - Element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div[1]/label is visible
+2016-04-29 17:58:55 WARN  Elements:198 - The text 1 . Notice Period Charges Exception from the element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div[1]/label is retrieved
+2016-04-29 17:58:55 INFO  Verify:23 - Element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div[2]/label is visible
+2016-04-29 17:58:55 WARN  Elements:198 - The text 2 . Exchange Frequency Exception from the element By.xpath: //h4[contains(normalize-space(),'Exception')]//following-sibling::div[2]/label is retrieved
+2016-04-29 17:58:55 INFO  Wait:39 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Request Detail')] is visible after waiting.
+2016-04-29 17:58:55 INFO  Elements:100 - The element By.xpath: //div[contains(@class, 'input-group')]/a[contains(@onclick, 'javascript:viewDocuments')] has been clicked successfully
+2016-04-29 17:59:31 WARN  Wait:27 - element By.xpath: //div[@id='uniform-approveOANo']/span[@class='checked']/input is not present after waiting 30.
+2016-04-29 17:59:31 INFO  Wait:23 - element By.xpath: //div[@id='uniform-approveOAYes']/span[@class='checked']/input is present after waiting.
+2016-04-29 17:59:49 INFO  Elements:100 - The element By.xpath: //button[contains(@onclick, 'javascript:submitCheckerRequest')and contains(@onclick, 'Done')] has been clicked successfully
+2016-04-29 17:59:54 WARN  Wait:93 - Alert is not present after waiting 5 secs.
+2016-04-29 17:59:54 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-04-29 17:59:56 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-04-29 17:59:56 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-04-29 17:59:56 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-04-29 17:59:56 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

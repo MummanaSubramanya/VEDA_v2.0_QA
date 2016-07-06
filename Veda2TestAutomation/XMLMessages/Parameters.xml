@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+	<parameter
+		Attributes="[Closing NAV Per Unit],+,[Subscription],-,[Redemption],+,[Transfer],-,[Management Fee Carry Forward]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Master Fund Ltd" OperationType="Save"
+		ParameterName="Opening Adjusted GAV" Rule="New Rule" TestcaseName="Sancus_TC13"
+		parameterID="OPE0155" />
+	<parameter
+		Attributes="[Net Performance Period to Date],/,(,[Closing NAV Per Unit],+,[Subscription],-,[Redemption],+,[Transfer],)"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Master Fund Ltd" OperationType="Save"
+		ParameterName="Net PTD" Rule="New Rule" TestcaseName="Sancus_TC14"
+		parameterID="NET0156" />
+	<parameter
+		Attributes="[Opening Adjusted GAV],+,[Period To Date Total P&amp;L Allocation Amount],+,[Management Fee]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Master Fund Ltd" OperationType="Save"
+		ParameterName="Closing GAV" Rule="New Rule" TestcaseName="Sancus_TC15"
+		parameterID="CLO0157" />
+	<parameter
+		Attributes="[Opening Adjusted GAV],+,[Period To Date Total P&amp;L Allocation Amount],+,[Management Fee]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Fund Ltd" OperationType="Save"
+		ParameterName="Closing GAV" Rule="New Rule" TestcaseName="Sancus_TC16"
+		parameterID="CLO0158" />
+	<parameter
+		Attributes="[Opening Adjusted GAV],+,[Period To Date Total P&amp;L Allocation Amount],+,[Management Fee]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Partners LP" OperationType="Save"
+		ParameterName="Closing GAV" Rule="New Rule" TestcaseName="Sancus_TC17"
+		parameterID="CLO0159" />
+	<parameter Attributes="[Closing GAV],+,[Performance Fee Cumulative]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Master Fund Ltd" OperationType="Save"
+		ParameterName="Closing NAV" Rule="New Rule" TestcaseName="Sancus_TC18"
+		parameterID="CLO0160" />
+	<parameter Attributes="[Closing GAV],+,[Performance Fee Cumulative]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Partners LP" OperationType="Save"
+		ParameterName="Closing NAV" Rule="New Rule" TestcaseName="Sancus_TC19"
+		parameterID="CLO0161" />
+	<parameter Attributes="[Closing GAV],+,[Performance Fee Cumulative]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Fund Ltd" OperationType="Save"
+		ParameterName="Closing NAV" Rule="New Rule" TestcaseName="Sancus_TC20"
+		parameterID="CLO0162" />
+	<parameter
+		Attributes="[Period To Date Total P&amp;L Allocation Amount],+,[Performance Fee for the period],+,[Management Fee]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Master Fund Ltd" OperationType="Save"
+		ParameterName="Net Performance Period to Date" Rule="New Rule"
+		TestcaseName="Sancus_TC21" parameterID="NET0163" />
+	<parameter
+		Attributes="[Period To Date Total P&amp;L Allocation Amount],+,[Performance Fee for the period],+,[Management Fee]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Fund Ltd" OperationType="Save"
+		ParameterName="Net Performance Period to Date" Rule="New Rule"
+		TestcaseName="Sancus_TC22" parameterID="NET0164" />
+	<parameter
+		Attributes="[Period To Date Total P&amp;L Allocation Amount],+,[Performance Fee for the period],+,[Management Fee]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Partners LP" OperationType="Save"
+		ParameterName="Net Performance Period to Date" Rule="New Rule"
+		TestcaseName="Sancus_TC23" parameterID="NET0165" />
+	<parameter
+		Attributes="[Closing NAV Per Unit],+,[Subscription],-,[Redemption],+,[Transfer],-,[Performance Fee Carry Forward]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Partners LP" OperationType="Save"
+		ParameterName="Opening Adjusted GAV" Rule="New Rule" TestcaseName="Sancus_TC24"
+		parameterID="OPE0166" />
+	<parameter
+		Attributes="[Closing NAV Per Unit],+,[Subscription],-,[Redemption],+,[Transfer],-,[Performance Fee Carry Forward]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Fund Ltd" OperationType="Save"
+		ParameterName="Opening Adjusted GAV" Rule="New Rule" TestcaseName="Sancus_TC25"
+		parameterID="OPE0167" />
+	<parameter Attributes="[Opening Adjusted GAV]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Master Fund Ltd" OperationType="Save"
+		ParameterName="Capital For P&amp;L Allocation" Rule="New Rule"
+		TestcaseName="Sancus_TC26" parameterID="CAP0168" />
+	<parameter Attributes="[Opening Adjusted GAV]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Partners LP" OperationType="Save"
+		ParameterName="Capital For P&amp;L Allocation" Rule="New Rule"
+		TestcaseName="Sancus_TC27" parameterID="CAP0169" />
+	<parameter Attributes="[Opening Adjusted GAV]"
+		CheckerOperations="Approve" ClientName="Sancus" EffectiveStartDate="01/01/2013"
+		ExecutionStatus="Y" ExpectedResults="Pass"
+		ExpectedResultsAfterCheckerOperations="Pass" FundFamilyName="SANCUS CAPITAL MANAGEMENT"
+		LegalEntityName="Sancus Capital Select Fund Ltd" OperationType="Save"
+		ParameterName="Capital For P&amp;L Allocation" Rule="New Rule"
+		TestcaseName="Sancus_TC28" parameterID="CAP0170" />
+</parameters>

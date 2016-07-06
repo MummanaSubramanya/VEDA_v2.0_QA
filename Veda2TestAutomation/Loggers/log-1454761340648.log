@@ -1,0 +1,52 @@
+2016-02-06 17:52:26 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-06 17:52:26 INFO  Elements:47 - The textveda.maker has been inputted successfully.
+2016-02-06 17:52:26 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-06 17:52:26 INFO  Elements:47 - The textViteos321 has been inputted successfully.
+2016-02-06 17:52:29 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-06 17:52:29 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-06 17:52:32 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-02-06 17:52:32 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-02-06 17:52:32 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-02-06 17:52:32 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-02-06 17:52:32 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'] is visible after waiting.
+2016-02-06 17:52:33 INFO  Elements:94 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open']//a[normalize-space(text())='Subscription'] has been clicked successfully
+2016-02-06 17:52:33 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Subscription'] is visible after waiting.
+2016-02-06 17:52:57 INFO  Wait:39 - element By.xpath: //label[@for='isInvestorFund'] is visible after waiting.
+2016-02-06 17:53:13 INFO  Verify:35 - Element By.id: investorCompleteName is present in DOM
+2016-02-06 17:53:13 WARN  Elements:174 - The element By.id: investorCompleteName has value 'ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO' for attribute value
+2016-02-06 17:53:23 INFO  Verify:35 - Element By.id: holderCompleteName is present in DOM
+2016-02-06 17:53:23 WARN  Elements:174 - The element By.id: holderCompleteName has value 'ENTITY_TYPE_INVESTOR_SAMEHOLDER_NO_HOLDERTYPE_ENTITY' for attribute value
+2016-02-06 17:53:30 INFO  Elements:94 - The element By.xpath: //div[@id='s2id_cmbBaseCurrency']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-06 17:53:30 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='United States Dollar'] is visible after waiting.
+2016-02-06 17:53:30 INFO  Elements:94 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='United States Dollar'] has been clicked successfully
+2016-02-06 17:53:36 INFO  Verify:23 - Element By.id: beneficiaryBankName is visible
+2016-02-06 17:53:36 INFO  Elements:47 - The textHDFC has been inputted successfully.
+2016-02-06 17:53:38 INFO  Elements:94 - The element By.xpath: //div[@id='s2id_beneficiaryFkCountryIdPK.countryIdPk']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-02-06 17:53:38 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='India'] is visible after waiting.
+2016-02-06 17:53:39 INFO  Elements:94 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())='India'] has been clicked successfully
+2016-02-06 17:53:41 INFO  Verify:23 - Element By.id: beneficiaryBranchName is visible
+2016-02-06 17:53:41 INFO  Elements:47 - The textDSNR has been inputted successfully.
+2016-02-06 17:53:45 INFO  Verify:23 - Element By.id: beneficiaryBankAddress1 is visible
+2016-02-06 17:53:45 INFO  Elements:47 - The texthyderabad has been inputted successfully.
+2016-02-06 17:53:48 INFO  Verify:23 - Element By.id: beneficiaryBankZipCode is visible
+2016-02-06 17:53:49 INFO  Elements:47 - The text500035 has been inputted successfully.
+2016-02-06 17:53:50 INFO  Verify:23 - Element By.id: beneficiaryBankState is visible
+2016-02-06 17:53:50 INFO  Elements:47 - The textTelangana has been inputted successfully.
+2016-02-06 17:53:53 INFO  Verify:23 - Element By.id: beneficiarySwiftCode is visible
+2016-02-06 17:53:53 INFO  Elements:47 - The text123456 has been inputted successfully.
+2016-02-06 17:53:56 INFO  Verify:23 - Element By.id: beneficiaryChipsCode is visible
+2016-02-06 17:53:56 INFO  Elements:47 - The text6789 has been inputted successfully.
+2016-02-06 17:53:58 INFO  Verify:23 - Element By.id: beneficiaryOtherBankCode is visible
+2016-02-06 17:53:58 INFO  Elements:47 - The text1234566 has been inputted successfully.
+2016-02-06 17:54:13 INFO  Verify:23 - Element By.id: beneficiaryAccountName is visible
+2016-02-06 17:54:14 INFO  Elements:47 - The textSrikanth has been inputted successfully.
+2016-02-06 17:54:15 INFO  Verify:23 - Element By.id: beneficiaryAccountNo is visible
+2016-02-06 17:54:15 INFO  Elements:47 - The text1234567899 has been inputted successfully.
+2016-02-06 17:54:17 INFO  Verify:23 - Element By.id: ffcAccountName is visible
+2016-02-06 17:54:17 INFO  Elements:47 - The textabcde has been inputted successfully.
+2016-02-06 17:54:20 INFO  Verify:23 - Element By.id: ffcAccountNo is visible
+2016-02-06 17:54:20 INFO  Elements:47 - The text1234567899 has been inputted successfully.
+2016-02-06 17:54:23 INFO  Verify:23 - Element By.id: referenceId is visible
+2016-02-06 17:54:23 INFO  Elements:47 - The text5678 has been inputted successfully.
+2016-02-06 17:54:25 INFO  Verify:23 - Element By.id: comments is visible
+2016-02-06 17:54:26 INFO  Elements:47 - The textNew Bank Created for TC01 has been inputted successfully.

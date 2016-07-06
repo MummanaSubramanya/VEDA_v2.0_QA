@@ -1,0 +1,360 @@
+2016-02-19 16:33:43 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-19 16:33:43 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-02-19 16:33:43 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-19 16:33:44 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-02-19 16:33:57 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-19 16:33:57 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-19 16:34:15 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible after waiting.
+2016-02-19 16:34:16 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 16:34:16 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 16:34:16 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 16:34:17 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-02-19 16:34:20 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='User - Role'] has been clicked successfully
+2016-02-19 16:34:23 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='User'] is visible after waiting.
+2016-02-19 16:34:32 INFO  Wait:23 - element By.xpath: //div[@id='createUserLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:34:33 INFO  Wait:23 - element By.xpath: //div[@id='createRoleLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:34:33 INFO  Wait:23 - element By.xpath: //div[@id='createGroupLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:34:42 INFO  Wait:39 - element By.xpath: //li[text()='Role'] is visible after waiting.
+2016-02-19 16:34:43 INFO  Wait:39 - element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible after waiting.
+2016-02-19 16:34:43 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible
+2016-02-19 16:34:43 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is 62
+2016-02-19 16:34:43 WARN  Verify:27 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4604_11086}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e751dd0afea1fd2e78e1d9ad30ad3870
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 16:34:43 WARN  Elements:202 - The text from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4604_11086}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e751dd0afea1fd2e78e1d9ad30ad3870
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 16:34:43 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is visible
+2016-02-19 16:34:43 WARN  Elements:198 - The text   DashBoard from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is retrieved
+2016-02-19 16:34:44 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1] has been clicked successfully
+2016-02-19 16:34:44 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[2]//input has been clicked successfully
+2016-02-19 16:34:44 INFO  Verify:35 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[2]//input is present in DOM
+2016-02-19 16:34:44 WARN  Elements:177 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[2]//input has no attribute disabled
+2016-02-19 16:34:45 INFO  Wait:39 - element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible after waiting.
+2016-02-19 16:34:45 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible
+2016-02-19 16:34:45 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is 62
+2016-02-19 16:34:46 WARN  Verify:27 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4604_11086}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e751dd0afea1fd2e78e1d9ad30ad3870
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 16:34:46 WARN  Elements:202 - The text from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1] cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir4604_11086}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e751dd0afea1fd2e78e1d9ad30ad3870
+*** Element info: {Using=xpath, value=//div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[0]/td[1]}
+2016-02-19 16:34:46 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is visible
+2016-02-19 16:34:46 WARN  Elements:198 - The text   DashBoard from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is retrieved
+2016-02-19 16:34:46 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is visible
+2016-02-19 16:34:46 WARN  Elements:198 - The text   Client from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is retrieved
+2016-02-19 16:34:46 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is visible
+2016-02-19 16:34:46 WARN  Elements:198 - The text   Fund Family from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is retrieved
+2016-02-19 16:34:46 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3] has been clicked successfully
+2016-02-19 16:34:47 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[2]//input has been clicked successfully
+2016-02-19 16:34:47 INFO  Verify:35 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[2]//input is present in DOM
+2016-02-19 16:34:47 WARN  Elements:177 - The element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[2]//input has no attribute disabled
+2016-02-19 16:35:01 INFO  Elements:100 - The element By.xpath: //div[@id='roleAddDiv' and contains(@style , 'display: block')]//button[contains(normalize-space(),'Save')] has been clicked successfully
+2016-02-19 16:35:03 INFO  Wait:23 - element By.xpath: //body[@class='page-header-fixed page-quick-sidebar-over-content page-sidebar-closed'] is present after waiting.
+2016-02-19 16:35:03 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-02-19 16:35:03 INFO  Elements:100 - The element By.xpath: //div[@class='alert alert-success']//button has been clicked successfully
+2016-02-19 16:35:10 INFO  Wait:23 - element By.xpath: //div[@id='createUserLoader' and contains(@style , 'display: none')] is present after waiting.
+2016-02-19 16:35:10 INFO  Wait:23 - element By.xpath: //div[@id='createRoleLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:35:11 INFO  Wait:23 - element By.xpath: //div[@id='createGroupLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:35:11 INFO  Wait:39 - element By.xpath: //li[text()='Role'] is visible after waiting.
+2016-02-19 16:35:11 INFO  Wait:39 - element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible after waiting.
+2016-02-19 16:35:11 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible
+2016-02-19 16:35:11 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is 62
+2016-02-19 16:35:11 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is visible
+2016-02-19 16:35:11 WARN  Elements:198 - The text   DashBoard from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is retrieved
+2016-02-19 16:35:12 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is visible
+2016-02-19 16:35:12 WARN  Elements:198 - The text   Client from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is retrieved
+2016-02-19 16:35:12 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is visible
+2016-02-19 16:35:12 WARN  Elements:198 - The text   Fund Family from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is retrieved
+2016-02-19 16:35:13 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[4]/td[1] is visible
+2016-02-19 16:35:13 WARN  Elements:198 - The text   Legal Entity from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[4]/td[1] is retrieved
+2016-02-19 16:35:13 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[5]/td[1] is visible
+2016-02-19 16:35:14 WARN  Elements:198 - The text   Class from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[5]/td[1] is retrieved
+2016-02-19 16:35:14 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[6]/td[1] is visible
+2016-02-19 16:35:14 WARN  Elements:198 - The text   Hierarchy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[6]/td[1] is retrieved
+2016-02-19 16:35:15 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[7]/td[1] is visible
+2016-02-19 16:35:15 WARN  Elements:198 - The text   Administration Location from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[7]/td[1] is retrieved
+2016-02-19 16:35:15 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[8]/td[1] is visible
+2016-02-19 16:35:15 WARN  Elements:198 - The text   Custodian Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[8]/td[1] is retrieved
+2016-02-19 16:35:16 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[9]/td[1] is visible
+2016-02-19 16:35:16 WARN  Elements:198 - The text   Custodian Account from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[9]/td[1] is retrieved
+2016-02-19 16:35:16 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[10]/td[1] is visible
+2016-02-19 16:35:16 WARN  Elements:198 - The text   Proof Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[10]/td[1] is retrieved
+2016-02-19 16:35:17 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[11]/td[1] is visible
+2016-02-19 16:35:17 WARN  Elements:198 - The text   Geneva Account Head from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[11]/td[1] is retrieved
+2016-02-19 16:35:18 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[12]/td[1] is visible
+2016-02-19 16:35:18 WARN  Elements:198 - The text   Geneva Account Type from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[12]/td[1] is retrieved
+2016-02-19 16:35:18 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[13]/td[1] is visible
+2016-02-19 16:35:19 WARN  Elements:198 - The text   Designation from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[13]/td[1] is retrieved
+2016-02-19 16:35:19 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[14]/td[1] is visible
+2016-02-19 16:35:19 WARN  Elements:198 - The text   Index Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[14]/td[1] is retrieved
+2016-02-19 16:35:20 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[15]/td[1] is visible
+2016-02-19 16:35:20 WARN  Elements:198 - The text   Index Value Mapping from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[15]/td[1] is retrieved
+2016-02-19 16:35:21 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[16]/td[1] is visible
+2016-02-19 16:35:21 WARN  Elements:198 - The text   Strategy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[16]/td[1] is retrieved
+2016-02-19 16:35:22 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[17]/td[1] is visible
+2016-02-19 16:35:22 WARN  Elements:198 - The text   Formula from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[17]/td[1] is retrieved
+2016-02-19 16:35:22 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[18]/td[1] is visible
+2016-02-19 16:35:23 WARN  Elements:198 - The text   Currency from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[18]/td[1] is retrieved
+2016-02-19 16:35:23 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[19]/td[1] is visible
+2016-02-19 16:35:23 WARN  Elements:198 - The text   Country from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[19]/td[1] is retrieved
+2016-02-19 16:35:24 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[20]/td[1] is visible
+2016-02-19 16:35:24 WARN  Elements:198 - The text   Parameter from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[20]/td[1] is retrieved
+2016-02-19 16:35:25 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[21]/td[1] is visible
+2016-02-19 16:35:25 WARN  Elements:198 - The text   Master Dashboard Maker from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[21]/td[1] is retrieved
+2016-02-19 16:35:26 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[22]/td[1] is visible
+2016-02-19 16:35:26 WARN  Elements:198 - The text   Master Dasjboard Checker from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[22]/td[1] is retrieved
+2016-02-19 16:35:27 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[23]/td[1] is visible
+2016-02-19 16:35:27 WARN  Elements:198 - The text   Investor from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[23]/td[1] is retrieved
+2016-02-19 16:35:28 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[24]/td[1] is visible
+2016-02-19 16:35:28 WARN  Elements:198 - The text   Investor Holder from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[24]/td[1] is retrieved
+2016-02-19 16:35:28 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[25]/td[1] is visible
+2016-02-19 16:35:29 WARN  Elements:198 - The text   Investor Account from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[25]/td[1] is retrieved
+2016-02-19 16:35:29 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[1] is visible
+2016-02-19 16:35:29 WARN  Elements:198 - The text   Subscription from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[1] is retrieved
+2016-02-19 16:35:30 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27]/td[1] is visible
+2016-02-19 16:35:30 WARN  Elements:198 - The text   Redemption from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27]/td[1] is retrieved
+2016-02-19 16:35:31 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[28]/td[1] is visible
+2016-02-19 16:35:31 WARN  Elements:198 - The text   Transfer from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[28]/td[1] is retrieved
+2016-02-19 16:35:32 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[29]/td[1] is visible
+2016-02-19 16:35:32 WARN  Elements:198 - The text   Investor Joint Holder from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[29]/td[1] is retrieved
+2016-02-19 16:35:33 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[30]/td[1] is visible
+2016-02-19 16:35:33 WARN  Elements:198 - The text   Opening Balance from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[30]/td[1] is retrieved
+2016-02-19 16:35:34 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[31]/td[1] is visible
+2016-02-19 16:35:34 WARN  Elements:198 - The text   KYC Document Proof from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[31]/td[1] is retrieved
+2016-02-19 16:35:35 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[32]/td[1] is visible
+2016-02-19 16:35:35 WARN  Elements:198 - The text   Fee Distribution from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[32]/td[1] is retrieved
+2016-02-19 16:35:36 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[33]/td[1] is visible
+2016-02-19 16:35:36 WARN  Elements:198 - The text   Switch from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[33]/td[1] is retrieved
+2016-02-19 16:35:37 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[34]/td[1] is visible
+2016-02-19 16:35:37 WARN  Elements:198 - The text   Exchange from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[34]/td[1] is retrieved
+2016-02-19 16:35:38 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[35]/td[1] is visible
+2016-02-19 16:35:38 WARN  Elements:198 - The text   Allocation from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[35]/td[1] is retrieved
+2016-02-19 16:35:39 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[36]/td[1] is visible
+2016-02-19 16:35:39 WARN  Elements:198 - The text   Management Fee from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[36]/td[1] is retrieved
+2016-02-19 16:35:40 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[37]/td[1] is visible
+2016-02-19 16:35:40 WARN  Elements:198 - The text   Incentive Fee from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[37]/td[1] is retrieved
+2016-02-19 16:35:41 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[38]/td[1] is visible
+2016-02-19 16:35:42 WARN  Elements:198 - The text   Bank Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[38]/td[1] is retrieved
+2016-02-19 16:35:42 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[39]/td[1] is visible
+2016-02-19 16:35:43 WARN  Elements:198 - The text   Trade from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[39]/td[1] is retrieved
+2016-02-19 16:35:44 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[40]/td[1] is visible
+2016-02-19 16:35:44 WARN  Elements:198 - The text   Feeder Subscription from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[40]/td[1] is retrieved
+2016-02-19 16:35:45 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[41]/td[1] is visible
+2016-02-19 16:35:45 WARN  Elements:198 - The text   Feeder Redemption from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[41]/td[1] is retrieved
+2016-02-19 16:35:46 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[42]/td[1] is visible
+2016-02-19 16:35:46 WARN  Elements:198 - The text   P&L Head from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[42]/td[1] is retrieved
+2016-02-19 16:35:48 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[43]/td[1] is visible
+2016-02-19 16:35:48 WARN  Elements:198 - The text   P&L Head Mapping from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[43]/td[1] is retrieved
+2016-02-19 16:35:49 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[44]/td[1] is visible
+2016-02-19 16:35:49 WARN  Elements:198 - The text   P&L Type from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[44]/td[1] is retrieved
+2016-02-19 16:35:50 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[45]/td[1] is visible
+2016-02-19 16:35:50 WARN  Elements:198 - The text   P&L Conventions from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[45]/td[1] is retrieved
+2016-02-19 16:35:52 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[46]/td[1] is visible
+2016-02-19 16:35:52 WARN  Elements:198 - The text   P&L Group from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[46]/td[1] is retrieved
+2016-02-19 16:35:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[47]/td[1] is visible
+2016-02-19 16:35:53 WARN  Elements:198 - The text   Series from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[47]/td[1] is retrieved
+2016-02-19 16:35:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[48]/td[1] is visible
+2016-02-19 16:35:55 WARN  Elements:198 - The text   Break Period from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[48]/td[1] is retrieved
+2016-02-19 16:35:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[49]/td[1] is visible
+2016-02-19 16:35:56 WARN  Elements:198 - The text   FINRA Rule 5131 from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[49]/td[1] is retrieved
+2016-02-19 16:35:57 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[50]/td[1] is visible
+2016-02-19 16:35:57 WARN  Elements:198 - The text   KYC Template from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[50]/td[1] is retrieved
+2016-02-19 16:35:58 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[51]/td[1] is visible
+2016-02-19 16:35:59 WARN  Elements:198 - The text   Side Pocket Subscription from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[51]/td[1] is retrieved
+2016-02-19 16:36:00 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[52]/td[1] is visible
+2016-02-19 16:36:00 WARN  Elements:198 - The text   Holiday Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[52]/td[1] is retrieved
+2016-02-19 16:36:01 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[53]/td[1] is visible
+2016-02-19 16:36:01 WARN  Elements:198 - The text   Side Pocket Redemption from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[53]/td[1] is retrieved
+2016-02-19 16:36:02 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[54]/td[1] is visible
+2016-02-19 16:36:02 WARN  Elements:198 - The text   Related Party from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[54]/td[1] is retrieved
+2016-02-19 16:36:03 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[55]/td[1] is visible
+2016-02-19 16:36:03 WARN  Elements:198 - The text   RP Distribution from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[55]/td[1] is retrieved
+2016-02-19 16:36:04 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[56]/td[1] is visible
+2016-02-19 16:36:04 WARN  Elements:198 - The text   Investor Inquiry from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[56]/td[1] is retrieved
+2016-02-19 16:36:05 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[57]/td[1] is visible
+2016-02-19 16:36:05 WARN  Elements:198 - The text   CAD from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[57]/td[1] is retrieved
+2016-02-19 16:36:06 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[58]/td[1] is visible
+2016-02-19 16:36:07 WARN  Elements:198 - The text   Investor Report from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[58]/td[1] is retrieved
+2016-02-19 16:36:07 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[59]/td[1] is visible
+2016-02-19 16:36:08 WARN  Elements:198 - The text   Payment Schedule from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[59]/td[1] is retrieved
+2016-02-19 16:36:09 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[60]/td[1] is visible
+2016-02-19 16:36:09 WARN  Elements:198 - The text   Other Report from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[60]/td[1] is retrieved
+2016-02-19 16:36:10 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[61]/td[1] is visible
+2016-02-19 16:36:10 WARN  Elements:198 - The text   Holding Summary from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[61]/td[1] is retrieved
+2016-02-19 16:36:11 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[62]/td[1] is visible
+2016-02-19 16:36:11 WARN  Elements:198 - The text   Fund Hierarchy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[62]/td[1] is retrieved
+2016-02-19 16:36:25 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible after waiting.
+2016-02-19 16:36:25 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible
+2016-02-19 16:36:25 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] is visible and can be used
+2016-02-19 16:36:25 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')] has been performed successfully.
+2016-02-19 16:36:25 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-02-19 16:36:27 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'USER')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='User - Role'] has been clicked successfully
+2016-02-19 16:36:27 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='User'] is visible after waiting.
+2016-02-19 16:36:33 INFO  Wait:23 - element By.xpath: //div[@id='createUserLoader' and contains(@style , 'display: none')] is present after waiting.
+2016-02-19 16:36:33 INFO  Wait:23 - element By.xpath: //div[@id='createRoleLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:36:34 INFO  Wait:23 - element By.xpath: //div[@id='createGroupLoader' and contains(@style ,'display: none')] is present after waiting.
+2016-02-19 16:36:39 INFO  Wait:39 - element By.xpath: //li[text()='Role'] is visible after waiting.
+2016-02-19 16:36:41 INFO  Wait:39 - element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible after waiting.
+2016-02-19 16:36:41 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is visible
+2016-02-19 16:36:41 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr is 62
+2016-02-19 16:36:41 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is visible
+2016-02-19 16:36:41 WARN  Elements:198 - The text   DashBoard from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[1]/td[1] is retrieved
+2016-02-19 16:36:42 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is visible
+2016-02-19 16:36:42 WARN  Elements:198 - The text   Client from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[2]/td[1] is retrieved
+2016-02-19 16:36:42 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is visible
+2016-02-19 16:36:42 WARN  Elements:198 - The text   Fund Family from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[3]/td[1] is retrieved
+2016-02-19 16:36:43 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[4]/td[1] is visible
+2016-02-19 16:36:43 WARN  Elements:198 - The text   Legal Entity from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[4]/td[1] is retrieved
+2016-02-19 16:36:44 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[5]/td[1] is visible
+2016-02-19 16:36:44 WARN  Elements:198 - The text   Class from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[5]/td[1] is retrieved
+2016-02-19 16:36:44 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[6]/td[1] is visible
+2016-02-19 16:36:44 WARN  Elements:198 - The text   Hierarchy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[6]/td[1] is retrieved
+2016-02-19 16:36:45 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[7]/td[1] is visible
+2016-02-19 16:36:45 WARN  Elements:198 - The text   Administration Location from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[7]/td[1] is retrieved
+2016-02-19 16:36:45 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[8]/td[1] is visible
+2016-02-19 16:36:45 WARN  Elements:198 - The text   Custodian Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[8]/td[1] is retrieved
+2016-02-19 16:36:46 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[9]/td[1] is visible
+2016-02-19 16:36:46 WARN  Elements:198 - The text   Custodian Account from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[9]/td[1] is retrieved
+2016-02-19 16:36:46 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[10]/td[1] is visible
+2016-02-19 16:36:47 WARN  Elements:198 - The text   Proof Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[10]/td[1] is retrieved
+2016-02-19 16:36:47 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[11]/td[1] is visible
+2016-02-19 16:36:47 WARN  Elements:198 - The text   Geneva Account Head from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[11]/td[1] is retrieved
+2016-02-19 16:36:48 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[12]/td[1] is visible
+2016-02-19 16:36:48 WARN  Elements:198 - The text   Geneva Account Type from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[12]/td[1] is retrieved
+2016-02-19 16:36:49 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[13]/td[1] is visible
+2016-02-19 16:36:49 WARN  Elements:198 - The text   Designation from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[13]/td[1] is retrieved
+2016-02-19 16:36:49 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[14]/td[1] is visible
+2016-02-19 16:36:49 WARN  Elements:198 - The text   Index Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[14]/td[1] is retrieved
+2016-02-19 16:36:50 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[15]/td[1] is visible
+2016-02-19 16:36:50 WARN  Elements:198 - The text   Index Value Mapping from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[15]/td[1] is retrieved
+2016-02-19 16:36:51 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[16]/td[1] is visible
+2016-02-19 16:36:51 WARN  Elements:198 - The text   Strategy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[16]/td[1] is retrieved
+2016-02-19 16:36:52 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[17]/td[1] is visible
+2016-02-19 16:36:52 WARN  Elements:198 - The text   Formula from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[17]/td[1] is retrieved
+2016-02-19 16:36:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[18]/td[1] is visible
+2016-02-19 16:36:53 WARN  Elements:198 - The text   Currency from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[18]/td[1] is retrieved
+2016-02-19 16:36:53 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[19]/td[1] is visible
+2016-02-19 16:36:54 WARN  Elements:198 - The text   Country from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[19]/td[1] is retrieved
+2016-02-19 16:36:54 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[20]/td[1] is visible
+2016-02-19 16:36:54 WARN  Elements:198 - The text   Parameter from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[20]/td[1] is retrieved
+2016-02-19 16:36:55 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[21]/td[1] is visible
+2016-02-19 16:36:55 WARN  Elements:198 - The text   Master Dashboard Maker from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[21]/td[1] is retrieved
+2016-02-19 16:36:56 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[22]/td[1] is visible
+2016-02-19 16:36:56 WARN  Elements:198 - The text   Master Dasjboard Checker from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[22]/td[1] is retrieved
+2016-02-19 16:36:57 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[23]/td[1] is visible
+2016-02-19 16:36:57 WARN  Elements:198 - The text   Investor from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[23]/td[1] is retrieved
+2016-02-19 16:36:58 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[24]/td[1] is visible
+2016-02-19 16:36:58 WARN  Elements:198 - The text   Investor Holder from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[24]/td[1] is retrieved
+2016-02-19 16:36:59 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[25]/td[1] is visible
+2016-02-19 16:36:59 WARN  Elements:198 - The text   Investor Account from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[25]/td[1] is retrieved
+2016-02-19 16:36:59 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[1] is visible
+2016-02-19 16:36:59 WARN  Elements:198 - The text   Subscription from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[26]/td[1] is retrieved
+2016-02-19 16:37:00 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27]/td[1] is visible
+2016-02-19 16:37:00 WARN  Elements:198 - The text   Redemption from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[27]/td[1] is retrieved
+2016-02-19 16:37:01 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[28]/td[1] is visible
+2016-02-19 16:37:01 WARN  Elements:198 - The text   Transfer from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[28]/td[1] is retrieved
+2016-02-19 16:37:02 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[29]/td[1] is visible
+2016-02-19 16:37:02 WARN  Elements:198 - The text   Investor Joint Holder from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[29]/td[1] is retrieved
+2016-02-19 16:37:03 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[30]/td[1] is visible
+2016-02-19 16:37:03 WARN  Elements:198 - The text   Opening Balance from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[30]/td[1] is retrieved
+2016-02-19 16:37:04 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[31]/td[1] is visible
+2016-02-19 16:37:04 WARN  Elements:198 - The text   KYC Document Proof from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[31]/td[1] is retrieved
+2016-02-19 16:37:05 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[32]/td[1] is visible
+2016-02-19 16:37:05 WARN  Elements:198 - The text   Fee Distribution from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[32]/td[1] is retrieved
+2016-02-19 16:37:06 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[33]/td[1] is visible
+2016-02-19 16:37:06 WARN  Elements:198 - The text   Switch from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[33]/td[1] is retrieved
+2016-02-19 16:37:07 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[34]/td[1] is visible
+2016-02-19 16:37:07 WARN  Elements:198 - The text   Exchange from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[34]/td[1] is retrieved
+2016-02-19 16:37:08 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[35]/td[1] is visible
+2016-02-19 16:37:08 WARN  Elements:198 - The text   Allocation from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[35]/td[1] is retrieved
+2016-02-19 16:37:09 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[36]/td[1] is visible
+2016-02-19 16:37:09 WARN  Elements:198 - The text   Management Fee from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[36]/td[1] is retrieved
+2016-02-19 16:37:10 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[37]/td[1] is visible
+2016-02-19 16:37:10 WARN  Elements:198 - The text   Incentive Fee from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[37]/td[1] is retrieved
+2016-02-19 16:37:11 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[38]/td[1] is visible
+2016-02-19 16:37:12 WARN  Elements:198 - The text   Bank Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[38]/td[1] is retrieved
+2016-02-19 16:37:12 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[39]/td[1] is visible
+2016-02-19 16:37:13 WARN  Elements:198 - The text   Trade from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[39]/td[1] is retrieved
+2016-02-19 16:37:14 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[40]/td[1] is visible
+2016-02-19 16:37:14 WARN  Elements:198 - The text   Feeder Subscription from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[40]/td[1] is retrieved
+2016-02-19 16:37:15 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[41]/td[1] is visible
+2016-02-19 16:37:15 WARN  Elements:198 - The text   Feeder Redemption from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[41]/td[1] is retrieved
+2016-02-19 16:37:16 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[42]/td[1] is visible
+2016-02-19 16:37:16 WARN  Elements:198 - The text   P&L Head from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[42]/td[1] is retrieved
+2016-02-19 16:37:18 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[43]/td[1] is visible
+2016-02-19 16:37:18 WARN  Elements:198 - The text   P&L Head Mapping from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[43]/td[1] is retrieved
+2016-02-19 16:37:19 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[44]/td[1] is visible
+2016-02-19 16:37:19 WARN  Elements:198 - The text   P&L Type from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[44]/td[1] is retrieved
+2016-02-19 16:37:20 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[45]/td[1] is visible
+2016-02-19 16:37:20 WARN  Elements:198 - The text   P&L Conventions from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[45]/td[1] is retrieved
+2016-02-19 16:37:22 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[46]/td[1] is visible
+2016-02-19 16:37:22 WARN  Elements:198 - The text   P&L Group from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[46]/td[1] is retrieved
+2016-02-19 16:37:23 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[47]/td[1] is visible
+2016-02-19 16:37:23 WARN  Elements:198 - The text   Series from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[47]/td[1] is retrieved
+2016-02-19 16:37:24 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[48]/td[1] is visible
+2016-02-19 16:37:24 WARN  Elements:198 - The text   Break Period from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[48]/td[1] is retrieved
+2016-02-19 16:37:26 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[49]/td[1] is visible
+2016-02-19 16:37:26 WARN  Elements:198 - The text   FINRA Rule 5131 from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[49]/td[1] is retrieved
+2016-02-19 16:37:27 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[50]/td[1] is visible
+2016-02-19 16:37:27 WARN  Elements:198 - The text   KYC Template from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[50]/td[1] is retrieved
+2016-02-19 16:37:28 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[51]/td[1] is visible
+2016-02-19 16:37:28 WARN  Elements:198 - The text   Side Pocket Subscription from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[51]/td[1] is retrieved
+2016-02-19 16:37:30 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[52]/td[1] is visible
+2016-02-19 16:37:30 WARN  Elements:198 - The text   Holiday Master from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[52]/td[1] is retrieved
+2016-02-19 16:37:31 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[53]/td[1] is visible
+2016-02-19 16:37:31 WARN  Elements:198 - The text   Side Pocket Redemption from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[53]/td[1] is retrieved
+2016-02-19 16:37:32 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[54]/td[1] is visible
+2016-02-19 16:37:32 WARN  Elements:198 - The text   Related Party from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[54]/td[1] is retrieved
+2016-02-19 16:37:33 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[55]/td[1] is visible
+2016-02-19 16:37:33 WARN  Elements:198 - The text   RP Distribution from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[55]/td[1] is retrieved
+2016-02-19 16:37:34 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[56]/td[1] is visible
+2016-02-19 16:37:34 WARN  Elements:198 - The text   Investor Inquiry from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[56]/td[1] is retrieved
+2016-02-19 16:37:35 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[57]/td[1] is visible
+2016-02-19 16:37:35 WARN  Elements:198 - The text   CAD from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[57]/td[1] is retrieved
+2016-02-19 16:37:36 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[58]/td[1] is visible
+2016-02-19 16:37:36 WARN  Elements:198 - The text   Investor Report from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[58]/td[1] is retrieved
+2016-02-19 16:37:37 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[59]/td[1] is visible
+2016-02-19 16:37:38 WARN  Elements:198 - The text   Payment Schedule from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[59]/td[1] is retrieved
+2016-02-19 16:37:38 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[60]/td[1] is visible
+2016-02-19 16:37:39 WARN  Elements:198 - The text   Other Report from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[60]/td[1] is retrieved
+2016-02-19 16:37:40 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[61]/td[1] is visible
+2016-02-19 16:37:40 WARN  Elements:198 - The text   Holding Summary from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[61]/td[1] is retrieved
+2016-02-19 16:37:41 INFO  Verify:23 - Element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[62]/td[1] is visible
+2016-02-19 16:37:41 WARN  Elements:198 - The text   Fund Hierarchy from the element By.xpath: //div[@id='roleAddDiv']/div[@id='dataDiv']/table/tbody/tr[62]/td[1] is retrieved
+2016-02-19 16:39:13 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-02-19 16:39:13 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-02-19 16:39:13 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-02-19 16:39:13 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

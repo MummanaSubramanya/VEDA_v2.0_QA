@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Result.xsl"?><TestSuite EndTime="06-10-2016 14:30:16" StartTime="06-10-2016 14:30:02" TF="1" TP="0" TotalTestCases="1"><Functionality name="Comparison Reports"><TestScript EndTime="06-10-2016 14:30:16" StartTime="06-10-2016 14:30:02" TC_Status="Fail" name="SomerSet_TC1"><Iterator no="0"><step no="1"><status>Pass</status><stepname>Comparison of EDS_Report for Series:Series 5/10</stepname><Description>Successful to Compare EDS Reports
+</Description><screenshot/><timestamp>06-10-2016 14:30:02</timestamp></step><step no="2"><status>Fail</status><stepname>Comparison of EDS_Report for Series:Series 6/14</stepname><Description>Failed to Compare EDS Reports
+[Error: Unable to compare the values for Series: Series 6/14]
+[Error: Unable to compare the values for Series: Series 6/14]
+[Error: Unable to compare the values for Series: Series 6/14]
+[Error: Unable to compare the values for Series: Series 6/14]
+[Error: Unable to compare the values for Series: Series 6/14]
+[Error: Unable to compare the values for Series: Series 6/14]
+[Error: Unable to compare the values for Series: Series 6/14]
+[Error: Unable to compare the values for Series: Series 6/14]
+[Error: Unable to compare the values for Series: Series 6/14]
+[Error: Unable to compare the values for Series: Series 6/14]
+</Description><screenshot>..\screenshots\ScreenShot_06-10-2016143002.png</screenshot><timestamp>06-10-2016 14:30:06</timestamp></step><step no="3"><status>Pass</status><stepname>Comparison of EDS_Report for Series:Series 6/14</stepname><Description>Successful to Compare EDS Reports
+</Description><screenshot/><timestamp>06-10-2016 14:30:06</timestamp></step><step no="4"><status>Fail</status><stepname>Comparison of EDS_Report for Series:Series 8/14</stepname><Description>Failed to Compare EDS Reports
+[Error: Unable to compare the values for Series: Series 8/14]
+[Error: Unable to compare the values for Series: Series 8/14]
+[Error: Unable to compare the values for Series: Series 8/14]
+[Error: Unable to compare the values for Series: Series 8/14]
+[Error: Unable to compare the values for Series: Series 8/14]
+[Error: Unable to compare the values for Series: Series 8/14]
+[Error: Unable to compare the values for Series: Series 8/14]
+[Error: Unable to compare the values for Series: Series 8/14]
+[Error: Unable to compare the values for Series: Series 8/14]
+[Error: Unable to compare the values for Series: Series 8/14]
+</Description><screenshot>..\screenshots\ScreenShot_06-10-2016143006.png</screenshot><timestamp>06-10-2016 14:30:09</timestamp></step><step no="5"><status>Pass</status><stepname>Comparison of EDS_Report for Series:Series 8/14</stepname><Description>Successful to Compare EDS Reports
+</Description><screenshot/><timestamp>06-10-2016 14:30:09</timestamp></step><step no="6"><status>Fail</status><stepname>Comparison of EDS_Report for Series:Series 9/12</stepname><Description>Failed to Compare EDS Reports
+[Error: Unable to compare the values for Series: Series 9/12]
+[Error: Unable to compare the values for Series: Series 9/12]
+[Error: Unable to compare the values for Series: Series 9/12]
+[Error: Unable to compare the values for Series: Series 9/12]
+[Error: Unable to compare the values for Series: Series 9/12]
+[Error: Unable to compare the values for Series: Series 9/12]
+[Error: Unable to compare the values for Series: Series 9/12]
+[Error: Unable to compare the values for Series: Series 9/12]
+[Error: Unable to compare the values for Series: Series 9/12]
+[Error: Unable to compare the values for Series: Series 9/12]
+</Description><screenshot>..\screenshots\ScreenShot_06-10-2016143009.png</screenshot><timestamp>06-10-2016 14:30:12</timestamp></step><step no="7"><status>Pass</status><stepname>Comparison of EDS_Report for Series:Series 9/12</stepname><Description>Successful to Compare EDS Reports
+</Description><screenshot/><timestamp>06-10-2016 14:30:12</timestamp></step><step no="8"><status>Pass</status><stepname>Creation of New EDS Comparision Report in Excel in the Path: ComparisonReportsResultsInExcelFormat</stepname><Description>Successfully created New Excel File Report</Description><screenshot/><timestamp>06-10-2016 14:30:12</timestamp></step><step no="9"><status>Fail</status><stepname>Compaison of Fund Wise EDS Reports: </stepname><Description>Actual Fund Wise EDS Report is Not matching with the Expected Fund wise EDS Report</Description><screenshot>..\screenshots\ScreenShot_06-10-2016143012.png</screenshot><timestamp>06-10-2016 14:30:16</timestamp></step></Iterator></TestScript></Functionality></TestSuite>

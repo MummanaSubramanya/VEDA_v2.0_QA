@@ -1,0 +1,332 @@
+2016-05-10 21:59:02 INFO  Verify:23 - Element By.id: j_username is visible
+2016-05-10 21:59:02 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-05-10 21:59:02 INFO  Verify:23 - Element By.id: j_password is visible
+2016-05-10 21:59:02 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-05-10 21:59:04 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-05-10 21:59:04 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-05-10 21:59:06 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-05-10 21:59:06 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-05-10 21:59:07 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-05-10 21:59:07 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-05-10 21:59:08 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-05-10 21:59:08 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-05-10 21:59:08 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-05-10 21:59:08 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-05-10 21:59:08 INFO  Elements:48 - The textAthena Stonehorse Fund, Ltd has been inputted successfully.
+2016-05-10 21:59:08 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()="Athena Stonehorse Fund, Ltd"] is visible after waiting.
+2016-05-10 21:59:09 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-05-10 21:59:11 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[contains(@onclick,'javascript') and normalize-space()='Approve'] has been clicked successfully
+2016-05-10 21:59:11 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 21:59:13 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-05-10 21:59:13 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-05-10 21:59:14 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-05-10 21:59:14 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-05-10 21:59:14 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-05-10 21:59:14 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-05-10 21:59:14 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-05-10 21:59:14 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-05-10 21:59:14 INFO  Elements:48 - The textAlternative Investments Institutional Master Fund, Ltd has been inputted successfully.
+2016-05-10 21:59:14 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()="Alternative Investments Institutional Master Fund, Ltd"] is visible after waiting.
+2016-05-10 21:59:15 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-05-10 21:59:17 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[contains(@onclick,'javascript') and normalize-space()='Approve'] has been clicked successfully
+2016-05-10 21:59:17 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 21:59:19 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-05-10 21:59:19 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-05-10 21:59:20 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-05-10 21:59:20 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-05-10 21:59:20 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-05-10 21:59:20 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-05-10 21:59:20 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-05-10 21:59:20 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-05-10 21:59:20 INFO  Elements:48 - The textBarfield Nominees Limited AC 16604 has been inputted successfully.
+2016-05-10 21:59:20 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()="Barfield Nominees Limited AC 16604"] is visible after waiting.
+2016-05-10 21:59:21 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-05-10 21:59:23 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[contains(@onclick,'javascript') and normalize-space()='Approve'] has been clicked successfully
+2016-05-10 21:59:23 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 21:59:25 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-05-10 21:59:25 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-05-10 21:59:26 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-05-10 21:59:26 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-05-10 21:59:26 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-05-10 21:59:26 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-05-10 21:59:26 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-05-10 21:59:26 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-05-10 21:59:26 INFO  Elements:48 - The textNTC & Co FBO: Ross Arnold Stramler has been inputted successfully.
+2016-05-10 21:59:26 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()="NTC & Co FBO: Ross Arnold Stramler"] is visible after waiting.
+2016-05-10 21:59:27 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-05-10 21:59:29 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[contains(@onclick,'javascript') and normalize-space()='Approve'] has been clicked successfully
+2016-05-10 21:59:29 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 21:59:31 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-05-10 21:59:31 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-05-10 21:59:32 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-05-10 21:59:32 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-05-10 21:59:32 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-05-10 21:59:32 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-05-10 21:59:32 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-05-10 21:59:32 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-05-10 21:59:32 INFO  Elements:48 - The textNTC & Co TTEE FBO:Daniel Tai Yin Ling has been inputted successfully.
+2016-05-10 21:59:32 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] is visible after waiting.
+2016-05-10 21:59:33 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-05-10 21:59:34 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[contains(@onclick,'javascript') and normalize-space()='Approve'] has been clicked successfully
+2016-05-10 21:59:34 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 21:59:37 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-05-10 21:59:37 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-05-10 21:59:37 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-05-10 21:59:38 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-05-10 21:59:38 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-05-10 21:59:38 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-05-10 21:59:38 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-05-10 21:59:38 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-05-10 21:59:38 INFO  Elements:48 - The textDeutsche Bank (Cayman) Limited has been inputted successfully.
+2016-05-10 21:59:38 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()="Deutsche Bank (Cayman) Limited"] is visible after waiting.
+2016-05-10 21:59:39 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-05-10 21:59:40 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[contains(@onclick,'javascript') and normalize-space()='Approve'] has been clicked successfully
+2016-05-10 21:59:40 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 21:59:43 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-05-10 21:59:43 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-05-10 21:59:44 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-05-10 21:59:44 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-05-10 21:59:44 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-05-10 21:59:44 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-05-10 21:59:44 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-05-10 21:59:44 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-05-10 21:59:44 INFO  Elements:48 - The textJP Morgan Chase Bank NA has been inputted successfully.
+2016-05-10 21:59:44 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()="JP Morgan Chase Bank NA"] is visible after waiting.
+2016-05-10 21:59:45 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-05-10 21:59:47 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[contains(@onclick,'javascript') and normalize-space()='Approve'] has been clicked successfully
+2016-05-10 21:59:47 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 21:59:49 INFO  Wait:39 - element By.xpath: //i[contains(@class, 'icon-home')] is visible after waiting.
+2016-05-10 21:59:49 INFO  Verify:23 - Element By.xpath: //i[contains(@class, 'icon-home')] is visible
+2016-05-10 21:59:50 INFO  Elements:87 - The button By.xpath: //i[contains(@class, 'icon-home')] has been clicked successfully
+2016-05-10 21:59:50 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Masters')] has been clicked successfully
+2016-05-10 21:59:50 INFO  Wait:39 - element By.xpath: //a[@href='#masters_1'] is visible after waiting.
+2016-05-10 21:59:50 INFO  Elements:100 - The element By.xpath: //a[@href='#masters_1'] has been clicked successfully
+2016-05-10 21:59:50 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible after waiting.
+2016-05-10 21:59:50 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridMastersToOperate']/div/div[2]//input is visible
+2016-05-10 21:59:51 INFO  Elements:48 - The textRady Children's Hospital and Health Center has been inputted successfully.
+2016-05-10 21:59:51 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridMastersToOperate']//div[text()="Rady Children's Hospital and Health Center"] is visible after waiting.
+2016-05-10 21:59:51 INFO  Wait:39 - element By.xpath: //strong[text()='General Details' or text()='Class Details'] is visible after waiting.
+2016-05-10 21:59:53 INFO  Elements:100 - The element By.xpath: //div[contains(@class,'form-actions')]//button[contains(@onclick,'javascript') and normalize-space()='Approve'] has been clicked successfully
+2016-05-10 21:59:53 INFO  Wait:39 - element By.xpath: //div[@class='alert alert-success'] is visible after waiting.
+2016-05-10 21:59:53 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 21:59:53 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 21:59:53 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 21:59:53 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 21:59:53 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 21:59:54 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Investor'] has been clicked successfully
+2016-05-10 21:59:54 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Investor'] is visible after waiting.
+2016-05-10 21:59:54 INFO  Wait:39 - element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] is visible after waiting.
+2016-05-10 21:59:54 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:04 WARN  Wait:43 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] is not present after waiting 10 secs.
+2016-05-10 22:00:05 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:05 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] is visible after waiting.
+2016-05-10 22:00:05 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] has been clicked successfully
+2016-05-10 22:00:05 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:05 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:05 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] is visible after waiting.
+2016-05-10 22:00:05 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] has been clicked successfully
+2016-05-10 22:00:05 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-search']//parent::button is visible after waiting.
+2016-05-10 22:00:06 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-search']//parent::button has been clicked successfully
+2016-05-10 22:00:06 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div[1] is visible after waiting.
+2016-05-10 22:00:06 INFO  Wait:39 - element By.xpath: //div[@id='columntablejqxgridsearchInvestor'] is visible after waiting.
+2016-05-10 22:00:06 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is visible
+2016-05-10 22:00:06 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is 6
+2016-05-10 22:00:06 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is visible
+2016-05-10 22:00:06 WARN  Elements:198 - The text Investor Name from the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is retrieved
+2016-05-10 22:00:06 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:06 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridsearchInvestor']/div/div[1]//input is visible
+2016-05-10 22:00:06 INFO  Elements:48 - The textRady Children's Hospital and Health Center has been inputted successfully.
+2016-05-10 22:00:08 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div/div[1]/div[normalize-space(text())="Rady Children's Hospital and Health Center"] is visible after waiting.
+2016-05-10 22:00:08 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:00:08 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:00:08 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:00:08 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:00:08 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:00:09 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Investor'] has been clicked successfully
+2016-05-10 22:00:09 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Investor'] is visible after waiting.
+2016-05-10 22:00:09 INFO  Wait:39 - element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] is visible after waiting.
+2016-05-10 22:00:09 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:09 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Deutsche Bank (Cayman) Limited" or text()="Deutsche Bank (Cayman) Limited"] is visible after waiting.
+2016-05-10 22:00:09 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Deutsche Bank (Cayman) Limited" or text()="Deutsche Bank (Cayman) Limited"] has been clicked successfully
+2016-05-10 22:00:09 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:09 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:09 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] is visible after waiting.
+2016-05-10 22:00:09 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] has been clicked successfully
+2016-05-10 22:00:09 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-search']//parent::button is visible after waiting.
+2016-05-10 22:00:10 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-search']//parent::button has been clicked successfully
+2016-05-10 22:00:10 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div[1] is visible after waiting.
+2016-05-10 22:00:10 INFO  Wait:39 - element By.xpath: //div[@id='columntablejqxgridsearchInvestor'] is visible after waiting.
+2016-05-10 22:00:10 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is visible
+2016-05-10 22:00:10 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is 6
+2016-05-10 22:00:10 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is visible
+2016-05-10 22:00:10 WARN  Elements:198 - The text Investor Name from the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is retrieved
+2016-05-10 22:00:10 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:10 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridsearchInvestor']/div/div[1]//input is visible
+2016-05-10 22:00:10 INFO  Elements:48 - The textDeutsche Bank (Cayman) Limited has been inputted successfully.
+2016-05-10 22:00:12 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div/div[1]/div[normalize-space(text())="Deutsche Bank (Cayman) Limited"] is visible after waiting.
+2016-05-10 22:00:12 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:00:12 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:00:12 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:00:12 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:00:12 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:00:13 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Investor'] has been clicked successfully
+2016-05-10 22:00:13 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Investor'] is visible after waiting.
+2016-05-10 22:00:13 INFO  Wait:39 - element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] is visible after waiting.
+2016-05-10 22:00:13 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:13 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="JP Morgan Chase Bank NA" or text()="JP Morgan Chase Bank NA"] is visible after waiting.
+2016-05-10 22:00:13 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="JP Morgan Chase Bank NA" or text()="JP Morgan Chase Bank NA"] has been clicked successfully
+2016-05-10 22:00:13 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:13 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:13 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] is visible after waiting.
+2016-05-10 22:00:13 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] has been clicked successfully
+2016-05-10 22:00:13 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-search']//parent::button is visible after waiting.
+2016-05-10 22:00:14 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-search']//parent::button has been clicked successfully
+2016-05-10 22:00:14 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div[1] is visible after waiting.
+2016-05-10 22:00:14 INFO  Wait:39 - element By.xpath: //div[@id='columntablejqxgridsearchInvestor'] is visible after waiting.
+2016-05-10 22:00:14 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is visible
+2016-05-10 22:00:14 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is 6
+2016-05-10 22:00:14 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is visible
+2016-05-10 22:00:14 WARN  Elements:198 - The text Investor Name from the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is retrieved
+2016-05-10 22:00:14 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:14 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridsearchInvestor']/div/div[1]//input is visible
+2016-05-10 22:00:14 INFO  Elements:48 - The textJP Morgan Chase Bank NA has been inputted successfully.
+2016-05-10 22:00:16 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div/div[1]/div[normalize-space(text())="JP Morgan Chase Bank NA"] is visible after waiting.
+2016-05-10 22:00:16 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:00:16 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:00:16 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:00:16 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:00:16 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:00:17 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Investor'] has been clicked successfully
+2016-05-10 22:00:17 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Investor'] is visible after waiting.
+2016-05-10 22:00:17 INFO  Wait:39 - element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] is visible after waiting.
+2016-05-10 22:00:17 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:17 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co FBO: Ross Arnold Stramler" or text()="NTC & Co FBO: Ross Arnold Stramler"] is visible after waiting.
+2016-05-10 22:00:17 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co FBO: Ross Arnold Stramler" or text()="NTC & Co FBO: Ross Arnold Stramler"] has been clicked successfully
+2016-05-10 22:00:17 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:17 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:17 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] is visible after waiting.
+2016-05-10 22:00:17 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] has been clicked successfully
+2016-05-10 22:00:17 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-search']//parent::button is visible after waiting.
+2016-05-10 22:00:18 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-search']//parent::button has been clicked successfully
+2016-05-10 22:00:18 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div[1] is visible after waiting.
+2016-05-10 22:00:18 INFO  Wait:39 - element By.xpath: //div[@id='columntablejqxgridsearchInvestor'] is visible after waiting.
+2016-05-10 22:00:18 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is visible
+2016-05-10 22:00:18 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is 6
+2016-05-10 22:00:18 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is visible
+2016-05-10 22:00:18 WARN  Elements:198 - The text Investor Name from the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is retrieved
+2016-05-10 22:00:18 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:18 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridsearchInvestor']/div/div[1]//input is visible
+2016-05-10 22:00:18 INFO  Elements:48 - The textNTC & Co FBO: Ross Arnold Stramler has been inputted successfully.
+2016-05-10 22:00:20 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div/div[1]/div[normalize-space(text())="NTC & Co FBO: Ross Arnold Stramler"] is visible after waiting.
+2016-05-10 22:00:20 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:00:20 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:00:20 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:00:20 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:00:20 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:00:21 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Investor'] has been clicked successfully
+2016-05-10 22:00:21 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Investor'] is visible after waiting.
+2016-05-10 22:00:21 INFO  Wait:39 - element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] is visible after waiting.
+2016-05-10 22:00:21 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:21 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] is visible after waiting.
+2016-05-10 22:00:21 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling" or text()="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] has been clicked successfully
+2016-05-10 22:00:21 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:21 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:21 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] is visible after waiting.
+2016-05-10 22:00:21 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] has been clicked successfully
+2016-05-10 22:00:21 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-search']//parent::button is visible after waiting.
+2016-05-10 22:00:22 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-search']//parent::button has been clicked successfully
+2016-05-10 22:00:22 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div[1] is visible after waiting.
+2016-05-10 22:00:22 INFO  Wait:39 - element By.xpath: //div[@id='columntablejqxgridsearchInvestor'] is visible after waiting.
+2016-05-10 22:00:22 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is visible
+2016-05-10 22:00:22 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is 6
+2016-05-10 22:00:22 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is visible
+2016-05-10 22:00:22 WARN  Elements:198 - The text Investor Name from the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is retrieved
+2016-05-10 22:00:22 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:22 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridsearchInvestor']/div/div[1]//input is visible
+2016-05-10 22:00:22 INFO  Elements:48 - The textNTC & Co TTEE FBO:Daniel Tai Yin Ling has been inputted successfully.
+2016-05-10 22:00:24 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div/div[1]/div[normalize-space(text())="NTC & Co TTEE FBO:Daniel Tai Yin Ling"] is visible after waiting.
+2016-05-10 22:00:24 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:00:24 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:00:24 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:00:24 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:00:24 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:00:25 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Investor'] has been clicked successfully
+2016-05-10 22:00:25 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Investor'] is visible after waiting.
+2016-05-10 22:00:25 INFO  Wait:39 - element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] is visible after waiting.
+2016-05-10 22:00:25 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:25 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments Institutional Master Fund, Ltd" or text()="Alternative Investments Institutional Master Fund, Ltd"] is visible after waiting.
+2016-05-10 22:00:25 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Alternative Investments Institutional Master Fund, Ltd" or text()="Alternative Investments Institutional Master Fund, Ltd"] has been clicked successfully
+2016-05-10 22:00:25 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:25 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:25 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] is visible after waiting.
+2016-05-10 22:00:25 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] has been clicked successfully
+2016-05-10 22:00:25 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-search']//parent::button is visible after waiting.
+2016-05-10 22:00:26 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-search']//parent::button has been clicked successfully
+2016-05-10 22:00:26 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div[1] is visible after waiting.
+2016-05-10 22:00:26 INFO  Wait:39 - element By.xpath: //div[@id='columntablejqxgridsearchInvestor'] is visible after waiting.
+2016-05-10 22:00:26 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is visible
+2016-05-10 22:00:26 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is 6
+2016-05-10 22:00:26 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is visible
+2016-05-10 22:00:26 WARN  Elements:198 - The text Investor Name from the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is retrieved
+2016-05-10 22:00:26 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:26 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridsearchInvestor']/div/div[1]//input is visible
+2016-05-10 22:00:26 INFO  Elements:48 - The textAlternative Investments Institutional Master Fund, Ltd has been inputted successfully.
+2016-05-10 22:00:28 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div/div[1]/div[normalize-space(text())="Alternative Investments Institutional Master Fund, Ltd"] is visible after waiting.
+2016-05-10 22:00:28 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:00:28 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:00:28 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:00:29 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:00:29 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:00:29 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Investor'] has been clicked successfully
+2016-05-10 22:00:29 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Investor'] is visible after waiting.
+2016-05-10 22:00:29 INFO  Wait:39 - element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] is visible after waiting.
+2016-05-10 22:00:29 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:29 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Barfield Nominees Limited AC 16604" or text()="Barfield Nominees Limited AC 16604"] is visible after waiting.
+2016-05-10 22:00:29 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Barfield Nominees Limited AC 16604" or text()="Barfield Nominees Limited AC 16604"] has been clicked successfully
+2016-05-10 22:00:29 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:29 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:29 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] is visible after waiting.
+2016-05-10 22:00:29 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] has been clicked successfully
+2016-05-10 22:00:29 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-search']//parent::button is visible after waiting.
+2016-05-10 22:00:30 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-search']//parent::button has been clicked successfully
+2016-05-10 22:00:30 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div[1] is visible after waiting.
+2016-05-10 22:00:30 INFO  Wait:39 - element By.xpath: //div[@id='columntablejqxgridsearchInvestor'] is visible after waiting.
+2016-05-10 22:00:30 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is visible
+2016-05-10 22:00:30 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is 6
+2016-05-10 22:00:30 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is visible
+2016-05-10 22:00:30 WARN  Elements:198 - The text Investor Name from the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is retrieved
+2016-05-10 22:00:30 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:30 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridsearchInvestor']/div/div[1]//input is visible
+2016-05-10 22:00:30 INFO  Elements:48 - The textBarfield Nominees Limited AC 16604 has been inputted successfully.
+2016-05-10 22:00:32 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div/div[1]/div[normalize-space(text())="Barfield Nominees Limited AC 16604"] is visible after waiting.
+2016-05-10 22:00:33 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible after waiting.
+2016-05-10 22:00:33 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible
+2016-05-10 22:00:33 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] is visible and can be used
+2016-05-10 22:00:33 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')] has been performed successfully.
+2016-05-10 22:00:33 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-05-10 22:00:33 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'INVESTOR SETUP')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Investor'] has been clicked successfully
+2016-05-10 22:00:33 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Investor'] is visible after waiting.
+2016-05-10 22:00:33 INFO  Wait:39 - element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] is visible after waiting.
+2016-05-10 22:00:33 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Investor Name']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:33 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] is visible after waiting.
+2016-05-10 22:00:33 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Athena Stonehorse Fund, Ltd" or text()="Athena Stonehorse Fund, Ltd"] has been clicked successfully
+2016-05-10 22:00:33 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:33 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Status']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-05-10 22:00:33 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] is visible after waiting.
+2016-05-10 22:00:33 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="active" or text()="active"] has been clicked successfully
+2016-05-10 22:00:33 INFO  Wait:39 - element By.xpath: //em[@class='fa fa-search']//parent::button is visible after waiting.
+2016-05-10 22:00:34 INFO  Elements:100 - The element By.xpath: //em[@class='fa fa-search']//parent::button has been clicked successfully
+2016-05-10 22:00:34 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div[1] is visible after waiting.
+2016-05-10 22:00:34 INFO  Wait:39 - element By.xpath: //div[@id='columntablejqxgridsearchInvestor'] is visible after waiting.
+2016-05-10 22:00:34 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is visible
+2016-05-10 22:00:34 INFO  Elements:31 - The xpath count of the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div is 6
+2016-05-10 22:00:34 INFO  Verify:23 - Element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is visible
+2016-05-10 22:00:34 WARN  Elements:198 - The text Investor Name from the element By.xpath: //div[@id='columntablejqxgridsearchInvestor']/div[1]/div/div/span is retrieved
+2016-05-10 22:00:34 INFO  Elements:100 - The element By.xpath: //div[@class='caption']/span[contains(text(),'Search panel')] has been clicked successfully
+2016-05-10 22:00:34 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridsearchInvestor']/div/div[1]//input is visible
+2016-05-10 22:00:34 INFO  Elements:48 - The textAthena Stonehorse Fund, Ltd has been inputted successfully.
+2016-05-10 22:00:36 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridsearchInvestor']/div/div[1]/div[normalize-space(text())="Athena Stonehorse Fund, Ltd"] is visible after waiting.
+2016-05-10 22:00:38 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-05-10 22:00:38 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-05-10 22:00:38 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-05-10 22:00:38 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

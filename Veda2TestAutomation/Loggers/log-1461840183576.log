@@ -1,0 +1,261 @@
+2016-04-28 16:13:08 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-28 16:13:08 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-04-28 16:13:08 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-28 16:13:08 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-28 16:13:10 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-28 16:13:10 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-28 16:13:12 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible after waiting.
+2016-04-28 16:13:12 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible
+2016-04-28 16:13:12 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] is visible and can be used
+2016-04-28 16:13:12 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')] has been performed successfully.
+2016-04-28 16:13:12 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-04-28 16:13:13 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'TRADES')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Transfer'] has been clicked successfully
+2016-04-28 16:13:13 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Transfer'] is visible after waiting.
+2016-04-28 16:13:13 INFO  Wait:39 - element By.xpath: //input[@id='requestDate'] is visible after waiting.
+2016-04-28 16:13:14 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:14 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:14 INFO  Elements:100 - The element By.xpath: //label[normalize-space(text())='Mode of Request']/following-sibling::div//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-28 16:13:14 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Email" or text()="Email"] is visible after waiting.
+2016-04-28 16:13:15 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Email" or text()="Email"] has been clicked successfully
+2016-04-28 16:13:15 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:15 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:15 INFO  Elements:100 - The element By.xpath: //div[contains(@id, 's2id_fromInvestorId')]//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-28 16:13:15 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] is visible after waiting.
+2016-04-28 16:13:15 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] has been clicked successfully
+2016-04-28 16:13:15 WARN  Elements:106 - The element By.xpath: //div[contains(@id, 's2id_fromHolderId')]//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (409, 404). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:17 WARN  Elements:106 - The element By.xpath: //div[contains(@id, 's2id_fromHolderId')]//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (401, 404). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:19 INFO  Elements:100 - The element By.xpath: //div[contains(@id, 's2id_fromHolderId')]//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-28 16:13:19 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] is visible after waiting.
+2016-04-28 16:13:19 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Rady Children's Hospital and Health Center" or text()="Rady Children's Hospital and Health Center"] has been clicked successfully
+2016-04-28 16:13:19 INFO  Elements:100 - The element By.xpath: //div[contains(@id, 's2id_fromAccountId')]//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-28 16:13:19 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="AC0928" or text()="AC0928"] is visible after waiting.
+2016-04-28 16:13:19 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="AC0928" or text()="AC0928"] has been clicked successfully
+2016-04-28 16:13:19 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:20 INFO  Elements:100 - The element By.xpath: //div[contains(@id, 's2id_investorNameDropdown')]//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-28 16:13:20 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mt. Tam Partners, LP" or text()="Mt. Tam Partners, LP"] is visible after waiting.
+2016-04-28 16:13:20 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mt. Tam Partners, LP" or text()="Mt. Tam Partners, LP"] has been clicked successfully
+2016-04-28 16:13:20 WARN  Elements:106 - The element By.xpath: //div[contains(@id, 's2id_holderNameDropdown')]//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (997, 404). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:22 INFO  Elements:100 - The element By.xpath: //div[contains(@id, 's2id_holderNameDropdown')]//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-28 16:13:22 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mt. Tam Partners, LP" or text()="Mt. Tam Partners, LP"] is visible after waiting.
+2016-04-28 16:13:22 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Mt. Tam Partners, LP" or text()="Mt. Tam Partners, LP"] has been clicked successfully
+2016-04-28 16:13:22 WARN  Elements:106 - The element By.xpath: //div[@id='s2id_accountNameDropdown']//span[contains(@id,'select2-chosen')] cannot be clicked because unknown error: Element is not clickable at point (997, 481). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:24 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_accountNameDropdown']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-04-28 16:13:24 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="AC0932" or text()="AC0932"] is visible after waiting.
+2016-04-28 16:13:24 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="AC0932" or text()="AC0932"] has been clicked successfully
+2016-04-28 16:13:26 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:26 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Client Name']/following::div[@id='s2id_cmbClientName'] has been clicked successfully
+2016-04-28 16:13:26 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital" or text()="Connective Capital"] is visible after waiting.
+2016-04-28 16:13:26 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital" or text()="Connective Capital"] has been clicked successfully
+2016-04-28 16:13:27 WARN  Elements:106 - The element By.xpath: //label[normalize-space()='Fund Family Name']/following::div[@id='s2id_cmbFundFamilyName'] cannot be clicked because unknown error: Element is not clickable at point (443, 595). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:29 WARN  Elements:106 - The element By.xpath: //label[normalize-space()='Fund Family Name']/following::div[@id='s2id_cmbFundFamilyName'] cannot be clicked because unknown error: Element is not clickable at point (443, 595). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 28 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:31 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Fund Family Name']/following::div[@id='s2id_cmbFundFamilyName'] has been clicked successfully
+2016-04-28 16:13:31 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital I Master Fund Ltd" or text()="Connective Capital I Master Fund Ltd"] is visible after waiting.
+2016-04-28 16:13:31 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital I Master Fund Ltd" or text()="Connective Capital I Master Fund Ltd"] has been clicked successfully
+2016-04-28 16:13:31 WARN  Elements:106 - The element By.xpath: //label[normalize-space()='Legal Entity']/following::div[@id='s2id_cmbFundName'] cannot be clicked because unknown error: Element is not clickable at point (694, 595). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 31 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:33 WARN  Elements:106 - The element By.xpath: //label[normalize-space()='Legal Entity']/following::div[@id='s2id_cmbFundName'] cannot be clicked because unknown error: Element is not clickable at point (694, 595). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 43 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:35 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Legal Entity']/following::div[@id='s2id_cmbFundName'] has been clicked successfully
+2016-04-28 16:13:35 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital I Offshore Fund Ltd" or text()="Connective Capital I Offshore Fund Ltd"] is visible after waiting.
+2016-04-28 16:13:35 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Connective Capital I Offshore Fund Ltd" or text()="Connective Capital I Offshore Fund Ltd"] has been clicked successfully
+2016-04-28 16:13:35 WARN  Elements:106 - The element By.xpath: //h4/p cannot be clicked because unknown error: Element is not clickable at point (742, 71). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:37 WARN  Elements:106 - The element By.xpath: //h4/p cannot be clicked because unknown error: Element is not clickable at point (742, 71). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:39 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:39 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Class']/following::div[@id='s2id_cmbClassName'] has been clicked successfully
+2016-04-28 16:13:40 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Class C" or text()="Class C"] is visible after waiting.
+2016-04-28 16:13:40 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Class C" or text()="Class C"] has been clicked successfully
+2016-04-28 16:13:40 WARN  Elements:106 - The element By.xpath: //label[normalize-space()='Series']/following::div[@id='s2id_cmbSeriesName'] cannot be clicked because unknown error: Element is not clickable at point (1194, 595). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:42 WARN  Elements:106 - The element By.xpath: //label[normalize-space()='Series']/following::div[@id='s2id_cmbSeriesName'] cannot be clicked because unknown error: Element is not clickable at point (1194, 595). Other element would receive the click: <div id="loading-indicator-activity_pane-overlay" class="loading-indicator-overlay" style="width: 100%; height: 795px; left: 0px; position: absolute; top: 0px; z-index: 5000;"></div>
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+2016-04-28 16:13:44 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Series']/following::div[@id='s2id_cmbSeriesName'] has been clicked successfully
+2016-04-28 16:13:44 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Series1112" or text()="Series1112"] is visible after waiting.
+2016-04-28 16:13:44 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="Series1112" or text()="Series1112"] has been clicked successfully
+2016-04-28 16:13:44 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:44 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:45 INFO  Elements:100 - The element By.xpath: //div[@id='uniform-fullTransferNoId'] has been clicked successfully
+2016-04-28 16:13:45 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:45 INFO  Verify:23 - Element By.id: effectiveDate is visible
+2016-04-28 16:13:45 INFO  Elements:48 - The text04/06/2016 has been inputted successfully.
+2016-04-28 16:13:45 INFO  Verify:23 - Element By.xpath: //input[@id='transferPercentage'] is visible
+2016-04-28 16:13:45 INFO  Elements:48 - The text50 has been inputted successfully.
+2016-04-28 16:13:45 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:13:58 INFO  Elements:100 - The element By.xpath: //button[contains(@onclick,'proceedToTaxSlot')] has been clicked successfully
+2016-04-28 16:14:01 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='1']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-28 16:14:01 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='1']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-28 16:14:01 INFO  Verify:35 - Element By.id: requestDate is present in DOM
+2016-04-28 16:14:01 WARN  Elements:180 - The element By.id: requestDate has value '03/15/2016' for attribute value
+2016-04-28 16:14:01 INFO  Verify:35 - Element By.xpath: //input[@id='requestTime'] is present in DOM
+2016-04-28 16:14:01 WARN  Elements:180 - The element By.xpath: //input[@id='requestTime'] has value '1:15 PM' for attribute value
+2016-04-28 16:14:01 INFO  Verify:35 - Element By.xpath: //input[@id='orderRecievedOffice'] is present in DOM
+2016-04-28 16:14:01 WARN  Elements:180 - The element By.xpath: //input[@id='orderRecievedOffice'] has value 'Powai' for attribute value
+2016-04-28 16:14:01 INFO  Verify:23 - Element By.xpath: //div[contains(@id,'modeOfRequest')]//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:01 WARN  Elements:198 - The text Email from the element By.xpath: //div[contains(@id,'modeOfRequest')]//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:04 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='2']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-28 16:14:04 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='2']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-28 16:14:04 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_fromInvestorId']//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:04 WARN  Elements:198 - The text Rady Children's Hospital and Health Center from the element By.xpath: //div[@id='s2id_fromInvestorId']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:04 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_fromHolderId']//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:04 WARN  Elements:198 - The text Rady Children's Hospital and Health Center from the element By.xpath: //div[@id='s2id_fromHolderId']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:04 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_fromAccountId']//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:04 WARN  Elements:198 - The text AC0928 from the element By.xpath: //div[@id='s2id_fromAccountId']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:08 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='3']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-28 16:14:08 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='3']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-28 16:14:08 INFO  Verify:23 - Element By.xpath: //div[contains(@id, 's2id_investorNameDropdown')]//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:08 WARN  Elements:198 - The text Mt. Tam Partners, LP from the element By.xpath: //div[contains(@id, 's2id_investorNameDropdown')]//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:08 INFO  Verify:23 - Element By.xpath: //div[contains(@id, 's2id_holderNameDropdown')]//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:08 WARN  Elements:198 - The text Mt. Tam Partners, LP from the element By.xpath: //div[contains(@id, 's2id_holderNameDropdown')]//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:08 INFO  Verify:23 - Element By.xpath: //div[contains(@id, 's2id_accountNameDropdown')]//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:08 WARN  Elements:198 - The text AC0932 from the element By.xpath: //div[contains(@id, 's2id_accountNameDropdown')]//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:11 WARN  Wait:43 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='4']//..//following-sibling::div//a[@class='expand'] is not present after waiting 3 secs.
+2016-04-28 16:14:11 INFO  Wait:39 - element By.xpath: //span[@class='badge badge-danger' and normalize-space()='4']//..//following-sibling::div//a[@class='collapse'] is visible after waiting.
+2016-04-28 16:14:11 INFO  Wait:39 - element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] is visible after waiting.
+2016-04-28 16:14:11 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:11 WARN  Elements:198 - The text Connective Capital from the element By.xpath: //div[@id='s2id_cmbClientName']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:11 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_cmbFundFamilyName']//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:11 WARN  Elements:198 - The text Connective Capital I Master Fund Ltd from the element By.xpath: //div[@id='s2id_cmbFundFamilyName']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:11 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_cmbFundName']//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:11 WARN  Elements:198 - The text Connective Capital I Offshore Fund Ltd from the element By.xpath: //div[@id='s2id_cmbFundName']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:11 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_cmbClassName']//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:11 WARN  Elements:198 - The text Class C from the element By.xpath: //div[@id='s2id_cmbClassName']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:11 INFO  Verify:23 - Element By.xpath: //div[@id='s2id_cmbSeriesName']//span[contains(@id,'select2-chosen')] is visible
+2016-04-28 16:14:11 WARN  Elements:198 - The text Series1112 from the element By.xpath: //div[@id='s2id_cmbSeriesName']//span[contains(@id,'select2-chosen')] is retrieved
+2016-04-28 16:14:11 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:14:12 INFO  Wait:39 - element By.xpath: //div[@id='uniform-fullTransferNoId']//span[@class='checked'] is visible after waiting.
+2016-04-28 16:14:12 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:14:12 INFO  Wait:39 - element By.xpath: //div[@id='uniform-TORA_radioButton']//span[@class='checked'] is visible after waiting.
+2016-04-28 16:14:12 INFO  Verify:35 - Element By.xpath: //input[@id='effectiveDate'] is present in DOM
+2016-04-28 16:14:12 WARN  Elements:180 - The element By.xpath: //input[@id='effectiveDate'] has value '04/06/2016' for attribute value
+2016-04-28 16:14:12 INFO  Verify:35 - Element By.xpath: //input[@id='transferPercentage'] is present in DOM
+2016-04-28 16:14:12 WARN  Elements:180 - The element By.xpath: //input[@id='transferPercentage'] has value '50.0' for attribute value
+2016-04-28 16:14:12 WARN  Verify:27 - Element By.xpath: //input[@id='navDate']/../label is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='navDate']/../label"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+*** Element info: {Using=xpath, value=//input[@id='navDate']/../label}
+2016-04-28 16:14:12 WARN  Elements:202 - The text from the element By.xpath: //input[@id='navDate']/../label cannot be retrieved because no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='navDate']/../label"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+*** Element info: {Using=xpath, value=//input[@id='navDate']/../label}
+2016-04-28 16:14:12 WARN  Verify:39 - Element By.xpath: //input[@id='navDate' and @value='null']/preceding-sibling::label is not present in DOM because no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='navDate' and @value='null']/preceding-sibling::label"}
+  (Session info: chrome=49.0.2623.112)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9920_1102}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.112, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2036a6b3c17806c5fc643b2459363cdb
+*** Element info: {Using=xpath, value=//input[@id='navDate' and @value='null']/preceding-sibling::label}
+2016-04-28 16:14:12 INFO  Elements:100 - The element By.xpath: //h4/p has been clicked successfully
+2016-04-28 16:14:18 WARN  Wait:93 - Alert is not present after waiting 3 secs.
+2016-04-28 16:14:20 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-04-28 16:14:20 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-04-28 16:14:20 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-04-28 16:14:21 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

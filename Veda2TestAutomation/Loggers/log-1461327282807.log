@@ -1,0 +1,18 @@
+2016-04-22 17:44:48 INFO  Verify:23 - Element By.id: j_username is visible
+2016-04-22 17:44:48 INFO  Elements:48 - The textveda.checker has been inputted successfully.
+2016-04-22 17:44:48 INFO  Verify:23 - Element By.id: j_password is visible
+2016-04-22 17:44:48 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-04-22 17:44:59 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-04-22 17:44:59 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-04-22 17:44:59 INFO  Elements:100 - The element By.xpath: //a[@href='#' and contains(text(),'Transactions')] has been clicked successfully
+2016-04-22 17:44:59 INFO  Elements:100 - The element By.xpath: //a[@href='#tra_1'] has been clicked successfully
+2016-04-22 17:44:59 INFO  Wait:39 - element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible after waiting.
+2016-04-22 17:44:59 INFO  Verify:23 - Element By.xpath: //div[@id='filterrow.jqxgridTransactionToOperate']/div/div[1]//input is visible
+2016-04-22 17:44:59 INFO  Elements:48 - The textTRA0548 has been inputted successfully.
+2016-04-22 17:45:00 INFO  Wait:39 - element By.xpath: //div[@id='contenttablejqxgridTransactionToOperate']/div[1]/div[1]//a[text()='TRA0548'] is visible after waiting.
+2016-04-22 17:45:00 INFO  Wait:39 - element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_SUB']//..//parent::div[@role='row']//a[normalize-space(text())='TRA0548'] is visible after waiting.
+2016-04-22 17:45:31 INFO  Elements:100 - The element By.xpath: //div[@role='gridcell']//div[normalize-space(text())='Transaction_SUB']//..//parent::div[@role='row']//a[normalize-space(text())='TRA0548'] has been clicked successfully
+2016-04-22 17:45:31 INFO  Wait:39 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Request Detail')] is visible after waiting.
+2016-04-22 17:45:31 INFO  Wait:23 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Bank Detail')] is present after waiting.
+2016-04-22 17:45:31 INFO  Wait:39 - element By.xpath: //div[@class='sub-caption' and contains(normalize-space(),'Request Detail')] is visible after waiting.
+2016-04-22 17:47:42 INFO  Elements:100 - The element By.xpath: //div[contains(@class, 'input-group')]/a[contains(@onclick, 'javascript:viewDocuments')] has been clicked successfully

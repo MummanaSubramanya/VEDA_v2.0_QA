@@ -1,0 +1,9 @@
+2016-02-04 16:02:15 INFO  Verify:23 - Element By.id: j_username is visible
+2016-02-04 16:02:16 INFO  Elements:47 - The textveda.checker has been inputted successfully.
+2016-02-04 16:02:16 INFO  Verify:23 - Element By.id: j_password is visible
+2016-02-04 16:02:16 INFO  Elements:47 - The textViteos321 has been inputted successfully.
+2016-02-04 16:02:18 INFO  Elements:94 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-02-04 16:02:18 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-02-04 16:03:15 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] is visible after waiting.
+2016-02-04 16:03:15 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] is visible
+2016-02-04 16:03:19 INFO  Elements:81 - The button By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'Dashboard')] has been clicked successfully

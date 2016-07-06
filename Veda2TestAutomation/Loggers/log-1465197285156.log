@@ -1,0 +1,135 @@
+2016-06-06 12:44:54 INFO  Verify:23 - Element By.id: j_username is visible
+2016-06-06 12:44:54 INFO  Elements:48 - The textveda.maker has been inputted successfully.
+2016-06-06 12:44:54 INFO  Verify:23 - Element By.id: j_password is visible
+2016-06-06 12:44:54 INFO  Elements:48 - The textViteos321 has been inputted successfully.
+2016-06-06 12:44:56 INFO  Elements:100 - The element By.xpath: //button[contains(text(),'Login')] has been clicked successfully
+2016-06-06 12:44:56 INFO  Wait:39 - element By.xpath: //li[@id='header_notification_bar']//following-sibling::li/a is visible after waiting.
+2016-06-06 12:44:57 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'ALLOCATION')] is visible after waiting.
+2016-06-06 12:44:57 INFO  Verify:23 - Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'ALLOCATION')] is visible
+2016-06-06 12:44:57 INFO  Elements:17 - The Element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'ALLOCATION')] is visible and can be used
+2016-06-06 12:44:57 INFO  UserActions:24 - The mouse over operation on By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'ALLOCATION')] has been performed successfully.
+2016-06-06 12:44:57 INFO  Wait:39 - element By.xpath: //ul[@class='nav navbar-nav']//a[contains(text(),'ALLOCATION')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open' or @class='menu-dropdown classic-menu-dropdown active open'] is visible after waiting.
+2016-06-06 12:44:57 INFO  Elements:100 - The element By.xpath: //a[contains(text(),'ALLOCATION')]//parent::li[@class='menu-dropdown classic-menu-dropdown open' or @class='menu-dropdown classic-menu-dropdown  active open'or @class='menu-dropdown classic-menu-dropdown active open']//a[normalize-space(text())='Process'] has been clicked successfully
+2016-06-06 12:44:57 INFO  Wait:39 - element By.xpath: //ul[@class='page-breadcrumb pull-right']/*[text()='Allocation'] is visible after waiting.
+2016-06-06 12:44:57 INFO  Wait:39 - element By.xpath: //p[contains(normalize-space(),'Choose Portfolio')] is visible after waiting.
+2016-06-06 12:45:03 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_client']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-06-06 12:45:03 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="OTF" or text()="OTF"] is visible after waiting.
+2016-06-06 12:45:03 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="OTF" or text()="OTF"] has been clicked successfully
+2016-06-06 12:45:05 INFO  Elements:100 - The element By.xpath: //div[@id='s2id_fundFamilyId']//span[contains(@id,'select2-chosen')] has been clicked successfully
+2016-06-06 12:45:05 INFO  Wait:39 - element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="OTF" or text()="OTF"] is visible after waiting.
+2016-06-06 12:45:05 INFO  Elements:100 - The element By.xpath: //ul[contains(@id,'select2-results')]//li//div[normalize-space(text())="OTF" or text()="OTF"] has been clicked successfully
+2016-06-06 12:45:27 INFO  Verify:35 - Element By.id: clientName is present in DOM
+2016-06-06 12:45:27 WARN  Elements:180 - The element By.id: clientName has value 'OTF' for attribute value
+2016-06-06 12:45:27 INFO  Verify:35 - Element By.id: fundFamilyName is present in DOM
+2016-06-06 12:45:27 WARN  Elements:180 - The element By.id: fundFamilyName has value 'OTF' for attribute value
+2016-06-06 12:45:27 INFO  Verify:23 - Element By.xpath: //tbody//div[contains(@id,'uniform-chk')] is visible
+2016-06-06 12:45:27 INFO  Elements:31 - The xpath count of the element By.xpath: //tbody//div[contains(@id,'uniform-chk')] is 3
+2016-06-06 12:45:27 INFO  Wait:39 - element By.xpath: //input[@id='chkAll']//parent::span[@class='checked'] is visible after waiting.
+2016-06-06 12:45:27 INFO  Elements:100 - The element By.xpath: //input[@id='chkAll']//parent::span[@class='checked'] has been clicked successfully
+2016-06-06 12:45:27 INFO  Elements:100 - The element By.xpath: //label[normalize-space()='Oracle Ten Fund Master L.P.']//parent::td//preceding-sibling::td//span//input has been clicked successfully
+2016-06-06 12:45:27 INFO  Elements:100 - The element By.xpath: //label[normalize-space()="Oracle Ten Fund Master L.P."]//parent::td//following-sibling::td//label[contains(normalize-space(),'Reporting')]//div[contains(@id,'uniform-NavType')] has been clicked successfully
+2016-06-06 12:45:27 INFO  Elements:100 - The element By.xpath: //label[normalize-space()="Oracle Ten Fund Master L.P."]//parent::td//following-sibling::td//label[contains(normalize-space(),'New')]//div[contains(@id,'uniform-brkPeriod')] has been clicked successfully
+2016-06-06 12:45:27 INFO  Verify:23 - Element By.xpath: //label[normalize-space()="Oracle Ten Fund Master L.P."]//parent::td//following-sibling::td//div//input[contains(@id,'brkPeriodDate')] is visible
+2016-06-06 12:45:27 INFO  Elements:48 - The text01/31/2015 has been inputted successfully.
+2016-06-06 12:45:27 INFO  Elements:100 - The element By.xpath: //th[contains(text(),'Break Period Date')] has been clicked successfully
+2016-06-06 12:45:50 INFO  Verify:35 - Element By.id: clientName is present in DOM
+2016-06-06 12:45:50 WARN  Elements:180 - The element By.id: clientName has value 'OTF' for attribute value
+2016-06-06 12:46:04 INFO  Verify:35 - Element By.id: fundFamilyName is present in DOM
+2016-06-06 12:46:04 WARN  Elements:180 - The element By.id: fundFamilyName has value 'OTF' for attribute value
+2016-06-06 12:46:07 INFO  Verify:23 - Element By.xpath: //input[@id='breakPeriodDate']//parent::label is visible
+2016-06-06 12:46:07 WARN  Elements:198 - The text 31-Jan-2015 from the element By.xpath: //input[@id='breakPeriodDate']//parent::label is retrieved
+2016-06-06 12:46:22 INFO  Verify:23 - Element By.xpath: //input[@id='navType']//parent::label is visible
+2016-06-06 12:46:22 WARN  Elements:198 - The text Reporting from the element By.xpath: //input[@id='navType']//parent::label is retrieved
+2016-06-06 12:46:30 INFO  Elements:100 - The element By.xpath: //input[@id='trialBalancesObject.uploadTypeCode1'] has been clicked successfully
+2016-06-06 12:46:36 INFO  Verify:23 - Element By.xpath: //input[@id='fromDate'] is visible
+2016-06-06 12:46:36 INFO  Elements:48 - The text01/01/2015 has been inputted successfully.
+2016-06-06 12:46:52 INFO  Elements:100 - The element By.xpath: //label[normalize-space()="Oracle Ten Fund Master L.P."]//parent::td//following-sibling::td//button[contains(@id,'uploadBtnExcel')] has been clicked successfully
+2016-06-06 12:47:01 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.102)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9528_21935}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.102, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bcde6e4b476625003e7f24537e5c8324
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-06-06 12:47:02 INFO  Elements:100 - The element By.xpath: //th[contains(text(),'Status')] has been clicked successfully
+2016-06-06 12:47:04 INFO  Wait:39 - element By.xpath: //label[normalize-space()="Oracle Ten Fund Master L.P."]//parent::td//following-sibling::td//span[contains(@id,'upExcelMstPndStatus_') and contains(text(),'Uploaded')] is visible after waiting.
+2016-06-06 12:47:07 INFO  Wait:39 - element By.xpath: //label[normalize-space()="Oracle Ten Fund Master L.P."]//parent::td//following-sibling::td//label[contains(@id,'processedBy') and contains(normalize-space(),'VEDA MAKER')] is visible after waiting.
+2016-06-06 12:47:21 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.102)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 66 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9528_21935}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.102, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bcde6e4b476625003e7f24537e5c8324
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-06-06 12:47:21 INFO  Elements:100 - The element By.xpath: //p[contains(normalize-space(),'Special Allocation')] has been clicked successfully
+2016-06-06 12:47:21 INFO  Verify:23 - Element By.xpath: //input[@id='clientName']//parent::label is visible
+2016-06-06 12:47:22 WARN  Elements:198 - The text OTF from the element By.xpath: //input[@id='clientName']//parent::label is retrieved
+2016-06-06 12:47:22 INFO  Verify:23 - Element By.xpath: //input[@id='fundFamilyName']//parent::label is visible
+2016-06-06 12:47:22 WARN  Elements:198 - The text OTF from the element By.xpath: //input[@id='fundFamilyName']//parent::label is retrieved
+2016-06-06 12:47:22 INFO  Verify:23 - Element By.xpath: //label[contains(normalize-space(),'Break Period')]//parent::p//label[2] is visible
+2016-06-06 12:47:22 WARN  Elements:198 - The text 31-Jan-2015 from the element By.xpath: //label[contains(normalize-space(),'Break Period')]//parent::p//label[2] is retrieved
+2016-06-06 12:47:22 INFO  Verify:23 - Element By.xpath: //label[contains(normalize-space(),'NAV Type')]//following-sibling::label is visible
+2016-06-06 12:47:22 WARN  Elements:198 - The text Reporting from the element By.xpath: //label[contains(normalize-space(),'NAV Type')]//following-sibling::label is retrieved
+2016-06-06 12:47:29 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.102)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 41 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9528_21935}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.102, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bcde6e4b476625003e7f24537e5c8324
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-06-06 12:47:29 INFO  Elements:100 - The element By.xpath: //p[contains(normalize-space(),'Hot Issue Allocation')] has been clicked successfully
+2016-06-06 12:47:37 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.102)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9528_21935}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.102, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bcde6e4b476625003e7f24537e5c8324
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-06-06 12:47:38 INFO  Wait:39 - element By.xpath: //h4/p[contains(normalize-space(),'Fee Adjustment')] is visible after waiting.
+2016-06-06 12:47:44 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.102)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 48 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9528_21935}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.102, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bcde6e4b476625003e7f24537e5c8324
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-06-06 12:47:45 INFO  Elements:100 - The element By.xpath: //p[contains(normalize-space(),'Process Allocation')] has been clicked successfully
+2016-06-06 12:48:26 INFO  Elements:100 - The element By.xpath: //div[@id='excelUploadTrialBalDiv']//tbody//tr//td//label[normalize-space()="Oracle Ten Fund Master L.P."]//parent::td//following-sibling::td//button[contains(@onclick,'process')] has been clicked successfully
+2016-06-06 12:48:32 WARN  Verify:27 - Element By.xpath: //div[@id='loading-indicator-activity_pane'] is not visible . Error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='loading-indicator-activity_pane']"}
+  (Session info: chrome=50.0.2661.102)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 61 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'VI-TENXLABS05', ip: '192.168.172.167', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\CONSUL~1\AppData\Local\Temp\scoped_dir9528_21935}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=50.0.2661.102, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bcde6e4b476625003e7f24537e5c8324
+*** Element info: {Using=xpath, value=//div[@id='loading-indicator-activity_pane']}
+2016-06-06 12:48:33 INFO  Wait:39 - element By.xpath: //tr//td//label[normalize-space()="Oracle Ten Fund Master L.P."]//parent::td//following-sibling::td//span[normalize-space()='Processed'] is visible after waiting.
+2016-06-06 12:48:36 INFO  Wait:39 - element By.xpath: //td[normalize-space()="Oracle Ten Fund Master L.P."]//following-sibling::td//label[contains(@id,'processedBy') and contains(normalize-space(),'VEDA MAKER')] is visible after waiting.
+2016-06-06 12:48:54 INFO  Elements:100 - The element By.xpath: //td[normalize-space()="Oracle Ten Fund Master L.P."]//following-sibling::td//a[contains(@onclick,'viewReport')] has been clicked successfully
+2016-06-06 12:49:18 INFO  Verify:23 - Element By.xpath: //li[@class='dropdown dropdown-user'] is visible
+2016-06-06 12:49:18 INFO  Elements:17 - The Element By.xpath: //li[@class='dropdown dropdown-user'] is visible and can be used
+2016-06-06 12:49:18 INFO  UserActions:24 - The mouse over operation on By.xpath: //li[@class='dropdown dropdown-user'] has been performed successfully.
+2016-06-06 12:49:19 INFO  Elements:100 - The element By.xpath: //a[@href='/veda2/veda2/j_spring_security_logout'] has been clicked successfully

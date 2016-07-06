@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagementFeeDetails>
+	<ManagementFee CheckerStatus="Pass" MakerStatus="Pass"
+		ManagementFeeID="MAN0023" TestcaseName="ManagementFeeTestCase1" />
+</ManagementFeeDetails>

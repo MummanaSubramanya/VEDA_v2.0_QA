@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FeederSUBAccountDetails>
+	<FeederSUBAccount AccountID="AC0135" CheckerStatus="Pass"
+		MakerStatus="Pass" SearchID="SER0107" TestcaseName="TradeSearch_FeederSUB_01" />
+	<FeederSUBAccount AccountID="AC0136" CheckerStatus="Pass"
+		MakerStatus="Pass" SearchID="SER0108" TestcaseName="TradeSearch_FeederSUB_02" />
+	<FeederSUBAccount AccountID="AC0332" CheckerStatus="Pass"
+		MakerStatus="Pass" SearchID="BEN0186" TestcaseName="DemoFeederSubscription_01" />
+	<FeederSUBAccount AccountID="AC0333" CheckerStatus="Pass"
+		MakerStatus="Pass" SearchID="BEN0187" TestcaseName="DemoFeederSubscription_02" />
+	<FeederSUBAccount AccountID="AC0343" CheckerStatus="Pass"
+		MakerStatus="Pass" SearchID="BEN0195" TestcaseName="DemoFeederSubscription_03" />
+	<FeederSUBAccount AccountID="AC0352" CheckerStatus="Pass"
+		MakerStatus="Pass" SearchID="BEN0202" TestcaseName="DemoFeederSubscription_04" />
+</FeederSUBAccountDetails>

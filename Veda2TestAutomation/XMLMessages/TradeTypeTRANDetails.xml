@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TradeTypeTRANDetails>
+	<TradeTypeTRAN AccountID="" CheckerStatus="None"
+		MakerStatus="Pass" TestcaseName="Transfer_TC01" TransactionID="TRA0002" />
+</TradeTypeTRANDetails>
